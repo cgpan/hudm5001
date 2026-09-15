@@ -5,7 +5,7 @@ Syllabus version: 08.31.2026
 
 Lecture Times: Tues 11:00 am - 12:40 pm, in-person  
 
-Location: Grace Dodge Hall (GDH) 449  
+Location: Horace Mann (HM) 433  
 
 **Note:** All times mentioned throughout the Canvas site and Syllabus are Eastern Time (US). Syllabus may be subject to change. Any revisions will be announced on Canvas and reflected in the version date above.
 
