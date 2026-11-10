@@ -1,0 +1,2213 @@
+student_id,Course,Daytime/evening attendance	,Age at enrollment,Gender,Scholarship holder,Debtor,Tuition fees up to date,Displaced,Admission grade,Curricular units 1st sem (enrolled),Curricular units 1st sem (evaluations),Curricular units 1st sem (approved),Curricular units 1st sem (grade),Target
+10001,Veterinary Nursing,daytime,24,female,0,0,1,1,114.5,5,6,5,13.0,Graduate
+10004,Social Service (evening attendance),evening,43,female,1,0,1,0,130.0,6,7,5,12.2,Graduate
+10005,Social Service (evening attendance),evening,23,female,0,0,1,1,120.7,6,8,4,11.0,Dropout
+10007,Management,daytime,18,female,0,0,1,1,145.0,5,6,5,13.0,Graduate
+10009,Animation and Multimedia Design,daytime,19,male,1,0,1,1,137.8,0,0,0,0.0,Graduate
+10012,Informatics Engineering,daytime,18,male,1,0,1,1,121.1,5,6,5,13.2,Enrolled
+10014,Communication Design,daytime,20,female,0,0,1,1,136.7,6,6,4,13.5,Graduate
+10015,Communication Design,daytime,20,female,0,0,1,1,163.4,6,7,6,11.5,Graduate
+10019,Animation and Multimedia Design,daytime,19,male,1,0,1,1,128.2,0,0,0,0.0,Graduate
+10020,Journalism and Communication,daytime,18,female,0,0,1,1,135.1,6,7,6,13.5,Graduate
+10021,Management (evening attendance),evening,25,male,0,0,1,1,135.8,15,16,15,10.8,Graduate
+10022,Tourism,daytime,19,male,0,0,0,1,142.5,6,6,6,14.0,Graduate
+10023,Social Service (evening attendance),evening,22,male,0,0,1,1,126.0,6,7,6,12.67,Graduate
+10025,Veterinary Nursing,daytime,22,female,0,0,1,1,130.0,6,12,5,12.8,Enrolled
+10028,Journalism and Communication,daytime,18,female,0,0,1,1,149.2,6,11,4,12.25,Graduate
+10030,Basic Education,daytime,18,female,0,0,1,1,120.0,6,10,3,12.0,Enrolled
+10032,Social Service (evening attendance),evening,22,female,0,0,1,1,103.5,6,7,5,13.4,Graduate
+10033,Social Service,daytime,28,female,0,0,0,1,114.0,6,11,1,13.0,Dropout
+10034,Basic Education,daytime,45,female,0,0,1,0,138.3,7,12,4,10.25,Dropout
+10035,Social Service,daytime,20,female,0,0,1,1,144.4,6,7,6,13.5,Graduate
+10039,Nursing,daytime,20,female,1,0,1,0,108.3,7,14,0,0.0,Enrolled
+10044,Management,daytime,20,female,0,0,1,1,116.5,5,8,4,11.6,Graduate
+10045,Advertising and Marketing Management,daytime,19,male,0,0,0,0,114.6,6,9,4,11.25,Dropout
+10046,Advertising and Marketing Management,daytime,19,male,0,0,1,0,95.0,6,7,0,0.0,Dropout
+10048,Biofuel Production Technologies,daytime,20,male,0,0,1,0,100.0,7,10,7,12.86,Enrolled
+10049,Tourism,daytime,20,female,0,0,1,1,119.9,6,6,6,12.33,Graduate
+10050,Management,daytime,27,female,0,0,1,0,130.0,5,9,3,12.0,Graduate
+10051,Management,daytime,18,male,0,0,1,0,116.2,5,10,0,0.0,Dropout
+10057,Informatics Engineering,daytime,21,male,0,0,1,1,119.4,5,8,0,0.0,Dropout
+10058,Management (evening attendance),evening,28,male,0,0,0,0,130.9,5,5,0,0.0,Dropout
+10059,Nursing,daytime,18,male,0,0,1,1,124.7,7,0,0,0.0,Dropout
+10060,Tourism,daytime,19,male,0,0,1,0,122.1,6,14,3,12.5,Enrolled
+10061,Veterinary Nursing,daytime,19,female,0,0,1,0,143.2,5,7,5,14.4,Graduate
+10064,Journalism and Communication,daytime,22,male,0,0,1,1,126.1,6,10,5,13.4,Enrolled
+10065,Social Service (evening attendance),evening,25,male,0,0,1,1,134.5,14,23,11,11.69,Graduate
+10068,Journalism and Communication,daytime,20,male,0,0,1,1,127.9,6,11,3,13.67,Enrolled
+10071,Advertising and Marketing Management,daytime,21,female,0,0,1,1,116.8,5,8,4,11.5,Graduate
+10072,Social Service,daytime,26,female,0,1,1,0,116.1,6,6,6,14.83,Graduate
+10073,Communication Design,daytime,19,female,0,0,1,1,140.9,6,6,6,14.33,Graduate
+10076,Advertising and Marketing Management,daytime,21,female,1,0,1,0,126.9,5,5,5,13.2,Graduate
+10077,Informatics Engineering,daytime,18,male,0,0,0,1,116.1,5,8,5,12.5,Dropout
+10080,Basic Education,daytime,28,female,0,0,1,0,130.0,15,25,14,12.43,Dropout
+10084,Journalism and Communication,daytime,18,female,0,0,1,1,136.8,6,6,6,14.0,Dropout
+10086,Social Service,daytime,20,male,0,1,0,1,124.6,9,9,3,13.33,Dropout
+10087,Animation and Multimedia Design,daytime,19,female,0,0,0,1,124.0,0,0,0,0.0,Dropout
+10088,Nursing,daytime,19,female,1,0,1,1,119.3,8,8,7,11.4,Graduate
+10089,Social Service,daytime,24,female,0,0,1,1,140.0,6,9,4,15.75,Enrolled
+10090,Social Service (evening attendance),evening,44,female,0,1,0,0,121.0,8,12,4,12.0,Dropout
+10092,Equinculture,daytime,20,female,0,1,0,0,120.0,6,13,3,11.67,Dropout
+10094,Management (evening attendance),evening,35,male,0,1,1,0,150.0,5,6,5,10.8,Dropout
+10096,Advertising and Marketing Management,daytime,53,male,0,1,0,0,170.0,6,11,3,14.33,Dropout
+10097,Management,daytime,26,female,0,0,1,1,130.0,5,5,4,13.0,Enrolled
+10098,Agronomy,daytime,35,female,0,0,0,0,107.5,6,0,0,0.0,Dropout
+10099,Management (evening attendance),evening,40,female,0,0,1,0,147.8,5,9,4,11.25,Enrolled
+10101,Journalism and Communication,daytime,25,male,0,1,1,1,111.8,6,8,6,11.57,Dropout
+10103,Nursing,daytime,18,female,0,0,1,1,129.5,8,8,7,12.32,Graduate
+10105,Journalism and Communication,daytime,20,male,0,0,1,1,123.1,6,12,4,14.75,Graduate
+10107,Animation and Multimedia Design,daytime,19,male,0,0,1,1,136.1,0,0,0,0.0,Graduate
+10109,Veterinary Nursing,daytime,33,male,0,0,1,0,110.3,5,7,4,13.5,Graduate
+10110,Informatics Engineering,daytime,28,male,1,0,1,0,123.0,5,16,3,14.33,Enrolled
+10111,Veterinary Nursing,daytime,19,female,0,0,1,1,170.0,5,5,0,0.0,Enrolled
+10114,Advertising and Marketing Management,daytime,26,male,0,1,0,0,120.0,5,5,0,0.0,Dropout
+10115,Communication Design,daytime,25,male,0,0,1,0,140.0,7,9,6,12.57,Graduate
+10116,Veterinary Nursing,daytime,19,female,0,0,1,1,140.0,6,10,5,12.67,Enrolled
+10120,Nursing,daytime,20,female,1,0,1,1,126.8,8,8,8,14.2,Graduate
+10121,Journalism and Communication,daytime,20,male,0,0,0,0,129.8,6,10,0,0.0,Dropout
+10122,Advertising and Marketing Management,daytime,35,male,0,0,1,0,128.2,5,5,0,0.0,Dropout
+10125,Social Service,daytime,19,female,0,0,1,0,121.0,6,13,3,10.33,Enrolled
+10126,Veterinary Nursing,daytime,21,female,0,1,1,0,130.7,5,9,2,11.5,Enrolled
+10127,Management (evening attendance),evening,31,female,0,1,0,0,121.7,5,7,0,0.0,Dropout
+10128,Informatics Engineering,daytime,33,male,0,0,0,0,130.0,5,6,0,0.0,Dropout
+10130,Communication Design,daytime,21,male,0,0,1,0,106.0,7,7,5,11.8,Dropout
+10134,Agronomy,daytime,20,female,1,1,1,1,140.7,18,19,18,15.05,Graduate
+10137,Management,daytime,19,male,0,0,1,0,150.0,5,5,5,10.6,Graduate
+10140,Animation and Multimedia Design,daytime,18,female,0,0,1,1,150.2,0,0,0,0.0,Graduate
+10141,Management,daytime,41,female,0,0,1,0,140.0,5,14,4,14.5,Enrolled
+10143,Nursing,daytime,18,female,1,0,1,1,130.3,7,7,6,12.6,Graduate
+10144,Oral Hygiene,daytime,18,male,0,0,1,0,115.5,7,11,6,13.43,Graduate
+10145,Social Service,daytime,20,female,1,0,1,0,108.0,6,8,6,12.12,Graduate
+10146,Management (evening attendance),evening,29,female,0,0,0,0,131.8,5,6,4,12.25,Dropout
+10147,Equinculture,daytime,18,female,0,0,1,0,115.9,5,14,2,12.0,Graduate
+10148,Social Service,daytime,19,female,1,0,1,1,116.5,6,6,6,13.0,Graduate
+10150,Equinculture,daytime,44,male,0,1,1,1,156.4,6,9,5,11.57,Dropout
+10153,Advertising and Marketing Management,daytime,25,male,0,0,1,0,114.8,5,5,4,13.75,Graduate
+10154,Basic Education,daytime,34,female,1,1,1,0,140.0,6,7,6,16.14,Graduate
+10155,Nursing,daytime,19,female,0,0,1,1,123.5,7,0,0,0.0,Dropout
+10156,Social Service,daytime,50,male,0,0,1,0,140.0,6,7,4,12.25,Dropout
+10158,Management,daytime,19,female,0,0,1,0,120.2,5,10,5,13.29,Graduate
+10161,Basic Education,daytime,40,female,0,1,1,0,110.0,7,8,7,15.0,Graduate
+10163,Management,daytime,21,female,0,0,1,0,130.0,9,9,9,10.89,Graduate
+10164,Tourism,daytime,18,female,0,0,0,0,126.6,5,5,5,10.4,Dropout
+10165,Nursing,daytime,28,female,0,0,1,0,114.8,7,15,1,10.75,Dropout
+10166,Advertising and Marketing Management,daytime,21,male,0,0,1,0,113.2,5,11,2,10.0,Enrolled
+10167,Journalism and Communication,daytime,18,female,0,0,1,1,131.5,6,7,6,12.57,Graduate
+10168,Nursing,daytime,18,female,1,0,1,1,141.0,7,7,7,15.14,Graduate
+10169,Management,daytime,31,female,0,0,1,1,121.5,15,17,13,11.62,Dropout
+10171,Nursing,daytime,25,female,1,0,1,1,120.0,8,11,7,13.29,Enrolled
+10174,Nursing,daytime,24,male,0,0,1,0,140.0,7,11,7,11.29,Graduate
+10175,Nursing,daytime,34,male,0,0,1,0,100.0,7,15,6,11.33,Enrolled
+10177,Tourism,daytime,20,female,1,0,1,1,123.5,6,11,4,11.5,Enrolled
+10179,Management (evening attendance),evening,34,male,1,1,1,0,142.7,5,11,5,14.71,Graduate
+10180,Management,daytime,20,female,0,0,1,0,95.0,5,10,4,11.75,Graduate
+10182,Basic Education,daytime,21,female,0,0,1,1,108.7,6,10,3,12.67,Dropout
+10184,Nursing,daytime,19,female,0,0,1,1,130.5,7,7,6,12.45,Graduate
+10185,Informatics Engineering,daytime,19,male,0,0,1,0,117.5,5,6,4,11.8,Enrolled
+10191,Social Service,daytime,20,female,0,0,1,1,131.4,6,9,5,11.8,Graduate
+10192,Social Service,daytime,20,female,0,0,1,1,106.1,6,6,6,11.5,Graduate
+10196,Basic Education,daytime,18,female,0,0,1,0,112.9,7,9,7,11.86,Graduate
+10198,Management,daytime,21,female,0,0,1,1,111.3,5,5,5,12.6,Graduate
+10199,Communication Design,daytime,21,female,0,0,1,1,124.8,6,6,6,14.5,Graduate
+10201,Social Service,daytime,19,female,0,1,1,1,116.0,6,7,0,0.0,Dropout
+10202,Journalism and Communication,daytime,19,male,0,0,1,0,122.8,6,0,0,0.0,Dropout
+10203,Nursing,daytime,19,male,1,0,1,1,130.2,7,7,7,13.7,Graduate
+10205,Advertising and Marketing Management,daytime,20,female,0,0,1,0,134.3,6,7,6,12.67,Graduate
+10207,Tourism,daytime,19,female,0,1,1,1,133.3,6,13,2,11.5,Dropout
+10216,Agronomy,daytime,24,female,1,1,1,0,133.8,12,13,12,12.85,Graduate
+10217,Journalism and Communication,daytime,19,female,0,0,1,1,115.6,6,6,6,13.33,Graduate
+10218,Management (evening attendance),evening,21,female,0,0,0,0,130.0,5,12,3,11.33,Dropout
+10220,Management,daytime,22,male,0,0,1,0,112.0,9,9,5,11.2,Dropout
+10222,Veterinary Nursing,daytime,18,female,0,0,1,1,127.0,5,7,3,12.33,Graduate
+10226,Veterinary Nursing,daytime,21,female,0,0,1,1,111.9,5,12,0,0.0,Dropout
+10227,Animation and Multimedia Design,daytime,22,female,0,1,1,1,135.5,17,19,12,11.83,Enrolled
+10228,Agronomy,daytime,27,male,0,0,1,1,120.0,18,21,18,11.42,Graduate
+10229,Communication Design,daytime,18,male,0,0,1,0,133.1,6,6,6,14.0,Graduate
+10230,Journalism and Communication,daytime,20,female,0,0,1,1,105.0,6,6,6,13.83,Graduate
+10232,Communication Design,daytime,19,male,1,0,1,1,129.9,6,6,6,13.67,Graduate
+10236,Management (evening attendance),evening,28,female,0,0,1,0,147.9,5,8,4,11.5,Enrolled
+10239,Veterinary Nursing,daytime,22,female,0,0,1,1,130.0,6,7,6,17.0,Graduate
+10240,Communication Design,daytime,18,female,0,0,0,1,127.7,6,8,6,11.71,Dropout
+10242,Management (evening attendance),evening,28,female,0,1,1,0,105.3,5,14,2,10.5,Dropout
+10244,Nursing,daytime,28,male,0,0,1,0,160.0,7,7,7,14.53,Graduate
+10246,Management (evening attendance),evening,31,female,0,0,1,0,150.0,6,8,6,12.0,Enrolled
+10247,Management,daytime,22,male,0,0,1,1,128.7,5,8,2,10.5,Dropout
+10248,Agronomy,daytime,35,male,0,0,1,0,137.0,6,7,5,12.8,Graduate
+10249,Nursing,daytime,18,female,0,0,1,0,154.1,7,7,7,14.45,Graduate
+10250,Veterinary Nursing,daytime,18,female,0,0,1,1,120.1,5,8,4,12.75,Graduate
+10251,Management (evening attendance),evening,25,female,0,0,1,0,130.1,5,8,3,11.0,Enrolled
+10252,Social Service,daytime,18,female,0,0,1,1,131.7,6,8,4,11.75,Dropout
+10255,Nursing,daytime,18,female,0,0,1,1,128.6,7,7,7,14.73,Graduate
+10257,Basic Education,daytime,18,female,0,0,1,1,133.0,6,8,5,12.4,Dropout
+10258,Social Service,daytime,19,female,1,0,1,0,121.9,6,8,6,13.75,Graduate
+10261,Nursing,daytime,18,male,0,0,1,0,137.5,7,7,7,14.84,Graduate
+10263,Communication Design,daytime,30,female,1,0,1,0,126.5,6,8,6,13.0,Graduate
+10266,Journalism and Communication,daytime,20,female,1,0,1,0,133.1,6,9,4,13.0,Graduate
+10270,Management,daytime,25,female,0,0,1,0,120.0,5,0,0,0.0,Dropout
+10273,Communication Design,daytime,19,female,0,1,1,0,132.2,6,6,6,13.83,Graduate
+10275,Basic Education,daytime,29,female,0,0,1,0,135.0,8,10,7,11.14,Graduate
+10276,Management,daytime,20,female,1,1,0,0,127.9,5,12,2,13.0,Dropout
+10277,Management,daytime,18,male,0,0,0,1,127.8,5,0,0,0.0,Dropout
+10279,Communication Design,daytime,19,male,0,0,1,1,125.4,6,6,6,13.5,Graduate
+10280,Tourism,daytime,19,male,1,0,1,0,122.9,6,7,6,11.17,Enrolled
+10282,Social Service (evening attendance),evening,29,female,0,0,1,0,114.9,11,14,11,12.75,Graduate
+10285,Management (evening attendance),evening,27,male,0,0,1,0,154.4,5,0,0,0.0,Dropout
+10287,Equinculture,daytime,33,female,0,0,1,0,128.2,5,11,2,11.5,Dropout
+10289,Equinculture,daytime,18,female,0,1,0,1,131.8,6,9,5,12.4,Enrolled
+10290,Nursing,daytime,20,female,0,0,1,0,122.2,7,9,6,12.78,Graduate
+10292,Nursing,daytime,37,male,0,0,0,0,130.1,7,10,5,13.0,Dropout
+10293,Veterinary Nursing,daytime,29,male,0,0,0,0,110.0,5,5,0,0.0,Dropout
+10295,Advertising and Marketing Management,daytime,30,male,1,0,1,0,125.3,6,0,0,0.0,Dropout
+10297,Nursing,daytime,19,male,0,0,1,1,122.4,7,7,7,13.73,Graduate
+10298,Biofuel Production Technologies,daytime,25,male,0,1,0,1,120.0,21,26,21,12.36,Dropout
+10299,Social Service,daytime,48,female,0,0,1,0,98.5,6,14,6,11.33,Dropout
+10302,Nursing,daytime,20,female,0,0,1,1,129.8,7,8,6,14.37,Graduate
+10303,Tourism,daytime,19,female,0,0,1,1,116.0,6,7,6,12.71,Graduate
+10304,Nursing,daytime,18,female,1,0,1,1,133.5,8,8,7,15.23,Graduate
+10305,Animation and Multimedia Design,daytime,18,male,0,0,1,1,141.7,0,0,0,0.0,Enrolled
+10306,Advertising and Marketing Management,daytime,35,female,0,0,1,0,100.0,5,8,5,11.4,Enrolled
+10308,Management,daytime,18,female,0,0,1,1,130.1,5,10,4,10.75,Dropout
+10312,Communication Design,daytime,19,male,0,0,1,1,112.5,6,7,3,11.67,Enrolled
+10315,Basic Education,daytime,19,female,0,0,1,1,121.1,6,8,5,12.2,Enrolled
+10319,Journalism and Communication,daytime,25,male,0,0,1,0,140.0,6,6,6,14.67,Graduate
+10322,Advertising and Marketing Management,daytime,18,male,1,0,1,1,128.1,6,6,6,13.0,Dropout
+10331,Oral Hygiene,daytime,18,female,1,0,1,1,124.4,7,7,7,13.3,Graduate
+10332,Animation and Multimedia Design,daytime,23,female,0,0,1,1,130.0,0,0,0,0.0,Dropout
+10333,Veterinary Nursing,daytime,26,female,0,0,0,0,120.0,6,8,6,15.43,Enrolled
+10336,Basic Education,daytime,18,female,0,0,1,0,115.8,7,12,6,12.0,Enrolled
+10337,Agronomy,daytime,21,male,1,0,1,0,150.0,6,8,6,13.0,Graduate
+10339,Journalism and Communication,daytime,20,female,1,0,1,1,146.5,6,6,6,13.5,Graduate
+10343,Journalism and Communication,daytime,18,female,0,0,1,1,126.6,6,6,6,12.83,Graduate
+10344,Equinculture,daytime,27,female,0,0,1,1,155.3,6,9,5,13.0,Dropout
+10345,Tourism,daytime,20,female,1,0,0,1,114.3,6,12,4,11.25,Dropout
+10346,Agronomy,daytime,48,female,0,1,0,0,110.0,6,6,0,0.0,Dropout
+10347,Tourism,daytime,18,female,1,0,1,1,123.4,6,9,6,13.57,Graduate
+10349,Nursing,daytime,18,male,1,0,1,1,132.3,7,7,6,13.27,Graduate
+10351,Social Service (evening attendance),evening,35,male,0,0,0,0,140.0,6,6,6,14.0,Graduate
+10352,Social Service,daytime,18,female,1,0,1,1,136.1,6,6,6,14.0,Graduate
+10354,Management,daytime,18,male,1,0,1,1,152.8,5,7,4,12.75,Dropout
+10355,Nursing,daytime,19,female,0,0,1,0,129.3,7,0,0,0.0,Dropout
+10357,Animation and Multimedia Design,daytime,21,male,0,0,1,1,117.0,0,0,0,0.0,Graduate
+10358,Animation and Multimedia Design,daytime,33,male,1,1,1,0,100.0,0,0,0,0.0,Dropout
+10360,Management,daytime,20,female,0,0,1,1,117.3,5,8,4,12.0,Graduate
+10361,Tourism,daytime,20,male,1,0,1,0,112.6,6,9,6,12.57,Graduate
+10362,Veterinary Nursing,daytime,28,female,1,0,0,0,128.2,5,14,1,12.0,Dropout
+10363,Tourism,daytime,48,male,0,0,1,0,100.0,6,13,3,10.0,Dropout
+10364,Management,daytime,19,female,1,0,1,0,119.9,5,8,5,12.88,Graduate
+10365,Nursing,daytime,19,female,1,0,1,1,122.1,7,8,7,11.68,Graduate
+10366,Tourism,daytime,27,male,0,0,1,0,97.0,6,6,6,10.67,Enrolled
+10369,Management (evening attendance),evening,21,female,0,0,1,0,100.0,5,9,4,11.5,Graduate
+10370,Social Service,daytime,18,female,0,0,1,1,136.1,6,8,6,13.86,Graduate
+10371,Nursing,daytime,18,female,0,0,1,1,135.3,8,8,8,13.28,Graduate
+10372,Tourism,daytime,20,male,1,0,1,0,137.2,6,6,0,0.0,Dropout
+10373,Social Service (evening attendance),evening,26,female,0,0,1,0,100.0,8,11,7,12.75,Graduate
+10374,Veterinary Nursing,daytime,18,female,0,0,1,0,142.3,5,7,4,12.75,Graduate
+10377,Communication Design,daytime,18,female,0,0,1,1,120.4,6,8,5,11.8,Graduate
+10378,Tourism,daytime,20,male,1,0,1,1,122.3,6,7,6,14.71,Graduate
+10381,Informatics Engineering,daytime,31,male,0,0,1,0,136.0,5,12,1,12.0,Dropout
+10383,Management,daytime,20,male,0,1,1,1,121.0,5,6,5,13.2,Enrolled
+10384,Management (evening attendance),evening,27,male,0,0,1,1,115.0,5,9,1,10.0,Dropout
+10386,Veterinary Nursing,daytime,18,female,1,1,1,0,159.1,5,5,5,14.4,Dropout
+10390,Nursing,daytime,19,female,1,0,1,1,120.1,7,9,6,12.43,Graduate
+10391,Management (evening attendance),evening,32,male,0,0,1,1,133.2,5,5,0,0.0,Dropout
+10392,Animation and Multimedia Design,daytime,17,male,0,0,1,1,133.5,0,0,0,0.0,Enrolled
+10394,Social Service (evening attendance),evening,19,female,0,0,1,0,118.7,6,6,6,12.5,Graduate
+10400,Social Service,daytime,18,female,1,0,0,0,125.8,6,10,6,12.67,Dropout
+10401,Management,daytime,24,female,0,1,0,0,140.5,5,0,0,0.0,Dropout
+10405,Veterinary Nursing,daytime,19,female,0,0,1,0,136.2,5,7,5,13.0,Graduate
+10407,Social Service (evening attendance),evening,45,male,0,1,0,0,151.5,6,7,0,0.0,Dropout
+10414,Agronomy,daytime,21,female,0,0,1,1,160.0,6,11,6,13.43,Graduate
+10417,Equinculture,daytime,28,male,0,0,1,0,128.2,5,9,0,0.0,Dropout
+10418,Agronomy,daytime,20,male,1,0,1,1,160.0,6,9,6,13.44,Graduate
+10419,Veterinary Nursing,daytime,20,female,0,0,1,0,124.3,6,10,6,13.43,Enrolled
+10420,Oral Hygiene,daytime,20,female,0,0,1,1,121.5,7,13,4,13.5,Dropout
+10421,Management (evening attendance),evening,28,male,0,1,0,0,115.8,9,14,4,10.0,Dropout
+10429,Nursing,daytime,19,female,0,0,1,0,121.2,7,10,7,13.47,Graduate
+10431,Animation and Multimedia Design,daytime,19,male,0,0,1,1,155.6,0,0,0,0.0,Dropout
+10432,Nursing,daytime,18,male,1,0,1,1,136.3,7,7,6,13.52,Graduate
+10434,Social Service,daytime,19,male,0,0,1,0,112.0,6,7,6,12.17,Graduate
+10437,Management (evening attendance),evening,41,male,0,0,1,1,125.3,5,8,4,11.25,Dropout
+10440,Journalism and Communication,daytime,40,female,0,0,1,0,133.0,6,8,5,13.0,Enrolled
+10441,Oral Hygiene,daytime,24,male,0,0,1,0,100.5,7,18,0,0.0,Dropout
+10442,Social Service,daytime,18,female,1,0,1,1,134.2,6,6,6,15.17,Graduate
+10443,Social Service,daytime,18,female,1,0,1,0,132.6,6,7,6,13.29,Graduate
+10444,Management (evening attendance),evening,23,female,0,0,1,0,137.3,5,5,5,10.8,Graduate
+10449,Social Service,daytime,18,female,1,0,1,1,125.6,6,6,6,12.67,Graduate
+10451,Communication Design,daytime,19,male,0,0,1,1,137.4,6,6,6,13.83,Graduate
+10452,Equinculture,daytime,19,male,0,0,1,0,122.5,5,11,4,12.0,Graduate
+10454,Nursing,daytime,19,female,1,0,1,1,126.7,7,7,7,13.71,Graduate
+10456,Tourism,daytime,18,female,1,0,1,1,122.6,6,7,6,12.29,Graduate
+10457,Veterinary Nursing,daytime,18,female,0,0,1,1,134.7,6,6,6,17.0,Graduate
+10458,Nursing,daytime,19,female,0,0,1,0,129.9,7,0,0,0.0,Dropout
+10459,Nursing,daytime,18,female,0,0,1,1,131.5,8,8,7,14.14,Graduate
+10460,Nursing,daytime,18,female,0,0,1,1,127.3,8,8,7,12.63,Graduate
+10467,Animation and Multimedia Design,daytime,19,female,0,1,1,1,134.3,0,0,0,0.0,Dropout
+10471,Social Service (evening attendance),evening,23,female,1,0,1,0,112.8,6,6,6,14.17,Graduate
+10474,Veterinary Nursing,daytime,18,female,0,0,1,1,142.2,5,7,5,13.8,Graduate
+10475,Nursing,daytime,20,female,0,0,1,0,147.8,7,11,6,11.76,Enrolled
+10477,Nursing,daytime,19,female,1,0,1,0,127.8,7,7,0,0.0,Dropout
+10478,Nursing,daytime,19,female,0,0,1,1,96.0,7,10,6,13.6,Enrolled
+10482,Communication Design,daytime,21,female,1,0,1,0,128.0,6,6,6,11.5,Graduate
+10485,Tourism,daytime,18,female,0,0,1,1,134.9,6,6,6,15.5,Graduate
+10486,Informatics Engineering,daytime,18,male,0,0,1,1,121.7,5,7,5,11.8,Enrolled
+10487,Veterinary Nursing,daytime,21,female,1,0,1,1,138.0,6,7,6,13.5,Dropout
+10489,Animation and Multimedia Design,daytime,32,female,0,0,0,0,133.3,0,0,0,0.0,Dropout
+10491,Social Service,daytime,20,female,1,0,1,0,140.5,6,9,6,11.33,Graduate
+10492,Journalism and Communication,daytime,18,female,0,0,1,0,135.0,6,6,6,13.5,Enrolled
+10493,Communication Design,daytime,20,female,0,0,1,0,127.0,6,6,5,12.4,Graduate
+10494,Advertising and Marketing Management,daytime,40,male,0,1,0,0,120.0,6,13,0,0.0,Dropout
+10495,Social Service (evening attendance),evening,37,female,0,0,1,0,129.0,6,13,4,12.0,Dropout
+10497,Animation and Multimedia Design,daytime,18,female,0,0,1,1,143.3,0,0,0,0.0,Enrolled
+10498,Journalism and Communication,daytime,19,female,0,0,1,1,113.8,6,7,6,12.33,Graduate
+10499,Advertising and Marketing Management,daytime,18,male,0,0,1,0,121.4,6,0,0,0.0,Dropout
+10501,Social Service,daytime,19,female,0,0,1,0,126.9,6,8,5,10.6,Graduate
+10503,Nursing,daytime,39,female,1,0,0,0,120.0,7,14,3,11.5,Dropout
+10504,Journalism and Communication,daytime,18,female,1,0,1,1,133.7,6,6,6,14.83,Graduate
+10505,Tourism,daytime,19,male,0,0,0,1,114.8,6,0,0,0.0,Dropout
+10506,Veterinary Nursing,daytime,19,female,1,0,1,1,137.6,5,6,5,15.4,Graduate
+10509,Social Service,daytime,19,female,1,0,1,0,108.7,6,9,5,10.8,Graduate
+10510,Tourism,daytime,21,male,0,0,0,1,115.1,6,11,3,11.0,Dropout
+10514,Nursing,daytime,19,male,1,0,1,1,128.0,8,8,7,14.94,Graduate
+10516,Animation and Multimedia Design,daytime,34,female,0,0,1,1,140.0,0,0,0,0.0,Dropout
+10517,Equinculture,daytime,20,male,0,0,1,0,132.4,5,7,4,11.75,Graduate
+10519,Social Service (evening attendance),evening,37,male,0,0,1,1,128.0,6,0,0,0.0,Dropout
+10521,Nursing,daytime,19,female,1,0,1,1,125.0,7,7,6,12.9,Graduate
+10522,Management,daytime,20,male,0,0,1,0,116.8,5,14,3,12.4,Enrolled
+10525,Basic Education,daytime,18,female,0,0,1,1,116.9,7,10,6,10.67,Enrolled
+10527,Management,daytime,24,female,0,0,1,1,118.0,5,5,0,0.0,Dropout
+10531,Nursing,daytime,19,female,0,0,1,0,122.3,7,7,6,14.35,Graduate
+10532,Management,daytime,18,female,1,0,1,1,132.2,5,8,5,13.75,Graduate
+10533,Tourism,daytime,19,female,0,1,1,1,113.2,6,10,6,12.17,Dropout
+10534,Management,daytime,18,female,0,0,1,0,133.4,5,9,1,11.0,Enrolled
+10535,Tourism,daytime,20,female,0,0,1,0,117.7,6,8,5,10.8,Graduate
+10536,Equinculture,daytime,36,female,0,1,0,1,160.0,6,9,6,12.0,Dropout
+10537,Informatics Engineering,daytime,19,male,0,0,1,1,117.1,5,10,0,0.0,Dropout
+10538,Social Service,daytime,19,female,1,0,1,0,128.0,6,8,6,12.25,Graduate
+10539,Social Service,daytime,20,male,1,0,1,0,132.0,6,11,5,11.14,Graduate
+10540,Agronomy,daytime,32,male,0,0,0,0,110.0,8,12,2,11.5,Dropout
+10541,Agronomy,daytime,28,male,0,0,1,0,150.0,6,12,5,12.0,Enrolled
+10542,Social Service (evening attendance),evening,49,male,0,0,1,0,139.0,6,8,6,12.17,Graduate
+10543,Basic Education,daytime,33,female,0,1,1,0,105.5,6,7,5,13.2,Dropout
+10544,Social Service (evening attendance),evening,37,female,0,0,1,0,180.0,14,14,14,16.5,Graduate
+10545,Management (evening attendance),evening,46,male,0,1,0,0,120.0,5,5,0,0.0,Dropout
+10548,Equinculture,daytime,31,male,0,0,1,0,160.0,6,11,2,12.0,Dropout
+10550,Nursing,daytime,18,male,0,0,1,1,123.3,7,0,0,0.0,Dropout
+10552,Social Service,daytime,20,female,1,0,1,0,129.8,6,6,6,11.67,Graduate
+10555,Communication Design,daytime,22,male,0,0,1,1,140.8,6,6,6,14.67,Graduate
+10556,Veterinary Nursing,daytime,20,male,0,0,1,1,136.8,5,8,5,12.8,Graduate
+10560,Management,daytime,21,female,0,0,1,1,120.2,5,10,4,11.75,Graduate
+10561,Social Service (evening attendance),evening,58,female,0,0,1,0,120.0,6,14,5,12.4,Graduate
+10563,Informatics Engineering,daytime,20,male,0,1,1,1,150.0,5,6,5,16.5,Dropout
+10565,Journalism and Communication,daytime,52,male,0,0,1,1,129.8,6,7,5,13.0,Graduate
+10566,Informatics Engineering,daytime,20,male,0,0,1,0,115.8,5,10,4,11.5,Enrolled
+10567,Communication Design,daytime,21,male,0,0,1,0,120.0,7,10,6,13.43,Graduate
+10571,Social Service,daytime,34,female,0,0,1,0,134.4,16,20,14,12.07,Graduate
+10572,Nursing,daytime,30,female,1,0,1,1,149.5,7,8,7,14.91,Dropout
+10575,Advertising and Marketing Management,daytime,32,female,0,0,1,0,110.0,11,15,8,13.6,Graduate
+10578,Journalism and Communication,daytime,47,male,0,0,1,0,155.5,6,12,5,13.8,Dropout
+10580,Social Service (evening attendance),evening,37,male,0,0,1,0,154.0,16,17,16,14.12,Graduate
+10583,Management,daytime,21,female,0,0,1,0,113.2,10,18,6,11.17,Enrolled
+10587,Animation and Multimedia Design,daytime,37,male,0,0,1,1,130.0,0,0,0,0.0,Dropout
+10588,Tourism,daytime,39,male,0,0,1,0,123.5,6,6,6,13.5,Graduate
+10590,Basic Education,daytime,18,female,1,0,1,0,126.1,7,9,6,12.33,Graduate
+10591,Social Service (evening attendance),evening,20,female,0,1,1,0,139.2,6,6,6,13.83,Graduate
+10592,Management,daytime,21,female,0,0,1,1,133.8,11,17,11,11.55,Graduate
+10593,Advertising and Marketing Management,daytime,20,female,1,0,1,0,110.0,6,9,6,12.12,Graduate
+10595,Management,daytime,35,female,0,0,1,0,130.0,5,5,0,0.0,Dropout
+10596,Veterinary Nursing,daytime,24,female,0,1,0,0,144.6,5,6,1,13.0,Dropout
+10597,Nursing,daytime,19,female,0,0,1,1,125.0,7,8,6,11.66,Graduate
+10599,Informatics Engineering,daytime,25,male,0,0,1,0,146.8,5,6,5,14.2,Enrolled
+10603,Tourism,daytime,18,female,1,0,1,1,142.6,6,7,6,14.17,Graduate
+10605,Equinculture,daytime,18,male,0,0,1,0,137.8,6,11,5,13.6,Dropout
+10609,Nursing,daytime,21,male,1,0,1,0,114.9,7,9,6,13.34,Graduate
+10610,Veterinary Nursing,daytime,35,female,0,0,1,0,140.0,6,11,3,12.67,Dropout
+10611,Management (evening attendance),evening,39,female,0,0,1,0,136.2,5,6,5,11.0,Graduate
+10612,Nursing,daytime,19,female,1,0,1,1,148.8,8,8,8,14.25,Graduate
+10613,Journalism and Communication,daytime,19,female,1,0,1,0,139.1,6,6,6,12.83,Graduate
+10616,Management,daytime,19,male,0,0,1,1,106.4,5,7,5,10.2,Graduate
+10617,Agronomy,daytime,26,female,0,0,1,0,140.0,12,13,6,13.0,Graduate
+10622,Social Service,daytime,19,female,0,0,1,1,110.7,6,9,6,12.17,Graduate
+10623,Journalism and Communication,daytime,18,male,1,0,1,0,126.2,6,7,6,11.33,Graduate
+10626,Nursing,daytime,19,female,1,0,1,1,115.1,7,8,6,13.08,Graduate
+10628,Social Service,daytime,41,female,0,1,1,0,130.0,6,0,0,0.0,Dropout
+10629,Management,daytime,22,male,0,0,1,0,131.0,5,11,3,13.67,Dropout
+10632,Veterinary Nursing,daytime,24,female,0,0,1,1,132.0,5,6,5,12.0,Graduate
+10633,Nursing,daytime,18,male,0,0,1,1,136.3,8,9,8,12.89,Graduate
+10634,Nursing,daytime,18,male,1,0,1,1,125.2,7,7,7,14.68,Graduate
+10635,Social Service (evening attendance),evening,24,female,0,0,1,1,139.9,6,9,5,13.0,Graduate
+10637,Advertising and Marketing Management,daytime,29,male,0,0,1,1,114.0,5,10,3,11.67,Dropout
+10638,Advertising and Marketing Management,daytime,22,female,0,0,1,0,155.0,5,6,3,11.33,Dropout
+10639,Management (evening attendance),evening,38,male,0,0,1,0,122.7,5,5,5,14.6,Graduate
+10640,Management (evening attendance),evening,37,male,0,0,1,0,123.0,5,10,5,15.8,Enrolled
+10641,Communication Design,daytime,30,male,0,0,0,0,140.0,6,6,1,10.0,Dropout
+10644,Nursing,daytime,19,female,0,0,1,1,131.3,8,8,7,14.73,Graduate
+10646,Management,daytime,19,male,0,0,1,0,123.3,5,7,5,11.8,Enrolled
+10649,Nursing,daytime,38,female,0,1,1,0,130.0,7,13,3,11.83,Dropout
+10650,Nursing,daytime,18,male,1,0,1,0,144.9,7,7,7,15.96,Graduate
+10652,Advertising and Marketing Management,daytime,20,female,0,0,1,1,129.3,6,7,6,15.57,Graduate
+10653,Tourism,daytime,62,female,0,0,1,0,103.0,6,7,6,15.0,Graduate
+10654,Advertising and Marketing Management,daytime,21,male,0,0,1,0,150.0,6,8,6,14.75,Graduate
+10656,Veterinary Nursing,daytime,18,female,0,0,1,0,109.6,6,13,4,12.25,Dropout
+10657,Animation and Multimedia Design,daytime,18,male,1,1,0,1,139.6,0,0,0,0.0,Dropout
+10658,Informatics Engineering,daytime,22,male,0,0,1,1,133.6,5,0,0,0.0,Dropout
+10659,Veterinary Nursing,daytime,23,female,0,0,1,1,160.0,6,12,4,13.4,Enrolled
+10663,Management (evening attendance),evening,27,female,0,0,1,0,120.0,5,12,5,10.6,Dropout
+10665,Nursing,daytime,19,female,1,0,1,1,127.5,7,8,6,13.74,Graduate
+10668,Equinculture,daytime,22,male,0,0,1,1,150.0,18,32,12,12.86,Graduate
+10672,Veterinary Nursing,daytime,19,female,0,0,1,1,150.8,6,13,6,16.0,Graduate
+10676,Social Service,daytime,18,female,1,0,1,1,131.1,6,8,6,12.83,Graduate
+10678,Veterinary Nursing,daytime,20,female,0,1,0,0,140.0,6,13,4,13.0,Dropout
+10679,Management,daytime,19,female,1,0,1,1,109.8,5,5,5,13.4,Graduate
+10685,Equinculture,daytime,29,female,0,1,0,0,140.0,9,16,7,11.56,Dropout
+10688,Nursing,daytime,22,female,1,0,1,1,137.3,7,7,6,13.9,Graduate
+10691,Basic Education,daytime,19,female,0,0,1,1,126.7,6,9,5,12.4,Dropout
+10692,Journalism and Communication,daytime,18,female,0,0,1,1,149.0,6,8,6,11.43,Dropout
+10700,Veterinary Nursing,daytime,28,male,0,0,1,0,128.2,5,8,3,12.0,Dropout
+10701,Nursing,daytime,19,female,0,0,1,1,109.5,7,8,7,13.02,Graduate
+10702,Basic Education,daytime,20,female,0,0,1,0,113.7,6,8,5,11.0,Dropout
+10703,Nursing,daytime,39,female,0,0,1,1,109.0,7,8,5,12.16,Enrolled
+10704,Agronomy,daytime,35,male,0,0,1,0,140.0,6,16,4,12.0,Dropout
+10708,Social Service (evening attendance),evening,30,female,0,0,1,0,130.0,10,11,9,12.67,Graduate
+10710,Journalism and Communication,daytime,18,female,0,0,1,1,122.2,6,0,0,0.0,Dropout
+10712,Advertising and Marketing Management,daytime,20,male,1,0,1,0,121.7,5,5,5,12.4,Graduate
+10713,Management (evening attendance),evening,47,male,0,0,1,0,122.5,5,9,4,11.5,Dropout
+10714,Veterinary Nursing,daytime,18,female,1,0,1,1,128.4,5,12,5,12.86,Graduate
+10715,Social Service (evening attendance),evening,34,female,0,0,1,0,100.0,6,0,0,0.0,Dropout
+10718,Journalism and Communication,daytime,18,male,0,0,1,1,123.6,6,6,6,13.0,Dropout
+10723,Management,daytime,20,female,0,0,1,1,117.8,5,10,5,13.5,Graduate
+10725,Communication Design,daytime,20,male,1,0,1,1,132.9,6,9,6,11.38,Enrolled
+10727,Veterinary Nursing,daytime,23,female,0,0,1,1,140.0,6,7,6,15.57,Graduate
+10728,Informatics Engineering,daytime,20,male,0,1,0,1,116.0,5,5,0,0.0,Dropout
+10730,Veterinary Nursing,daytime,23,female,0,0,0,1,143.3,12,19,9,13.67,Enrolled
+10731,Communication Design,daytime,19,female,0,0,1,1,125.2,6,6,6,14.33,Graduate
+10732,Nursing,daytime,39,female,0,0,1,1,120.9,7,12,4,12.0,Dropout
+10733,Nursing,daytime,19,female,1,0,1,1,120.0,8,8,7,13.15,Graduate
+10735,Nursing,daytime,18,female,1,0,1,1,120.8,8,8,7,14.65,Graduate
+10738,Basic Education,daytime,32,female,1,0,1,0,131.0,7,10,7,13.43,Graduate
+10739,Animation and Multimedia Design,daytime,19,male,1,0,1,1,128.2,12,12,12,13.33,Enrolled
+10740,Communication Design,daytime,18,female,1,0,1,0,126.8,6,8,6,12.0,Enrolled
+10742,Social Service (evening attendance),evening,33,female,0,0,1,0,112.5,6,10,5,11.4,Graduate
+10743,Nursing,daytime,18,female,1,0,1,1,133.5,8,8,7,12.11,Graduate
+10744,Oral Hygiene,daytime,24,female,1,1,1,0,120.0,7,13,7,11.0,Graduate
+10747,Advertising and Marketing Management,daytime,22,male,0,0,1,1,121.8,6,0,0,0.0,Dropout
+10748,Nursing,daytime,27,female,0,0,1,0,130.0,8,12,7,12.46,Enrolled
+10751,Oral Hygiene,daytime,20,female,0,0,1,1,112.2,7,7,7,13.79,Graduate
+10752,Tourism,daytime,22,male,0,0,1,1,130.0,6,13,4,11.5,Dropout
+10755,Basic Education,daytime,18,female,1,0,1,1,107.1,7,8,7,12.14,Graduate
+10756,Agronomy,daytime,19,male,1,0,1,0,132.8,6,9,4,12.0,Enrolled
+10759,Nursing,daytime,18,male,0,0,1,0,128.0,8,8,0,0.0,Dropout
+10761,Communication Design,daytime,20,female,0,0,1,1,131.5,6,6,6,12.5,Graduate
+10762,Tourism,daytime,18,female,1,0,1,1,108.7,6,9,5,11.4,Graduate
+10765,Nursing,daytime,20,female,1,0,1,1,115.2,7,8,7,12.72,Graduate
+10768,Nursing,daytime,18,female,0,0,1,1,125.0,7,7,6,13.9,Graduate
+10770,Informatics Engineering,daytime,24,male,0,1,0,1,116.1,5,8,0,0.0,Dropout
+10774,Nursing,daytime,19,female,1,0,1,1,130.8,8,8,7,14.21,Graduate
+10776,Nursing,daytime,18,female,1,0,1,0,134.3,8,12,7,12.63,Graduate
+10777,Tourism,daytime,18,female,1,0,1,1,123.9,6,7,6,13.0,Graduate
+10778,Management (evening attendance),evening,33,female,0,0,1,0,140.0,6,7,6,15.33,Graduate
+10780,Social Service,daytime,20,female,0,0,1,1,127.4,6,8,6,11.17,Graduate
+10781,Veterinary Nursing,daytime,20,female,0,0,1,1,140.0,6,9,6,12.67,Enrolled
+10782,Nursing,daytime,18,female,0,0,1,0,135.5,8,8,7,13.9,Graduate
+10785,Social Service,daytime,18,female,0,0,0,0,137.2,6,6,6,14.5,Graduate
+10787,Journalism and Communication,daytime,18,female,0,1,0,1,128.4,6,8,5,13.0,Dropout
+10790,Journalism and Communication,daytime,18,male,0,0,1,1,122.1,6,6,6,13.83,Graduate
+10792,Advertising and Marketing Management,daytime,22,female,0,0,1,1,110.2,5,7,3,12.67,Enrolled
+10793,Agronomy,daytime,25,male,0,0,1,0,150.0,14,16,14,12.43,Dropout
+10795,Management (evening attendance),evening,40,male,0,0,0,0,117.9,5,5,0,0.0,Dropout
+10797,Nursing,daytime,19,female,0,0,1,1,131.5,8,8,8,13.25,Graduate
+10801,Nursing,daytime,18,female,1,0,1,1,132.5,8,8,8,13.39,Graduate
+10803,Oral Hygiene,daytime,19,female,0,0,1,1,106.0,7,16,2,12.75,Dropout
+10805,Journalism and Communication,daytime,18,female,0,1,0,1,122.3,6,8,6,14.14,Dropout
+10806,Nursing,daytime,18,female,1,0,1,1,125.3,8,8,7,11.79,Graduate
+10807,Social Service,daytime,18,female,1,0,1,1,124.5,6,10,4,12.4,Graduate
+10808,Veterinary Nursing,daytime,18,female,0,0,1,1,150.9,6,8,6,16.0,Dropout
+10812,Journalism and Communication,daytime,20,female,0,0,1,1,114.3,4,8,0,0.0,Dropout
+10813,Informatics Engineering,daytime,41,male,0,1,1,0,160.0,7,15,5,14.33,Enrolled
+10814,Agronomy,daytime,21,female,0,0,1,0,180.0,6,6,6,15.83,Graduate
+10818,Management (evening attendance),evening,34,female,0,0,1,0,170.0,5,12,2,11.5,Enrolled
+10819,Advertising and Marketing Management,daytime,19,male,0,0,0,0,119.5,5,5,0,0.0,Dropout
+10822,Management,daytime,23,male,0,0,0,1,109.8,3,3,0,0.0,Dropout
+10825,Nursing,daytime,36,male,0,0,0,0,149.0,6,15,2,11.5,Dropout
+10826,Advertising and Marketing Management,daytime,19,female,0,0,0,0,115.2,6,7,3,12.67,Dropout
+10828,Nursing,daytime,19,female,1,0,1,1,118.6,7,9,6,11.81,Graduate
+10830,Management (evening attendance),evening,24,male,0,0,1,0,115.2,5,5,4,12.0,Enrolled
+10831,Basic Education,daytime,27,female,0,0,1,0,118.0,7,14,6,11.67,Dropout
+10835,Veterinary Nursing,daytime,23,female,0,0,1,1,150.0,6,11,4,11.5,Enrolled
+10836,Veterinary Nursing,daytime,18,female,0,0,1,0,163.3,6,10,6,13.5,Graduate
+10837,Basic Education,daytime,18,female,0,0,1,0,111.5,6,11,3,12.33,Dropout
+10838,Basic Education,daytime,18,female,0,0,1,0,122.0,6,6,6,12.67,Graduate
+10839,Social Service,daytime,19,female,1,0,1,1,144.3,6,7,6,13.14,Graduate
+10842,Communication Design,daytime,19,female,0,0,1,0,133.5,6,6,6,12.17,Graduate
+10845,Nursing,daytime,18,female,1,0,1,0,147.9,7,7,7,14.65,Graduate
+10846,Management (evening attendance),evening,25,female,0,0,1,0,140.0,5,11,3,10.67,Enrolled
+10848,Veterinary Nursing,daytime,19,female,1,0,1,0,141.4,6,8,6,15.0,Graduate
+10850,Informatics Engineering,daytime,20,male,0,0,1,1,120.5,5,10,3,13.33,Graduate
+10853,Tourism,daytime,18,female,1,0,1,0,141.7,6,8,6,12.67,Graduate
+10856,Social Service (evening attendance),evening,19,female,0,0,1,0,119.4,6,6,6,12.67,Graduate
+10857,Social Service (evening attendance),evening,35,female,0,0,1,0,101.0,6,7,6,12.5,Graduate
+10861,Agronomy,daytime,29,male,0,0,1,0,130.0,6,17,0,0.0,Dropout
+10863,Nursing,daytime,19,female,0,0,1,0,137.8,7,7,7,13.69,Graduate
+10864,Veterinary Nursing,daytime,18,female,0,0,1,1,121.0,5,14,3,12.33,Enrolled
+10865,Advertising and Marketing Management,daytime,24,male,0,1,0,0,130.9,6,12,0,0.0,Dropout
+10868,Journalism and Communication,daytime,19,male,0,1,1,0,111.1,6,6,4,11.25,Dropout
+10875,Social Service,daytime,21,female,1,0,1,1,122.0,6,8,1,10.0,Enrolled
+10877,Social Service,daytime,19,female,1,0,1,1,120.2,6,9,5,11.33,Enrolled
+10878,Advertising and Marketing Management,daytime,18,female,0,0,1,0,114.6,5,5,4,11.0,Graduate
+10879,Advertising and Marketing Management,daytime,20,female,0,0,1,0,105.4,5,6,5,13.33,Graduate
+10880,Nursing,daytime,18,female,0,0,1,1,132.5,8,8,7,14.12,Graduate
+10881,Management (evening attendance),evening,26,female,1,0,1,0,126.3,5,7,0,0.0,Dropout
+10882,Management,daytime,20,female,0,0,1,1,122.1,5,6,5,12.0,Graduate
+10883,Management (evening attendance),evening,23,male,0,0,1,0,118.5,5,6,4,13.0,Graduate
+10884,Management (evening attendance),evening,52,male,0,0,1,0,118.2,5,7,5,11.2,Graduate
+10885,Agronomy,daytime,27,male,0,1,0,0,120.0,6,0,0,0.0,Dropout
+10886,Animation and Multimedia Design,daytime,21,male,0,0,0,0,127.1,0,0,0,0.0,Dropout
+10887,Biofuel Production Technologies,daytime,26,female,0,0,1,0,118.6,21,23,20,13.18,Graduate
+10889,Management,daytime,18,male,0,0,1,0,134.0,5,9,0,0.0,Enrolled
+10893,Management (evening attendance),evening,30,female,0,0,1,0,160.0,5,5,5,14.6,Dropout
+10894,Management (evening attendance),evening,27,male,0,0,1,0,130.0,5,0,0,0.0,Dropout
+10895,Tourism,daytime,20,female,1,0,1,1,122.6,6,6,6,13.17,Graduate
+10896,Communication Design,daytime,28,male,0,0,1,0,117.5,6,0,0,0.0,Dropout
+10898,Advertising and Marketing Management,daytime,18,male,0,0,1,0,114.3,6,7,4,12.6,Dropout
+10903,Basic Education,daytime,18,female,0,0,1,1,127.4,6,7,5,12.2,Enrolled
+10904,Tourism,daytime,19,male,0,0,1,1,118.0,6,13,2,10.5,Dropout
+10907,Nursing,daytime,18,female,1,0,1,1,138.8,7,7,6,12.95,Graduate
+10910,Social Service,daytime,19,female,0,0,1,0,129.1,6,6,6,14.67,Graduate
+10912,Advertising and Marketing Management,daytime,20,female,0,0,1,1,134.7,6,8,5,13.4,Enrolled
+10915,Equinculture,daytime,20,male,0,0,1,0,140.0,6,12,5,12.4,Enrolled
+10916,Management,daytime,20,male,0,0,1,1,117.8,5,8,3,11.0,Enrolled
+10918,Equinculture,daytime,35,male,0,0,1,0,100.0,7,8,0,0.0,Dropout
+10920,Nursing,daytime,19,female,0,0,1,1,132.3,7,7,6,11.68,Graduate
+10921,Journalism and Communication,daytime,50,male,0,1,0,0,163.5,6,7,1,15.0,Dropout
+10922,Management,daytime,26,male,0,0,1,0,119.8,5,9,5,12.0,Enrolled
+10924,Advertising and Marketing Management,daytime,19,male,0,0,1,0,128.1,5,8,4,12.5,Enrolled
+10926,Animation and Multimedia Design,daytime,21,female,0,0,1,1,119.7,0,0,0,0.0,Dropout
+10927,Nursing,daytime,35,female,0,0,1,0,105.9,3,4,3,11.82,Enrolled
+10929,Nursing,daytime,20,male,0,0,1,1,127.0,8,8,7,12.84,Graduate
+10930,Management,daytime,24,male,0,0,1,0,130.2,15,16,15,13.47,Graduate
+10933,Journalism and Communication,daytime,18,female,1,0,1,1,117.4,6,6,6,12.5,Graduate
+10934,Communication Design,daytime,19,male,0,0,1,0,141.4,6,0,0,0.0,Dropout
+10935,Tourism,daytime,21,male,1,0,1,1,116.3,6,6,6,11.67,Graduate
+10936,Social Service (evening attendance),evening,59,female,0,0,0,0,140.0,15,22,12,13.33,Dropout
+10938,Nursing,daytime,19,female,1,0,1,1,120.8,7,9,7,13.51,Graduate
+10939,Communication Design,daytime,20,male,0,0,1,0,123.9,7,9,5,12.6,Dropout
+10942,Nursing,daytime,18,male,0,0,1,0,100.0,7,7,7,11.83,Graduate
+10944,Informatics Engineering,daytime,33,male,0,0,1,1,140.0,5,14,1,18.0,Dropout
+10946,Informatics Engineering,daytime,21,male,0,0,1,1,133.5,5,10,5,13.0,Graduate
+10948,Nursing,daytime,20,female,1,0,1,0,125.8,8,8,0,0.0,Enrolled
+10949,Journalism and Communication,daytime,26,female,0,0,1,0,102.5,6,8,4,11.75,Dropout
+10950,Advertising and Marketing Management,daytime,31,female,0,0,1,0,140.4,6,13,5,11.4,Dropout
+10951,Animation and Multimedia Design,daytime,18,male,1,1,0,1,155.1,0,0,0,0.0,Graduate
+10953,Tourism,daytime,29,male,0,0,0,0,126.0,6,12,0,0.0,Dropout
+10955,Journalism and Communication,daytime,18,female,1,0,1,1,126.4,6,9,6,11.17,Graduate
+10957,Agronomy,daytime,20,male,0,0,1,1,130.0,6,14,5,11.71,Graduate
+10960,Social Service (evening attendance),evening,37,female,0,1,0,0,116.5,6,6,0,0.0,Dropout
+10961,Nursing,daytime,19,female,0,0,1,1,120.5,8,11,7,13.26,Graduate
+10962,Social Service (evening attendance),evening,23,female,0,0,1,1,130.0,9,10,9,10.89,Graduate
+10963,Agronomy,daytime,22,male,0,0,1,0,120.0,6,15,3,11.75,Dropout
+10965,Journalism and Communication,daytime,19,female,1,1,1,1,133.1,6,8,6,12.17,Dropout
+10966,Management (evening attendance),evening,32,male,0,0,1,1,128.2,5,5,0,0.0,Dropout
+10967,Management (evening attendance),evening,37,female,0,1,0,0,118.1,5,0,0,0.0,Dropout
+10968,Nursing,daytime,19,female,0,0,1,0,123.9,7,8,6,13.3,Graduate
+10969,Nursing,daytime,18,female,1,0,1,1,126.3,8,8,8,13.44,Graduate
+10973,Management,daytime,49,male,0,0,0,0,115.8,5,5,0,0.0,Dropout
+10976,Veterinary Nursing,daytime,19,female,0,0,1,0,123.4,5,6,5,12.4,Graduate
+10978,Management (evening attendance),evening,40,male,0,0,1,0,114.3,5,9,3,11.0,Enrolled
+10979,Social Service,daytime,19,female,1,0,1,1,112.9,6,7,6,11.86,Graduate
+10982,Equinculture,daytime,21,female,0,0,0,1,130.0,6,12,5,13.29,Dropout
+10983,Animation and Multimedia Design,daytime,20,male,0,0,1,1,148.6,0,0,0,0.0,Dropout
+10985,Oral Hygiene,daytime,19,female,0,0,1,0,119.0,7,10,6,11.15,Enrolled
+10987,Veterinary Nursing,daytime,22,male,1,0,1,1,150.0,7,11,5,12.17,Dropout
+10989,Communication Design,daytime,19,male,0,0,1,1,125.0,6,7,6,12.67,Enrolled
+10990,Social Service,daytime,19,female,1,1,1,1,114.9,6,9,5,11.4,Enrolled
+10991,Tourism,daytime,20,male,0,0,1,0,126.9,6,7,6,13.86,Graduate
+10994,Agronomy,daytime,29,female,0,1,1,0,140.0,6,11,5,12.6,Graduate
+10997,Management,daytime,21,female,0,0,1,1,117.4,7,10,6,11.33,Graduate
+11001,Nursing,daytime,19,female,0,0,1,0,137.4,7,7,7,13.54,Graduate
+11003,Animation and Multimedia Design,daytime,19,female,0,0,1,1,132.0,0,0,0,0.0,Dropout
+11004,Management,daytime,19,male,0,0,1,1,117.0,5,5,4,10.75,Enrolled
+11005,Management (evening attendance),evening,31,female,0,0,1,0,129.2,10,16,5,11.4,Dropout
+11006,Nursing,daytime,18,female,0,0,1,0,136.7,7,7,7,14.0,Graduate
+11007,Social Service (evening attendance),evening,45,female,0,0,1,0,141.5,6,9,5,12.33,Graduate
+11008,Journalism and Communication,daytime,19,female,0,0,1,0,118.3,6,8,4,11.25,Dropout
+11014,Management (evening attendance),evening,27,female,0,0,1,0,123.2,5,9,3,10.67,Enrolled
+11015,Nursing,daytime,19,female,0,0,1,0,120.0,7,7,6,14.57,Graduate
+11016,Oral Hygiene,daytime,19,female,1,0,1,1,119.0,7,8,7,12.14,Dropout
+11020,Veterinary Nursing,daytime,18,female,0,0,1,1,127.1,5,8,4,13.25,Graduate
+11021,Management (evening attendance),evening,33,male,0,0,1,1,156.0,5,5,5,14.2,Graduate
+11022,Animation and Multimedia Design,daytime,23,male,1,0,1,0,129.1,0,0,0,0.0,Graduate
+11024,Social Service (evening attendance),evening,40,female,0,0,1,0,152.4,6,7,6,11.33,Graduate
+11025,Journalism and Communication,daytime,20,female,0,0,1,1,120.8,6,9,4,13.25,Graduate
+11026,Social Service,daytime,19,male,0,0,1,1,111.8,6,9,4,11.5,Dropout
+11027,Nursing,daytime,27,male,0,0,1,1,126.0,7,7,7,14.09,Enrolled
+11028,Nursing,daytime,18,female,0,0,1,1,126.0,8,8,7,13.31,Graduate
+11030,Equinculture,daytime,20,female,0,0,1,0,140.0,17,29,14,12.56,Graduate
+11034,Nursing,daytime,18,female,0,0,1,0,147.3,7,7,6,13.97,Graduate
+11037,Communication Design,daytime,18,female,0,0,1,1,156.8,6,6,6,12.67,Graduate
+11039,Journalism and Communication,daytime,20,female,0,0,1,1,118.9,6,6,6,13.33,Graduate
+11041,Social Service,daytime,18,female,0,0,1,1,122.1,6,9,5,11.83,Graduate
+11042,Nursing,daytime,18,female,0,0,1,1,131.6,7,8,7,13.14,Graduate
+11046,Nursing,daytime,20,female,0,0,1,1,117.2,7,9,6,11.6,Graduate
+11047,Animation and Multimedia Design,daytime,18,female,0,0,1,1,163.6,0,0,0,0.0,Enrolled
+11051,Equinculture,daytime,37,male,0,0,1,1,154.0,5,12,3,12.0,Graduate
+11052,Equinculture,daytime,21,female,0,0,1,1,130.0,6,12,5,13.6,Enrolled
+11053,Basic Education,daytime,18,female,0,1,1,0,142.8,6,10,5,13.0,Dropout
+11054,Communication Design,daytime,18,male,1,0,1,0,138.0,6,6,6,13.67,Graduate
+11058,Nursing,daytime,19,female,1,0,1,1,127.3,7,7,6,13.8,Graduate
+11062,Social Service (evening attendance),evening,25,female,0,1,1,0,119.5,6,6,6,11.33,Enrolled
+11066,Oral Hygiene,daytime,32,female,0,0,1,1,111.3,7,7,0,0.0,Dropout
+11068,Communication Design,daytime,18,female,0,0,1,0,110.8,6,6,6,11.83,Enrolled
+11070,Journalism and Communication,daytime,27,female,0,1,0,0,104.0,6,6,5,12.0,Dropout
+11071,Basic Education,daytime,41,female,0,1,1,0,125.2,21,23,21,12.33,Graduate
+11072,Management (evening attendance),evening,26,male,0,0,1,0,125.0,5,7,5,12.6,Graduate
+11073,Basic Education,daytime,21,female,0,0,1,1,137.5,6,7,6,13.43,Graduate
+11076,Tourism,daytime,28,female,0,0,0,1,110.0,5,10,0,0.0,Dropout
+11077,Nursing,daytime,18,female,0,0,1,1,139.8,7,7,7,13.69,Graduate
+11079,Management (evening attendance),evening,48,male,0,0,1,0,151.1,5,9,5,12.29,Graduate
+11081,Informatics Engineering,daytime,46,male,0,0,1,1,150.0,5,6,0,0.0,Dropout
+11085,Social Service,daytime,21,female,0,0,1,0,141.8,6,7,6,12.57,Graduate
+11086,Basic Education,daytime,23,female,0,0,1,0,128.2,16,17,16,14.62,Graduate
+11087,Tourism,daytime,21,male,0,0,1,0,116.9,6,7,5,11.0,Graduate
+11088,Veterinary Nursing,daytime,21,female,0,0,1,0,125.1,9,14,8,13.56,Graduate
+11091,Communication Design,daytime,22,male,0,0,1,1,120.2,6,9,6,14.67,Graduate
+11092,Agronomy,daytime,19,male,0,0,1,0,120.0,6,17,1,11.0,Enrolled
+11098,Management,daytime,19,female,1,0,1,1,120.6,5,5,5,12.8,Graduate
+11099,Social Service (evening attendance),evening,39,male,0,0,1,0,108.3,6,8,5,11.4,Enrolled
+11101,Nursing,daytime,20,female,1,0,1,1,119.6,7,8,7,14.0,Graduate
+11102,Informatics Engineering,daytime,20,male,0,1,1,1,119.9,5,5,0,0.0,Dropout
+11106,Communication Design,daytime,20,female,1,1,1,1,126.7,6,9,6,13.33,Graduate
+11111,Basic Education,daytime,28,female,0,0,0,1,150.2,6,9,4,12.75,Dropout
+11112,Informatics Engineering,daytime,24,male,0,0,1,1,100.9,5,9,1,12.0,Enrolled
+11114,Social Service,daytime,20,female,1,0,1,0,118.3,11,12,11,12.0,Graduate
+11115,Management (evening attendance),evening,27,female,0,0,1,1,152.0,5,0,0,0.0,Dropout
+11118,Animation and Multimedia Design,daytime,21,male,0,0,1,0,140.0,0,0,0,0.0,Enrolled
+11119,Veterinary Nursing,daytime,21,female,0,0,1,1,140.0,6,16,5,12.67,Enrolled
+11120,Informatics Engineering,daytime,28,male,0,0,1,1,137.0,5,11,4,10.5,Enrolled
+11121,Nursing,daytime,18,female,1,0,1,1,126.2,7,10,5,11.94,Enrolled
+11126,Advertising and Marketing Management,daytime,19,female,0,0,1,1,115.5,6,8,4,11.0,Enrolled
+11127,Management,daytime,29,female,0,0,0,0,109.9,4,4,0,0.0,Dropout
+11129,Management (evening attendance),evening,29,female,0,0,1,0,141.0,15,15,11,11.45,Dropout
+11136,Veterinary Nursing,daytime,19,male,0,0,0,0,122.5,6,11,5,13.6,Enrolled
+11137,Nursing,daytime,19,female,1,0,1,1,133.0,8,8,8,14.11,Graduate
+11140,Nursing,daytime,22,female,1,0,1,1,125.6,7,9,6,13.08,Graduate
+11143,Communication Design,daytime,19,female,1,0,1,1,142.2,6,6,6,12.83,Graduate
+11144,Veterinary Nursing,daytime,20,female,0,0,1,0,119.1,6,8,6,13.29,Graduate
+11145,Management,daytime,24,male,0,0,1,1,100.0,5,8,3,10.67,Dropout
+11150,Communication Design,daytime,20,female,1,0,1,1,127.2,6,9,5,13.4,Graduate
+11156,Veterinary Nursing,daytime,18,female,0,0,1,1,135.8,5,6,5,13.33,Graduate
+11157,Basic Education,daytime,20,female,0,0,1,0,122.6,6,8,3,12.33,Dropout
+11158,Nursing,daytime,18,female,1,0,1,1,131.0,8,8,8,13.88,Graduate
+11159,Nursing,daytime,21,female,1,0,1,0,117.0,8,8,8,13.26,Graduate
+11160,Tourism,daytime,20,male,0,0,1,1,112.4,6,10,6,12.33,Graduate
+11162,Basic Education,daytime,42,male,0,0,1,1,114.3,6,9,5,12.4,Enrolled
+11163,Nursing,daytime,19,female,1,0,1,0,138.7,7,10,7,15.11,Graduate
+11164,Tourism,daytime,45,female,1,0,1,0,122.7,6,10,4,11.5,Dropout
+11165,Advertising and Marketing Management,daytime,19,female,0,0,1,1,137.3,6,7,5,13.4,Graduate
+11170,Advertising and Marketing Management,daytime,19,female,0,0,1,0,133.3,5,5,5,13.0,Graduate
+11171,Nursing,daytime,17,female,1,0,1,1,133.3,8,8,8,13.42,Graduate
+11172,Veterinary Nursing,daytime,26,male,0,0,1,1,130.0,6,20,4,12.5,Dropout
+11173,Journalism and Communication,daytime,19,female,0,0,1,1,105.5,6,6,6,13.0,Graduate
+11174,Nursing,daytime,20,male,0,0,1,0,121.4,7,10,5,13.98,Enrolled
+11175,Oral Hygiene,daytime,18,female,1,0,1,1,130.5,7,8,7,12.21,Graduate
+11177,Journalism and Communication,daytime,18,female,0,0,1,1,120.4,5,7,2,10.0,Dropout
+11179,Nursing,daytime,18,female,1,0,1,1,130.3,8,8,8,14.15,Graduate
+11184,Social Service,daytime,20,female,0,0,1,1,135.7,6,6,6,12.83,Graduate
+11186,Communication Design,daytime,38,male,0,0,1,0,100.0,6,9,5,16.0,Enrolled
+11187,Management (evening attendance),evening,41,female,0,0,1,0,130.0,10,11,10,14.3,Graduate
+11188,Tourism,daytime,18,male,0,0,0,1,114.8,5,6,0,0.0,Dropout
+11190,Social Service (evening attendance),evening,27,female,0,0,1,0,100.0,6,6,4,12.5,Dropout
+11192,Nursing,daytime,24,male,0,0,1,0,100.8,7,18,0,0.0,Dropout
+11194,Nursing,daytime,18,male,0,0,1,1,114.3,7,8,6,13.98,Enrolled
+11200,Management,daytime,21,female,0,0,1,1,113.8,5,9,3,11.67,Graduate
+11204,Social Service (evening attendance),evening,32,female,1,0,1,0,113.0,6,18,2,10.33,Graduate
+11207,Nursing,daytime,20,female,1,0,1,0,133.0,8,8,7,14.57,Graduate
+11208,Management,daytime,20,female,1,0,1,1,119.1,5,5,5,11.6,Graduate
+11211,Management (evening attendance),evening,47,male,0,0,1,0,150.0,5,8,4,10.0,Enrolled
+11212,Journalism and Communication,daytime,19,female,0,1,0,1,115.8,6,6,0,0.0,Dropout
+11215,Veterinary Nursing,daytime,20,female,0,0,1,0,170.0,11,13,11,15.69,Graduate
+11216,Journalism and Communication,daytime,18,female,0,0,1,1,133.5,6,6,6,12.67,Graduate
+11219,Nursing,daytime,24,female,0,0,1,0,170.0,7,7,7,16.89,Graduate
+11220,Biofuel Production Technologies,daytime,26,female,0,0,1,0,152.8,7,9,7,14.75,Enrolled
+11222,Equinculture,daytime,30,female,1,0,1,1,110.0,6,7,0,0.0,Dropout
+11225,Nursing,daytime,18,female,0,0,1,0,133.8,8,8,7,13.49,Graduate
+11226,Basic Education,daytime,19,female,1,0,1,1,126.9,6,9,5,12.2,Enrolled
+11228,Oral Hygiene,daytime,25,female,0,0,1,0,100.0,7,10,3,13.0,Enrolled
+11229,Oral Hygiene,daytime,20,female,0,0,1,0,108.0,7,8,7,12.46,Graduate
+11230,Animation and Multimedia Design,daytime,18,female,1,0,1,1,146.3,0,0,0,0.0,Dropout
+11231,Nursing,daytime,18,male,0,0,1,0,138.8,8,8,7,13.56,Graduate
+11232,Tourism,daytime,20,female,0,0,1,1,115.6,6,6,6,11.0,Graduate
+11233,Nursing,daytime,19,female,1,0,1,1,136.0,7,7,6,14.15,Graduate
+11234,Basic Education,daytime,19,female,0,0,1,1,116.7,6,8,5,13.0,Graduate
+11235,Informatics Engineering,daytime,18,male,0,0,1,1,111.0,5,10,4,11.6,Dropout
+11237,Management,daytime,20,female,0,0,1,1,126.8,5,8,5,12.33,Graduate
+11238,Journalism and Communication,daytime,18,female,0,0,1,1,124.9,6,6,6,13.67,Graduate
+11239,Equinculture,daytime,24,male,0,1,0,0,156.0,6,11,5,11.83,Dropout
+11240,Social Service,daytime,22,female,0,1,0,1,118.8,10,16,6,11.83,Dropout
+11241,Social Service (evening attendance),evening,45,female,0,0,1,0,144.5,6,13,4,12.5,Dropout
+11242,Nursing,daytime,18,male,0,0,1,1,127.3,8,8,7,11.69,Graduate
+11243,Management (evening attendance),evening,33,female,0,0,1,0,134.7,5,5,5,12.8,Graduate
+11246,Veterinary Nursing,daytime,19,male,0,1,0,1,100.0,6,10,5,12.5,Dropout
+11247,Nursing,daytime,19,female,0,1,1,1,122.0,7,0,0,0.0,Dropout
+11248,Nursing,daytime,24,male,0,0,1,0,130.8,7,8,7,11.98,Graduate
+11249,Animation and Multimedia Design,daytime,18,female,0,1,0,1,162.2,0,0,0,0.0,Dropout
+11252,Advertising and Marketing Management,daytime,25,male,1,0,1,0,110.0,6,8,6,14.14,Graduate
+11254,Journalism and Communication,daytime,20,female,0,1,1,0,110.0,6,7,6,13.33,Graduate
+11256,Advertising and Marketing Management,daytime,24,male,0,0,1,0,116.2,6,11,5,12.86,Dropout
+11261,Management (evening attendance),evening,22,male,0,0,0,0,113.2,5,7,3,11.67,Dropout
+11264,Nursing,daytime,19,female,0,0,1,1,120.1,7,12,4,13.38,Enrolled
+11266,Journalism and Communication,daytime,18,female,0,0,1,1,144.2,6,6,6,15.17,Graduate
+11267,Advertising and Marketing Management,daytime,20,male,0,1,1,1,119.0,6,10,1,12.0,Dropout
+11269,Management (evening attendance),evening,42,male,0,0,0,0,130.0,4,4,0,0.0,Dropout
+11273,Informatics Engineering,daytime,20,male,0,0,1,1,121.0,5,10,4,14.25,Enrolled
+11274,Advertising and Marketing Management,daytime,20,male,0,0,0,0,122.9,6,6,6,11.5,Dropout
+11276,Nursing,daytime,18,female,0,0,1,1,126.7,7,0,0,0.0,Dropout
+11277,Tourism,daytime,18,female,1,0,1,1,127.0,6,10,6,11.67,Graduate
+11278,Journalism and Communication,daytime,20,male,1,0,1,1,125.0,6,6,6,12.33,Graduate
+11280,Informatics Engineering,daytime,18,male,0,0,1,1,132.4,5,5,1,16.0,Dropout
+11281,Journalism and Communication,daytime,18,female,1,0,1,1,131.0,6,6,6,12.17,Enrolled
+11282,Tourism,daytime,18,male,0,0,1,1,120.5,6,6,6,14.0,Graduate
+11284,Communication Design,daytime,24,male,1,0,1,1,112.0,6,6,6,15.0,Graduate
+11285,Nursing,daytime,21,female,0,0,1,1,98.1,7,7,7,12.84,Graduate
+11286,Nursing,daytime,19,female,1,0,1,1,123.5,8,8,8,14.75,Graduate
+11287,Management,daytime,18,female,0,0,1,0,117.8,5,8,2,10.0,Enrolled
+11289,Management,daytime,19,female,0,0,1,1,132.0,5,7,4,12.5,Graduate
+11290,Agronomy,daytime,19,female,1,1,1,0,150.0,6,9,6,14.33,Graduate
+11293,Journalism and Communication,daytime,21,female,1,0,1,1,117.9,6,6,5,13.0,Graduate
+11294,Management,daytime,20,female,0,0,1,1,112.0,5,10,3,10.33,Enrolled
+11300,Management,daytime,19,female,0,0,1,1,118.6,5,8,5,10.8,Graduate
+11301,Advertising and Marketing Management,daytime,19,male,0,0,1,0,126.6,6,7,6,14.43,Graduate
+11304,Veterinary Nursing,daytime,22,male,0,0,1,1,134.6,6,16,0,0.0,Dropout
+11306,Informatics Engineering,daytime,18,male,0,0,1,0,148.7,5,6,5,16.2,Graduate
+11308,Communication Design,daytime,18,female,0,0,1,0,113.9,6,8,6,12.5,Enrolled
+11311,Informatics Engineering,daytime,28,male,1,0,1,0,98.7,5,12,3,10.0,Graduate
+11312,Agronomy,daytime,30,male,0,0,1,0,100.0,12,12,3,12.0,Dropout
+11313,Advertising and Marketing Management,daytime,32,male,0,1,1,0,120.0,6,15,2,12.0,Dropout
+11315,Nursing,daytime,19,female,1,0,1,1,124.3,7,9,7,13.31,Graduate
+11316,Tourism,daytime,22,female,0,0,1,1,112.9,6,14,4,12.25,Enrolled
+11318,Journalism and Communication,daytime,18,female,0,0,1,0,113.7,6,8,5,12.6,Enrolled
+11320,Nursing,daytime,18,female,1,0,1,1,122.7,7,8,7,13.78,Graduate
+11322,Informatics Engineering,daytime,19,male,0,0,1,1,125.2,5,9,5,11.83,Enrolled
+11324,Veterinary Nursing,daytime,19,female,0,0,1,1,150.0,5,10,1,13.0,Enrolled
+11325,Advertising and Marketing Management,daytime,28,male,0,0,0,1,106.0,5,7,3,11.67,Dropout
+11327,Nursing,daytime,35,female,0,0,1,0,163.7,7,11,5,13.34,Enrolled
+11332,Oral Hygiene,daytime,43,male,0,0,1,1,190.0,4,4,4,13.88,Dropout
+11333,Animation and Multimedia Design,daytime,18,female,0,0,1,1,130.7,0,0,0,0.0,Dropout
+11335,Tourism,daytime,35,male,0,0,1,0,110.0,6,7,0,0.0,Dropout
+11338,Tourism,daytime,41,female,0,0,1,0,125.0,6,8,6,12.29,Graduate
+11339,Agronomy,daytime,30,male,0,0,0,1,160.0,9,18,6,11.83,Dropout
+11340,Nursing,daytime,18,female,0,0,1,1,128.5,7,9,5,14.06,Enrolled
+11342,Veterinary Nursing,daytime,19,female,1,0,1,1,128.4,5,7,5,12.5,Graduate
+11344,Management,daytime,34,male,0,0,1,0,140.0,5,10,3,11.67,Graduate
+11346,Social Service,daytime,20,female,1,0,0,0,130.0,6,10,5,13.4,Graduate
+11347,Basic Education,daytime,21,female,0,0,1,0,134.0,6,0,0,0.0,Dropout
+11351,Veterinary Nursing,daytime,21,female,0,0,1,1,130.0,6,13,3,11.75,Enrolled
+11352,Tourism,daytime,18,female,0,0,1,1,118.5,6,6,6,10.67,Graduate
+11353,Equinculture,daytime,21,female,0,1,1,0,120.0,5,9,5,13.2,Enrolled
+11354,Journalism and Communication,daytime,21,male,1,0,1,0,126.8,6,8,5,13.83,Graduate
+11355,Tourism,daytime,18,female,0,0,1,1,122.0,6,8,6,11.33,Graduate
+11356,Social Service (evening attendance),evening,43,female,0,0,1,1,108.7,6,6,6,13.0,Graduate
+11359,Nursing,daytime,29,female,0,0,1,1,120.0,8,8,6,12.25,Dropout
+11369,Advertising and Marketing Management,daytime,19,female,0,1,0,0,120.7,6,13,3,10.67,Dropout
+11370,Advertising and Marketing Management,daytime,18,male,0,0,1,1,129.1,6,6,4,11.25,Dropout
+11373,Informatics Engineering,daytime,20,male,0,0,1,0,114.0,5,9,4,11.6,Enrolled
+11374,Management,daytime,20,male,0,0,1,1,139.3,5,0,0,0.0,Dropout
+11375,Oral Hygiene,daytime,19,female,1,0,1,1,121.3,7,8,7,13.39,Graduate
+11376,Social Service,daytime,18,female,0,0,1,1,129.4,6,7,6,12.33,Graduate
+11381,Social Service,daytime,20,female,0,0,1,1,104.2,6,6,6,12.17,Graduate
+11382,Veterinary Nursing,daytime,21,male,0,0,1,1,111.9,5,11,0,0.0,Graduate
+11388,Veterinary Nursing,daytime,28,female,0,0,1,0,125.0,6,8,6,14.43,Enrolled
+11389,Nursing,daytime,19,female,1,0,1,1,126.3,7,9,6,12.34,Graduate
+11390,Agronomy,daytime,32,male,0,1,0,0,130.0,6,8,3,13.0,Dropout
+11391,Nursing,daytime,24,male,0,0,1,0,150.0,8,8,7,12.74,Graduate
+11394,Informatics Engineering,daytime,21,male,0,0,1,1,122.9,5,10,4,13.2,Enrolled
+11395,Nursing,daytime,19,female,1,0,1,1,114.5,7,7,7,13.09,Graduate
+11396,Social Service (evening attendance),evening,24,female,1,0,1,0,113.0,6,11,4,12.0,Graduate
+11398,Informatics Engineering,daytime,39,male,0,0,1,0,146.5,5,10,3,17.33,Dropout
+11400,Communication Design,daytime,21,male,1,0,1,1,112.0,6,6,6,13.5,Graduate
+11401,Management,daytime,18,female,0,0,1,1,125.0,5,6,5,12.8,Graduate
+11405,Nursing,daytime,19,female,1,0,1,1,114.8,7,11,4,12.65,Enrolled
+11406,Advertising and Marketing Management,daytime,19,female,0,0,1,1,121.0,6,8,6,13.5,Graduate
+11407,Tourism,daytime,20,female,1,0,1,0,137.0,6,8,6,11.17,Graduate
+11410,Journalism and Communication,daytime,19,female,0,0,1,0,137.4,6,6,6,15.0,Enrolled
+11415,Management,daytime,18,female,1,0,1,0,147.8,5,9,5,13.2,Graduate
+11417,Nursing,daytime,18,female,0,0,1,1,127.5,7,7,7,13.46,Graduate
+11418,Nursing,daytime,21,female,1,0,1,1,123.0,8,8,8,13.1,Graduate
+11419,Nursing,daytime,19,female,0,0,1,1,131.9,7,7,7,13.64,Dropout
+11421,Nursing,daytime,18,female,1,0,1,1,130.6,7,8,7,13.15,Graduate
+11423,Equinculture,daytime,18,male,0,0,1,1,135.6,5,5,5,15.4,Dropout
+11424,Agronomy,daytime,20,female,1,0,1,0,160.0,6,8,6,12.62,Graduate
+11428,Nursing,daytime,21,female,0,0,1,1,120.5,8,8,7,12.91,Graduate
+11430,Tourism,daytime,18,male,0,0,1,1,126.1,6,6,6,13.67,Graduate
+11431,Informatics Engineering,daytime,33,male,0,0,0,0,118.0,5,11,0,0.0,Dropout
+11432,Social Service,daytime,19,female,1,0,1,1,120.4,6,6,6,13.5,Graduate
+11433,Agronomy,daytime,21,male,0,0,1,1,150.0,6,12,4,11.8,Dropout
+11435,Communication Design,daytime,19,male,0,0,1,1,136.6,6,7,5,11.4,Enrolled
+11437,Animation and Multimedia Design,daytime,24,male,0,0,1,1,114.5,0,0,0,0.0,Graduate
+11438,Management,daytime,18,female,1,0,1,1,124.3,5,8,4,10.75,Graduate
+11441,Tourism,daytime,20,male,0,0,0,1,111.9,6,14,2,10.5,Dropout
+11443,Social Service,daytime,19,female,1,0,1,0,123.6,6,7,6,14.14,Graduate
+11445,Social Service (evening attendance),evening,33,male,0,0,0,0,115.5,6,6,1,11.0,Dropout
+11447,Journalism and Communication,daytime,18,female,1,0,1,0,150.2,6,6,6,14.5,Graduate
+11448,Social Service,daytime,21,male,0,0,1,1,117.1,6,6,6,12.33,Graduate
+11449,Nursing,daytime,18,female,1,0,1,1,128.5,7,7,7,14.87,Graduate
+11456,Nursing,daytime,20,female,1,0,1,1,127.3,7,7,6,12.63,Graduate
+11458,Management,daytime,18,male,1,0,1,1,121.0,5,8,5,12.75,Graduate
+11460,Nursing,daytime,18,female,0,0,1,1,131.8,7,7,6,14.72,Graduate
+11461,Social Service,daytime,33,male,0,1,0,0,139.0,6,8,0,0.0,Dropout
+11462,Journalism and Communication,daytime,22,female,0,0,1,1,120.0,6,6,6,13.0,Graduate
+11464,Informatics Engineering,daytime,27,male,0,0,1,0,111.3,6,7,3,12.0,Dropout
+11467,Veterinary Nursing,daytime,23,female,0,0,1,1,150.0,6,14,5,14.43,Graduate
+11468,Nursing,daytime,19,female,0,0,1,1,117.4,7,12,5,11.8,Enrolled
+11472,Social Service,daytime,22,female,0,0,1,1,136.7,6,11,4,12.5,Enrolled
+11473,Journalism and Communication,daytime,18,female,1,0,1,1,120.4,6,6,6,12.83,Graduate
+11474,Social Service,daytime,22,male,0,0,1,0,138.6,6,7,6,12.33,Dropout
+11475,Social Service,daytime,18,female,1,0,1,1,127.4,6,8,6,12.25,Graduate
+11476,Veterinary Nursing,daytime,27,female,0,0,1,1,155.7,12,17,11,14.73,Graduate
+11478,Nursing,daytime,19,female,0,0,0,1,132.5,7,0,0,0.0,Dropout
+11480,Animation and Multimedia Design,daytime,25,male,0,0,0,0,140.0,0,0,0,0.0,Dropout
+11483,Advertising and Marketing Management,daytime,18,female,0,1,1,1,114.2,6,6,5,11.8,Dropout
+11485,Tourism,daytime,47,male,0,0,1,0,148.3,11,11,11,14.73,Graduate
+11486,Management,daytime,19,male,0,0,0,1,112.9,5,7,2,12.5,Dropout
+11487,Animation and Multimedia Design,daytime,21,female,0,0,1,1,151.9,17,20,17,12.0,Graduate
+11488,Nursing,daytime,18,female,1,0,1,1,130.3,8,8,7,13.81,Graduate
+11489,Management,daytime,45,female,0,0,1,0,130.0,5,6,5,11.0,Graduate
+11491,Nursing,daytime,18,male,0,0,1,0,129.0,8,8,7,13.11,Graduate
+11495,Communication Design,daytime,21,female,0,0,1,1,120.0,10,10,10,13.0,Dropout
+11496,Tourism,daytime,18,female,0,0,1,1,117.5,6,9,4,11.25,Dropout
+11499,Journalism and Communication,daytime,18,female,1,0,1,0,146.5,6,6,6,13.33,Graduate
+11500,Advertising and Marketing Management,daytime,18,female,0,0,1,1,130.6,6,6,6,12.33,Graduate
+11504,Nursing,daytime,20,male,0,0,1,0,120.0,8,8,7,15.03,Graduate
+11506,Veterinary Nursing,daytime,19,female,0,0,1,1,113.6,5,13,3,12.0,Enrolled
+11507,Veterinary Nursing,daytime,19,female,0,0,0,1,114.0,5,12,0,0.0,Dropout
+11509,Equinculture,daytime,18,male,0,0,1,1,115.4,6,8,6,13.71,Dropout
+11511,Social Service,daytime,18,female,0,0,1,1,123.6,6,9,4,11.5,Enrolled
+11517,Informatics Engineering,daytime,26,male,0,1,0,1,118.1,5,11,1,10.0,Dropout
+11518,Management,daytime,24,female,0,0,1,0,134.8,5,12,2,10.5,Enrolled
+11522,Management (evening attendance),evening,31,female,1,0,1,0,148.0,5,11,4,11.25,Enrolled
+11523,Nursing,daytime,18,female,1,0,1,1,127.0,8,8,7,13.59,Graduate
+11524,Advertising and Marketing Management,daytime,18,female,1,1,0,1,106.1,6,6,1,11.0,Dropout
+11525,Communication Design,daytime,19,female,1,0,1,1,132.0,6,6,6,14.17,Graduate
+11528,Journalism and Communication,daytime,18,female,0,0,1,1,115.8,6,7,6,12.57,Graduate
+11529,Management,daytime,20,female,1,0,1,1,101.7,5,6,5,11.8,Graduate
+11531,Veterinary Nursing,daytime,23,female,0,0,1,1,130.0,6,7,0,0.0,Dropout
+11532,Social Service,daytime,18,female,1,0,1,1,155.5,6,7,6,12.83,Graduate
+11533,Oral Hygiene,daytime,36,male,0,0,1,0,160.0,7,16,1,12.0,Dropout
+11536,Social Service (evening attendance),evening,44,male,0,0,1,0,172.0,11,21,9,12.33,Enrolled
+11537,Management,daytime,20,male,0,0,1,1,124.3,5,7,4,10.75,Dropout
+11538,Management,daytime,19,female,0,0,1,0,107.7,5,7,2,10.0,Dropout
+11539,Communication Design,daytime,18,female,0,0,1,1,120.7,6,8,4,10.75,Enrolled
+11545,Basic Education,daytime,19,female,0,0,1,1,133.2,6,6,6,14.17,Graduate
+11547,Animation and Multimedia Design,daytime,20,female,1,0,1,1,143.3,0,0,0,0.0,Graduate
+11548,Management,daytime,24,female,0,0,1,1,106.0,5,11,2,10.5,Enrolled
+11549,Communication Design,daytime,19,male,0,0,1,1,110.4,6,6,6,11.5,Graduate
+11550,Nursing,daytime,19,male,0,0,1,1,122.0,8,8,7,12.2,Graduate
+11551,Communication Design,daytime,18,female,0,0,1,1,146.7,6,6,6,13.67,Graduate
+11552,Social Service (evening attendance),evening,37,female,0,0,0,0,127.0,4,4,0,0.0,Dropout
+11553,Management,daytime,19,male,0,0,1,0,115.2,5,6,5,12.6,Graduate
+11554,Tourism,daytime,21,female,0,0,0,1,140.0,6,6,6,11.5,Graduate
+11556,Communication Design,daytime,19,male,0,0,0,1,130.8,6,0,0,0.0,Dropout
+11559,Tourism,daytime,45,male,0,1,0,0,120.0,6,12,0,0.0,Dropout
+11560,Oral Hygiene,daytime,25,female,0,0,1,1,159.0,7,11,7,11.86,Enrolled
+11562,Basic Education,daytime,20,female,0,0,1,1,113.2,6,12,4,12.0,Dropout
+11565,Social Service,daytime,18,female,0,0,1,1,119.1,6,9,4,11.0,Graduate
+11566,Management (evening attendance),evening,34,male,0,0,1,0,100.0,5,5,5,13.8,Graduate
+11567,Animation and Multimedia Design,daytime,19,male,1,0,1,1,129.0,0,0,0,0.0,Graduate
+11568,Social Service,daytime,19,female,0,0,1,0,110.5,6,10,6,14.25,Graduate
+11569,Oral Hygiene,daytime,32,female,0,0,1,0,130.0,7,10,7,11.0,Graduate
+11571,Tourism,daytime,19,female,0,0,1,1,124.9,6,11,3,12.0,Dropout
+11572,Social Service,daytime,19,female,1,0,1,0,122.8,6,8,6,14.0,Graduate
+11573,Management,daytime,19,female,0,0,1,1,118.0,5,7,5,13.6,Graduate
+11576,Management,daytime,19,female,0,0,1,0,122.2,5,11,3,10.67,Graduate
+11577,Veterinary Nursing,daytime,20,female,1,0,1,1,124.1,5,13,5,14.0,Graduate
+11578,Management (evening attendance),evening,45,male,0,0,1,0,168.2,5,6,5,14.0,Graduate
+11579,Basic Education,daytime,18,female,1,0,1,1,127.9,7,7,7,14.86,Graduate
+11580,Animation and Multimedia Design,daytime,19,male,0,0,1,0,110.0,0,0,0,0.0,Dropout
+11582,Social Service,daytime,18,female,0,0,1,0,131.6,6,7,6,13.83,Graduate
+11583,Veterinary Nursing,daytime,20,male,0,0,1,0,117.2,5,7,5,14.6,Graduate
+11584,Animation and Multimedia Design,daytime,18,male,1,0,1,1,129.3,0,0,0,0.0,Enrolled
+11587,Advertising and Marketing Management,daytime,39,female,1,1,1,0,120.0,5,6,5,10.6,Graduate
+11588,Nursing,daytime,19,female,0,0,1,0,120.5,7,7,6,14.15,Graduate
+11590,Veterinary Nursing,daytime,18,female,0,0,1,0,139.4,5,9,3,12.0,Enrolled
+11595,Agronomy,daytime,23,female,0,0,1,1,130.0,17,28,17,13.15,Graduate
+11598,Social Service,daytime,19,female,0,0,1,0,117.2,6,11,5,11.2,Graduate
+11599,Nursing,daytime,18,female,1,0,1,1,131.9,7,7,7,15.1,Graduate
+11601,Nursing,daytime,18,female,1,0,1,1,123.6,7,8,5,12.86,Enrolled
+11604,Nursing,daytime,18,female,0,0,1,0,142.8,7,7,7,13.7,Graduate
+11605,Animation and Multimedia Design,daytime,21,male,0,1,1,1,136.2,12,12,11,11.55,Enrolled
+11607,Tourism,daytime,19,male,0,0,1,1,116.1,6,7,5,12.2,Enrolled
+11609,Informatics Engineering,daytime,24,male,0,0,1,0,120.0,5,6,3,10.67,Enrolled
+11612,Social Service,daytime,21,female,0,1,1,0,126.7,6,6,6,12.17,Graduate
+11615,Basic Education,daytime,18,female,1,1,1,0,127.4,7,7,7,12.71,Graduate
+11618,Veterinary Nursing,daytime,18,female,0,0,1,0,158.7,6,7,6,14.86,Graduate
+11621,Advertising and Marketing Management,daytime,21,female,0,0,1,0,117.1,5,7,3,12.67,Enrolled
+11622,Advertising and Marketing Management,daytime,35,male,0,0,1,0,111.6,5,5,1,14.0,Dropout
+11624,Tourism,daytime,18,female,1,0,1,0,127.7,6,7,6,11.29,Graduate
+11626,Nursing,daytime,20,female,0,1,1,1,126.0,7,7,6,15.4,Graduate
+11632,Management (evening attendance),evening,38,female,0,0,1,0,112.9,15,16,14,10.93,Dropout
+11633,Social Service (evening attendance),evening,38,female,1,0,1,0,128.5,6,6,5,12.4,Graduate
+11634,Basic Education,daytime,34,female,0,0,1,0,100.0,12,18,11,13.0,Dropout
+11636,Agronomy,daytime,21,male,0,0,1,0,140.0,6,12,5,12.14,Graduate
+11640,Equinculture,daytime,22,female,0,0,0,1,150.0,6,10,3,12.67,Dropout
+11644,Communication Design,daytime,20,female,0,0,1,1,148.0,12,12,10,14.7,Graduate
+11645,Nursing,daytime,19,female,1,0,1,1,126.5,8,8,8,13.58,Graduate
+11648,Journalism and Communication,daytime,18,female,0,0,1,0,143.0,6,6,5,13.0,Graduate
+11650,Advertising and Marketing Management,daytime,18,female,0,0,1,1,119.4,6,10,4,13.6,Graduate
+11654,Social Service (evening attendance),evening,29,male,0,0,1,1,97.5,6,10,0,0.0,Dropout
+11655,Animation and Multimedia Design,daytime,18,female,1,0,0,1,126.8,0,0,0,0.0,Dropout
+11656,Communication Design,daytime,21,male,1,0,1,1,116.3,7,7,4,11.5,Graduate
+11657,Nursing,daytime,27,female,0,0,1,1,111.8,7,0,0,0.0,Dropout
+11662,Animation and Multimedia Design,daytime,18,male,0,0,1,1,143.6,0,0,0,0.0,Graduate
+11664,Informatics Engineering,daytime,34,male,0,0,1,1,128.2,6,8,4,11.25,Dropout
+11665,Advertising and Marketing Management,daytime,25,female,1,0,1,0,100.0,5,7,4,10.5,Graduate
+11668,Informatics Engineering,daytime,26,male,0,0,1,1,108.2,10,14,4,11.25,Dropout
+11669,Management (evening attendance),evening,32,male,0,0,1,1,135.0,5,5,5,14.8,Graduate
+11673,Communication Design,daytime,21,female,0,0,1,1,120.0,6,7,5,12.2,Enrolled
+11675,Journalism and Communication,daytime,28,male,0,0,1,1,102.0,6,11,3,13.0,Dropout
+11676,Oral Hygiene,daytime,39,female,0,0,1,0,100.5,3,7,1,14.0,Dropout
+11677,Animation and Multimedia Design,daytime,20,female,0,0,1,1,128.2,12,13,12,11.23,Graduate
+11679,Animation and Multimedia Design,daytime,19,female,1,0,1,1,151.3,12,12,12,12.75,Graduate
+11680,Nursing,daytime,18,female,0,0,1,1,133.0,7,8,7,12.54,Graduate
+11681,Social Service,daytime,19,female,1,1,0,1,125.0,6,8,5,10.6,Graduate
+11684,Nursing,daytime,22,female,1,0,1,1,131.0,23,23,20,14.58,Graduate
+11686,Basic Education,daytime,20,female,1,0,0,0,111.5,6,10,4,12.0,Dropout
+11688,Advertising and Marketing Management,daytime,43,female,1,0,1,0,135.6,6,8,5,11.0,Graduate
+11690,Animation and Multimedia Design,daytime,21,female,0,0,1,1,131.6,12,12,8,13.88,Dropout
+11693,Nursing,daytime,18,female,0,0,1,0,149.3,8,8,8,14.04,Graduate
+11696,Communication Design,daytime,21,female,1,0,1,0,155.0,6,7,5,13.0,Graduate
+11697,Management,daytime,21,male,1,1,1,0,111.6,5,5,5,12.6,Enrolled
+11698,Informatics Engineering,daytime,32,female,0,0,0,0,122.5,5,6,0,0.0,Dropout
+11699,Social Service (evening attendance),evening,18,female,0,0,1,0,120.0,16,24,13,13.85,Dropout
+11704,Nursing,daytime,18,female,0,0,1,1,114.5,7,11,6,11.98,Graduate
+11705,Nursing,daytime,18,female,0,0,1,1,122.1,7,8,7,14.13,Graduate
+11707,Management,daytime,18,female,1,0,1,1,115.3,5,9,3,13.0,Enrolled
+11708,Social Service,daytime,19,male,0,1,0,0,122.1,6,6,4,11.5,Dropout
+11711,Communication Design,daytime,47,male,0,0,1,0,148.5,10,14,8,14.62,Dropout
+11712,Equinculture,daytime,18,male,0,0,1,1,130.4,6,6,6,13.5,Graduate
+11713,Management (evening attendance),evening,37,female,0,0,0,0,140.0,5,5,0,0.0,Dropout
+11714,Communication Design,daytime,22,male,0,0,1,1,123.2,6,6,6,14.17,Graduate
+11718,Nursing,daytime,19,female,0,0,1,0,133.8,7,0,0,0.0,Dropout
+11719,Social Service (evening attendance),evening,54,male,0,0,1,0,100.0,13,14,13,13.31,Enrolled
+11722,Journalism and Communication,daytime,18,male,1,0,1,1,133.9,6,7,6,13.5,Graduate
+11723,Management,daytime,18,female,0,0,1,0,126.1,5,5,0,0.0,Enrolled
+11724,Journalism and Communication,daytime,18,male,1,0,1,1,113.0,6,7,6,11.67,Graduate
+11726,Communication Design,daytime,20,female,0,0,1,0,123.7,6,6,6,14.5,Graduate
+11727,Journalism and Communication,daytime,18,female,0,0,1,0,120.0,6,6,0,0.0,Dropout
+11728,Nursing,daytime,18,female,1,0,1,1,127.9,7,10,5,13.46,Dropout
+11729,Management,daytime,19,male,0,0,1,1,137.5,5,10,5,12.0,Graduate
+11731,Social Service,daytime,53,female,1,0,1,1,112.5,7,16,6,11.0,Graduate
+11734,Social Service,daytime,21,female,1,0,1,1,126.2,6,7,6,13.33,Graduate
+11735,Basic Education,daytime,18,female,0,0,1,1,132.6,6,8,5,15.4,Graduate
+11745,Social Service (evening attendance),evening,20,female,0,0,1,0,118.3,6,6,6,12.17,Enrolled
+11747,Equinculture,daytime,18,male,0,0,0,0,141.7,6,8,5,11.6,Dropout
+11752,Journalism and Communication,daytime,18,male,1,0,1,0,155.0,6,6,6,15.5,Graduate
+11753,Journalism and Communication,daytime,24,female,0,0,1,0,100.0,6,6,6,12.17,Graduate
+11754,Nursing,daytime,27,female,0,0,1,0,143.7,7,12,4,14.0,Enrolled
+11755,Journalism and Communication,daytime,22,female,0,0,1,1,115.9,6,7,6,13.57,Graduate
+11757,Nursing,daytime,36,female,0,0,1,0,130.0,7,7,0,0.0,Dropout
+11759,Agronomy,daytime,28,male,0,1,0,0,150.0,11,14,11,15.09,Dropout
+11761,Nursing,daytime,18,male,0,0,1,0,128.8,7,7,6,13.39,Graduate
+11763,Equinculture,daytime,20,male,0,0,1,1,143.9,5,14,2,11.0,Enrolled
+11765,Social Service (evening attendance),evening,35,female,1,0,1,0,100.0,16,16,16,12.69,Graduate
+11768,Management,daytime,22,male,0,0,1,0,113.4,5,9,3,13.0,Dropout
+11771,Journalism and Communication,daytime,18,male,1,0,1,0,132.0,6,6,5,12.0,Graduate
+11772,Basic Education,daytime,19,female,0,0,1,1,106.1,6,8,5,12.33,Enrolled
+11773,Nursing,daytime,35,female,1,0,1,0,120.0,8,9,8,13.63,Graduate
+11774,Management (evening attendance),evening,33,male,0,0,1,0,130.0,5,5,0,0.0,Dropout
+11775,Management,daytime,21,male,0,0,1,1,105.9,5,9,4,10.75,Graduate
+11778,Nursing,daytime,19,male,0,0,1,1,100.0,7,9,7,11.98,Graduate
+11780,Management,daytime,22,male,0,0,0,0,115.7,5,10,4,11.5,Enrolled
+11782,Oral Hygiene,daytime,20,female,0,0,1,1,124.4,7,8,7,12.73,Graduate
+11785,Nursing,daytime,24,male,0,0,1,1,106.0,7,7,6,12.67,Graduate
+11786,Nursing,daytime,23,female,1,0,1,1,109.0,7,8,6,12.99,Graduate
+11787,Tourism,daytime,20,female,0,1,0,1,127.3,6,14,3,12.33,Dropout
+11788,Agronomy,daytime,34,male,0,0,1,0,145.8,6,15,5,13.33,Graduate
+11792,Veterinary Nursing,daytime,35,male,0,1,0,0,106.3,5,7,2,11.5,Dropout
+11797,Journalism and Communication,daytime,19,female,1,0,1,0,148.4,6,6,6,13.83,Graduate
+11798,Management,daytime,20,female,0,0,0,1,113.7,5,10,2,10.0,Dropout
+11799,Equinculture,daytime,41,male,0,0,0,0,130.0,5,9,0,0.0,Dropout
+11800,Nursing,daytime,33,female,0,0,0,1,100.0,7,10,5,12.16,Dropout
+11802,Agronomy,daytime,21,male,0,0,1,1,140.0,6,7,6,12.86,Graduate
+11804,Veterinary Nursing,daytime,24,female,0,0,1,1,130.0,6,7,6,14.86,Graduate
+11805,Management,daytime,19,female,1,0,1,1,131.8,5,8,2,10.5,Enrolled
+11806,Social Service,daytime,19,female,1,0,1,1,118.9,6,8,5,11.67,Graduate
+11807,Nursing,daytime,18,male,0,0,1,1,125.6,7,7,7,12.44,Graduate
+11808,Informatics Engineering,daytime,21,male,0,1,0,0,116.2,5,9,2,11.0,Dropout
+11810,Nursing,daytime,19,female,1,0,1,0,126.6,7,7,7,12.9,Graduate
+11811,Animation and Multimedia Design,daytime,24,female,0,0,1,1,155.0,17,19,11,12.91,Enrolled
+11815,Management,daytime,18,male,0,0,1,0,118.3,5,13,1,10.0,Dropout
+11816,Journalism and Communication,daytime,19,female,0,0,1,1,119.6,6,6,4,12.0,Dropout
+11819,Communication Design,daytime,19,female,1,0,1,0,121.8,11,11,11,13.18,Graduate
+11822,Journalism and Communication,daytime,20,female,0,0,1,1,130.5,6,6,6,12.33,Graduate
+11823,Veterinary Nursing,daytime,19,female,0,0,1,0,136.5,6,13,6,15.31,Graduate
+11825,Communication Design,daytime,18,female,0,0,1,0,118.7,6,7,5,11.8,Graduate
+11826,Management,daytime,23,male,0,0,1,1,124.2,5,6,1,10.0,Enrolled
+11828,Management,daytime,20,male,1,0,1,0,115.6,5,8,5,12.38,Graduate
+11833,Basic Education,daytime,24,female,0,0,1,0,111.3,13,17,10,11.5,Dropout
+11834,Equinculture,daytime,18,male,0,0,1,0,127.8,6,7,6,14.29,Graduate
+11835,Nursing,daytime,19,female,1,0,1,1,121.8,8,8,7,13.6,Graduate
+11836,Communication Design,daytime,19,male,0,0,1,0,118.4,6,6,6,11.83,Graduate
+11837,Social Service,daytime,19,female,1,1,1,0,129.3,6,11,3,11.0,Graduate
+11839,Nursing,daytime,21,female,0,0,1,1,118.4,7,12,4,13.12,Enrolled
+11840,Basic Education,daytime,19,female,0,0,1,1,121.9,6,10,5,12.6,Graduate
+11841,Social Service,daytime,18,female,1,0,1,0,124.8,6,9,6,11.5,Graduate
+11842,Journalism and Communication,daytime,18,female,1,0,1,1,120.1,6,6,6,13.67,Graduate
+11843,Management (evening attendance),evening,27,female,0,0,1,0,150.0,5,0,0,0.0,Dropout
+11844,Nursing,daytime,18,female,0,0,0,1,130.8,8,9,6,12.76,Dropout
+11846,Management,daytime,30,male,0,0,1,0,110.0,5,8,2,11.0,Dropout
+11847,Oral Hygiene,daytime,26,female,0,0,1,0,122.8,7,12,6,12.17,Dropout
+11848,Social Service,daytime,20,female,0,0,1,0,126.0,6,11,1,12.0,Enrolled
+11850,Social Service,daytime,19,male,0,0,1,1,115.8,6,11,3,12.0,Dropout
+11853,Tourism,daytime,20,female,0,1,0,1,122.6,6,8,4,11.75,Dropout
+11854,Tourism,daytime,18,male,0,0,0,1,116.5,6,12,0,0.0,Dropout
+11856,Management (evening attendance),evening,38,male,0,0,1,0,121.5,5,11,2,10.5,Enrolled
+11861,Oral Hygiene,daytime,18,female,0,0,1,1,116.3,7,8,7,13.43,Graduate
+11862,Management,daytime,50,female,0,0,1,0,108.0,5,12,3,13.33,Enrolled
+11863,Social Service (evening attendance),evening,39,female,1,1,1,0,131.5,6,9,6,11.83,Graduate
+11865,Informatics Engineering,daytime,25,male,0,1,1,0,135.0,5,5,0,0.0,Dropout
+11868,Veterinary Nursing,daytime,20,female,0,0,1,1,139.8,5,6,5,14.8,Graduate
+11869,Equinculture,daytime,34,male,0,0,1,1,150.0,6,9,0,0.0,Dropout
+11870,Management (evening attendance),evening,23,female,1,0,1,1,120.0,6,8,5,11.8,Graduate
+11873,Management,daytime,19,female,0,0,1,1,117.3,5,15,3,10.8,Enrolled
+11874,Agronomy,daytime,27,male,0,0,1,0,130.0,6,6,6,14.17,Graduate
+11875,Advertising and Marketing Management,daytime,21,female,0,0,1,0,110.0,6,8,5,11.83,Enrolled
+11879,Management (evening attendance),evening,46,female,0,0,1,0,120.0,8,12,8,12.38,Graduate
+11880,Management (evening attendance),evening,37,male,1,0,1,0,138.1,5,8,5,13.0,Dropout
+11881,Social Service,daytime,20,female,1,0,1,0,105.9,6,11,5,10.6,Enrolled
+11883,Nursing,daytime,19,male,0,0,1,0,126.3,7,9,7,12.49,Graduate
+11884,Agronomy,daytime,27,male,0,0,0,1,126.1,6,6,0,0.0,Dropout
+11886,Equinculture,daytime,21,male,0,0,1,1,150.0,6,8,6,12.5,Dropout
+11887,Agronomy,daytime,21,female,0,0,1,1,125.0,14,23,9,12.0,Graduate
+11890,Nursing,daytime,20,female,0,0,1,1,127.3,7,7,6,13.38,Graduate
+11892,Veterinary Nursing,daytime,19,female,0,0,1,0,126.2,6,8,6,14.0,Graduate
+11895,Journalism and Communication,daytime,19,male,0,0,1,1,119.7,6,7,6,12.33,Graduate
+11907,Informatics Engineering,daytime,45,male,0,1,0,0,160.0,5,5,0,0.0,Dropout
+11911,Agronomy,daytime,19,female,0,0,1,0,140.0,6,7,6,12.0,Graduate
+11912,Social Service (evening attendance),evening,31,female,0,1,0,0,120.0,6,14,2,10.5,Dropout
+11913,Animation and Multimedia Design,daytime,19,female,0,1,1,1,143.8,0,0,0,0.0,Enrolled
+11914,Nursing,daytime,19,female,1,0,1,1,119.4,7,7,7,13.37,Graduate
+11915,Basic Education,daytime,22,female,0,0,1,1,118.3,6,11,3,15.0,Enrolled
+11917,Veterinary Nursing,daytime,23,male,0,0,1,1,160.0,6,10,5,12.5,Dropout
+11920,Equinculture,daytime,33,male,0,0,1,1,130.0,5,12,1,13.0,Enrolled
+11924,Animation and Multimedia Design,daytime,21,male,0,0,1,1,117.0,0,0,0,0.0,Dropout
+11926,Social Service,daytime,21,female,1,0,1,0,155.0,6,6,6,13.33,Graduate
+11928,Management,daytime,26,female,0,0,1,0,150.0,5,5,0,0.0,Dropout
+11932,Communication Design,daytime,21,female,1,0,1,0,119.4,6,7,5,13.8,Graduate
+11936,Journalism and Communication,daytime,20,male,0,0,1,0,105.9,6,11,4,10.75,Dropout
+11939,Journalism and Communication,daytime,21,male,0,0,0,1,132.8,6,10,2,12.0,Dropout
+11941,Communication Design,daytime,18,female,0,0,1,1,120.8,6,6,6,14.5,Graduate
+11942,Journalism and Communication,daytime,20,female,1,0,1,1,136.1,6,6,6,13.0,Dropout
+11944,Journalism and Communication,daytime,22,male,1,0,0,1,125.8,4,8,0,0.0,Dropout
+11945,Social Service (evening attendance),evening,50,male,0,0,1,0,112.5,13,13,6,11.33,Dropout
+11947,Agronomy,daytime,31,male,0,0,1,0,110.0,6,15,3,14.4,Dropout
+11950,Advertising and Marketing Management,daytime,19,male,0,0,1,1,129.7,6,10,4,12.5,Enrolled
+11953,Basic Education,daytime,24,female,0,0,0,1,140.0,6,12,0,0.0,Dropout
+11954,Management,daytime,23,female,0,0,1,0,140.0,5,0,0,0.0,Dropout
+11956,Equinculture,daytime,20,male,0,0,1,1,140.0,5,8,2,11.5,Dropout
+11957,Journalism and Communication,daytime,20,male,0,0,1,0,127.0,6,6,6,14.33,Graduate
+11958,Veterinary Nursing,daytime,20,female,0,0,1,1,134.9,5,7,4,12.4,Graduate
+11962,Tourism,daytime,18,female,0,0,1,1,122.7,6,10,4,11.75,Dropout
+11963,Management,daytime,26,male,0,0,0,0,102.5,4,4,0,0.0,Dropout
+11964,Equinculture,daytime,19,male,0,0,1,1,150.0,6,13,5,11.6,Enrolled
+11965,Nursing,daytime,19,female,1,0,1,1,125.5,8,8,7,14.23,Graduate
+11966,Journalism and Communication,daytime,23,female,0,1,1,0,130.0,6,11,1,16.0,Dropout
+11969,Journalism and Communication,daytime,47,male,0,0,1,0,133.0,6,8,5,11.4,Dropout
+11970,Management (evening attendance),evening,38,male,0,0,0,1,96.0,5,5,0,0.0,Dropout
+11971,Veterinary Nursing,daytime,51,male,0,0,1,0,144.0,6,0,0,0.0,Dropout
+11972,Equinculture,daytime,18,female,0,0,1,0,146.2,5,12,4,13.0,Dropout
+11974,Communication Design,daytime,19,female,0,0,1,0,111.9,6,0,0,0.0,Dropout
+11975,Nursing,daytime,19,female,0,0,1,1,133.8,8,9,8,13.23,Graduate
+11977,Social Service,daytime,23,female,1,1,1,0,137.5,6,7,6,13.14,Graduate
+11981,Nursing,daytime,47,male,0,1,0,0,151.0,7,7,0,0.0,Dropout
+11983,Management,daytime,18,female,1,0,1,0,123.0,5,7,5,13.33,Graduate
+11988,Agronomy,daytime,31,female,0,0,1,1,120.0,12,12,11,13.82,Graduate
+11989,Basic Education,daytime,21,female,0,0,1,0,111.0,6,8,5,13.2,Graduate
+11990,Social Service (evening attendance),evening,27,female,0,0,1,0,170.0,5,5,0,0.0,Dropout
+11991,Journalism and Communication,daytime,18,female,0,0,1,1,126.5,6,8,4,12.5,Graduate
+11992,Informatics Engineering,daytime,20,male,0,0,1,1,122.5,5,7,5,10.8,Enrolled
+11993,Communication Design,daytime,20,male,0,0,1,1,127.5,6,6,4,12.0,Enrolled
+11994,Management (evening attendance),evening,38,female,0,0,1,1,120.0,5,11,3,11.33,Dropout
+11995,Agronomy,daytime,24,male,0,1,1,0,180.4,12,17,6,12.17,Dropout
+11997,Veterinary Nursing,daytime,21,female,0,0,1,1,121.3,5,14,2,13.0,Enrolled
+11998,Social Service,daytime,18,female,1,0,1,1,148.9,6,6,6,13.67,Graduate
+11999,Tourism,daytime,20,female,1,0,1,1,109.3,6,6,6,13.83,Graduate
+12002,Management (evening attendance),evening,31,female,0,0,1,0,130.0,6,12,4,12.25,Enrolled
+12003,Management,daytime,20,male,0,0,1,1,135.9,5,8,1,10.0,Dropout
+12006,Advertising and Marketing Management,daytime,18,female,1,0,1,1,123.4,6,10,6,13.25,Graduate
+12007,Social Service,daytime,20,female,0,0,1,0,104.1,6,6,0,0.0,Dropout
+12009,Advertising and Marketing Management,daytime,21,female,0,0,1,1,123.4,5,5,4,11.75,Graduate
+12011,Social Service,daytime,20,female,0,0,1,0,144.7,6,8,6,14.5,Graduate
+12013,Management,daytime,21,male,0,0,1,0,134.3,5,0,0,0.0,Dropout
+12017,Basic Education,daytime,19,female,1,0,1,0,108.0,7,10,6,13.0,Graduate
+12018,Nursing,daytime,18,female,0,0,1,0,129.3,8,8,7,14.2,Graduate
+12019,Management (evening attendance),evening,39,male,0,0,1,0,125.4,2,5,0,0.0,Dropout
+12021,Animation and Multimedia Design,daytime,18,female,1,0,1,1,142.0,0,0,0,0.0,Graduate
+12023,Advertising and Marketing Management,daytime,29,male,0,0,1,0,105.2,6,7,1,14.0,Dropout
+12024,Social Service,daytime,20,female,1,0,1,1,145.6,6,6,6,13.33,Graduate
+12025,Tourism,daytime,53,male,0,0,1,0,156.5,11,12,2,15.0,Graduate
+12026,Journalism and Communication,daytime,18,female,0,0,1,1,128.4,6,6,6,15.5,Graduate
+12027,Informatics Engineering,daytime,18,male,0,0,1,1,107.4,5,8,5,14.0,Graduate
+12028,Management,daytime,19,male,0,0,1,0,121.8,5,8,5,11.6,Graduate
+12029,Journalism and Communication,daytime,19,female,0,0,1,0,126.2,6,6,6,13.17,Graduate
+12033,Social Service,daytime,40,male,1,0,1,0,134.0,6,7,6,12.33,Dropout
+12034,Animation and Multimedia Design,daytime,18,male,0,0,1,1,118.4,0,0,0,0.0,Enrolled
+12036,Veterinary Nursing,daytime,18,female,0,0,1,1,132.4,6,8,6,13.86,Graduate
+12037,Animation and Multimedia Design,daytime,22,male,1,0,0,1,130.0,12,15,11,12.55,Graduate
+12041,Nursing,daytime,18,male,0,0,1,1,129.8,8,10,8,13.05,Graduate
+12044,Management (evening attendance),evening,33,male,0,0,0,1,140.0,5,5,0,0.0,Dropout
+12045,Nursing,daytime,23,male,0,0,0,1,120.0,7,0,0,0.0,Dropout
+12046,Animation and Multimedia Design,daytime,22,male,0,0,1,1,170.0,0,0,0,0.0,Graduate
+12047,Informatics Engineering,daytime,40,male,0,1,1,0,145.4,5,11,3,10.67,Dropout
+12048,Equinculture,daytime,22,female,0,0,1,1,140.0,5,11,4,12.25,Graduate
+12052,Advertising and Marketing Management,daytime,19,female,1,0,1,1,121.5,6,7,6,13.0,Graduate
+12056,Tourism,daytime,19,female,0,0,1,0,114.3,6,0,0,0.0,Dropout
+12057,Advertising and Marketing Management,daytime,18,female,1,0,1,1,131.8,6,8,6,13.57,Enrolled
+12059,Nursing,daytime,18,female,0,0,1,1,115.6,7,9,6,12.18,Enrolled
+12060,Management,daytime,18,male,0,1,1,1,143.6,5,9,0,0.0,Enrolled
+12061,Nursing,daytime,19,female,0,0,1,1,138.8,7,7,6,12.77,Graduate
+12062,Oral Hygiene,daytime,23,male,0,0,0,0,130.0,7,7,3,13.67,Dropout
+12065,Tourism,daytime,21,male,0,0,1,0,117.2,6,8,3,12.0,Dropout
+12067,Veterinary Nursing,daytime,22,female,0,0,1,0,140.0,6,9,6,13.33,Graduate
+12069,Management,daytime,33,female,0,0,1,0,120.0,8,9,5,12.6,Enrolled
+12071,Advertising and Marketing Management,daytime,25,male,0,1,0,0,122.9,6,7,3,14.0,Dropout
+12078,Nursing,daytime,19,female,0,0,1,1,119.3,8,8,8,13.12,Graduate
+12081,Nursing,daytime,18,female,0,0,1,1,128.4,7,7,7,13.47,Graduate
+12082,Journalism and Communication,daytime,20,female,0,0,1,1,130.7,6,9,6,11.67,Enrolled
+12085,Communication Design,daytime,25,female,0,0,1,1,129.0,6,6,6,13.5,Graduate
+12089,Social Service,daytime,18,female,1,0,1,0,114.6,6,7,6,12.14,Graduate
+12090,Communication Design,daytime,21,male,0,0,1,1,128.8,12,13,5,13.2,Dropout
+12091,Veterinary Nursing,daytime,25,female,0,0,1,1,173.3,6,7,6,16.86,Graduate
+12098,Tourism,daytime,19,male,1,1,1,1,106.7,6,14,2,10.0,Dropout
+12099,Advertising and Marketing Management,daytime,20,female,0,0,1,1,106.6,6,7,6,11.5,Dropout
+12100,Animation and Multimedia Design,daytime,22,female,0,0,1,1,119.8,0,0,0,0.0,Graduate
+12102,Animation and Multimedia Design,daytime,20,male,0,0,1,1,129.5,0,0,0,0.0,Dropout
+12105,Veterinary Nursing,daytime,18,female,0,0,1,1,130.8,5,7,5,14.4,Graduate
+12106,Nursing,daytime,19,female,1,0,1,1,106.8,7,8,6,13.53,Graduate
+12108,Advertising and Marketing Management,daytime,21,male,0,0,1,1,115.6,6,10,6,11.88,Graduate
+12110,Basic Education,daytime,19,female,1,0,1,1,125.1,6,6,6,13.5,Dropout
+12111,Tourism,daytime,26,male,0,0,1,0,126.5,6,7,6,12.43,Graduate
+12112,Social Service,daytime,28,female,0,0,1,1,130.5,11,11,9,11.67,Graduate
+12114,Nursing,daytime,20,female,1,0,1,1,133.2,7,10,7,14.18,Graduate
+12116,Animation and Multimedia Design,daytime,19,male,1,1,0,1,127.3,0,0,0,0.0,Dropout
+12120,Nursing,daytime,20,female,1,0,1,0,112.1,7,9,5,13.19,Enrolled
+12124,Nursing,daytime,22,male,0,0,1,1,136.0,8,9,8,12.55,Graduate
+12126,Management,daytime,20,female,0,0,1,1,113.8,5,8,3,11.33,Graduate
+12128,Nursing,daytime,20,female,0,0,1,1,122.0,8,11,6,12.49,Graduate
+12131,Veterinary Nursing,daytime,21,male,0,0,1,0,160.0,5,15,3,12.33,Graduate
+12132,Veterinary Nursing,daytime,32,female,0,0,1,1,140.0,5,8,1,14.0,Dropout
+12134,Management,daytime,21,male,0,0,1,0,118.9,5,11,2,10.5,Dropout
+12138,Management (evening attendance),evening,32,female,0,0,1,0,120.0,5,7,5,11.6,Graduate
+12140,Social Service (evening attendance),evening,44,female,0,0,1,0,157.8,8,13,8,13.75,Graduate
+12141,Veterinary Nursing,daytime,21,female,0,0,1,1,113.1,5,6,5,12.2,Graduate
+12142,Nursing,daytime,18,female,1,0,1,1,131.9,7,8,7,14.15,Graduate
+12144,Agronomy,daytime,21,male,0,0,1,0,150.0,6,15,5,11.86,Enrolled
+12145,Oral Hygiene,daytime,37,male,0,0,1,0,110.5,7,15,0,0.0,Dropout
+12148,Nursing,daytime,19,female,1,0,1,1,119.0,8,8,7,12.34,Graduate
+12150,Advertising and Marketing Management,daytime,19,female,0,0,1,1,122.4,5,5,4,13.75,Enrolled
+12157,Nursing,daytime,18,female,0,0,1,1,135.4,7,9,7,12.51,Enrolled
+12160,Journalism and Communication,daytime,20,female,0,1,0,1,100.0,4,4,0,0.0,Dropout
+12164,Agronomy,daytime,27,male,0,0,1,0,120.0,6,10,5,13.0,Graduate
+12166,Management (evening attendance),evening,44,male,0,0,1,0,138.3,5,9,3,11.33,Dropout
+12168,Animation and Multimedia Design,daytime,18,female,0,0,1,1,137.1,0,0,0,0.0,Graduate
+12169,Agronomy,daytime,22,male,0,0,1,0,150.0,6,12,3,13.33,Enrolled
+12175,Management,daytime,19,female,1,0,0,1,119.0,5,7,3,10.67,Dropout
+12176,Nursing,daytime,18,female,1,0,1,1,132.8,8,12,7,11.72,Graduate
+12177,Social Service,daytime,18,female,0,0,1,1,133.7,6,6,6,13.5,Graduate
+12178,Nursing,daytime,21,female,0,0,1,1,129.0,8,8,7,12.41,Graduate
+12184,Social Service,daytime,19,female,0,0,1,1,136.2,6,14,1,11.5,Enrolled
+12185,Animation and Multimedia Design,daytime,19,female,0,0,1,1,154.6,12,13,12,12.33,Dropout
+12186,Social Service,daytime,19,female,1,0,1,1,118.4,6,6,6,13.5,Graduate
+12187,Advertising and Marketing Management,daytime,20,female,0,0,1,0,112.3,6,9,6,12.38,Graduate
+12189,Social Service,daytime,18,female,1,0,1,1,116.0,6,9,6,11.67,Graduate
+12190,Nursing,daytime,42,female,0,0,0,0,130.0,7,10,5,12.62,Dropout
+12191,Nursing,daytime,26,female,0,0,1,0,140.0,7,0,0,0.0,Dropout
+12194,Journalism and Communication,daytime,19,female,0,0,1,0,115.9,6,13,4,11.75,Graduate
+12195,Management,daytime,19,male,0,0,1,1,114.5,5,5,5,13.8,Graduate
+12199,Equinculture,daytime,29,female,0,1,1,1,119.1,5,10,1,13.0,Dropout
+12202,Management (evening attendance),evening,23,male,0,0,0,1,126.5,15,24,12,11.0,Dropout
+12203,Basic Education,daytime,37,male,0,0,1,0,124.6,21,21,21,12.48,Graduate
+12204,Management,daytime,19,male,0,0,1,1,109.1,5,5,0,0.0,Dropout
+12205,Social Service,daytime,18,female,0,0,1,0,135.9,6,11,5,12.4,Graduate
+12206,Nursing,daytime,28,male,1,0,1,1,126.8,23,23,20,13.5,Graduate
+12209,Management,daytime,19,male,0,0,1,1,120.0,5,6,5,12.6,Graduate
+12212,Journalism and Communication,daytime,19,female,0,0,1,1,117.9,6,7,6,12.83,Graduate
+12216,Nursing,daytime,18,female,1,0,1,1,136.5,8,8,8,14.5,Graduate
+12217,Management (evening attendance),evening,26,female,0,0,1,0,125.7,5,9,2,12.0,Dropout
+12218,Management (evening attendance),evening,59,male,0,0,1,0,161.9,5,7,0,0.0,Dropout
+12220,Management,daytime,19,male,0,0,1,1,118.4,5,10,2,10.5,Enrolled
+12224,Tourism,daytime,24,male,0,1,0,0,102.5,6,7,0,0.0,Dropout
+12226,Veterinary Nursing,daytime,21,female,0,0,1,1,115.0,5,8,3,11.33,Enrolled
+12228,Agronomy,daytime,22,male,0,0,1,1,120.0,6,13,5,13.0,Enrolled
+12229,Informatics Engineering,daytime,25,male,0,0,1,0,100.0,5,13,1,11.0,Enrolled
+12232,Informatics Engineering,daytime,20,male,0,0,1,1,126.1,5,7,4,13.0,Graduate
+12236,Veterinary Nursing,daytime,18,female,0,0,1,1,125.6,5,8,4,11.0,Graduate
+12237,Veterinary Nursing,daytime,18,female,0,0,1,1,123.9,5,9,4,13.0,Graduate
+12240,Nursing,daytime,18,female,1,0,1,0,142.3,7,7,7,13.8,Enrolled
+12242,Journalism and Communication,daytime,18,female,0,1,0,1,119.0,6,6,6,12.0,Dropout
+12244,Nursing,daytime,18,female,0,0,1,1,133.6,7,8,7,13.09,Graduate
+12246,Agronomy,daytime,28,male,0,0,1,0,150.0,6,14,6,14.88,Graduate
+12248,Management (evening attendance),evening,45,male,0,1,0,0,132.8,5,9,0,0.0,Dropout
+12249,Advertising and Marketing Management,daytime,18,female,0,0,1,1,117.8,6,6,6,13.83,Graduate
+12251,Management,daytime,18,male,1,0,1,1,120.8,5,8,4,10.8,Dropout
+12253,Nursing,daytime,18,female,1,0,1,1,127.5,7,7,7,14.49,Graduate
+12254,Nursing,daytime,18,female,0,0,1,1,126.8,8,8,7,12.94,Graduate
+12257,Management,daytime,34,female,0,0,1,0,138.0,15,17,12,11.92,Graduate
+12258,Management (evening attendance),evening,34,female,0,0,1,0,127.1,5,9,4,11.0,Enrolled
+12262,Tourism,daytime,39,female,0,0,1,0,130.0,6,10,0,0.0,Dropout
+12267,Basic Education,daytime,18,female,0,0,1,1,134.8,6,12,0,0.0,Dropout
+12269,Social Service,daytime,21,male,0,0,1,0,118.6,11,14,10,12.4,Graduate
+12271,Nursing,daytime,18,female,0,1,0,1,126.8,7,0,0,0.0,Dropout
+12272,Basic Education,daytime,18,female,0,0,1,1,126.7,6,9,5,11.83,Enrolled
+12274,Management,daytime,20,male,0,0,1,1,107.4,5,12,3,10.5,Enrolled
+12275,Journalism and Communication,daytime,18,female,0,0,1,0,122.4,6,7,6,12.86,Graduate
+12276,Nursing,daytime,19,female,1,0,1,1,127.5,7,7,6,13.42,Graduate
+12279,Social Service,daytime,20,female,0,1,1,1,119.3,6,7,6,12.67,Graduate
+12286,Tourism,daytime,19,female,0,0,1,1,124.5,6,12,6,11.67,Graduate
+12288,Veterinary Nursing,daytime,28,female,0,0,0,0,130.0,5,9,1,12.0,Dropout
+12289,Agronomy,daytime,19,female,1,0,1,1,134.5,6,7,6,15.0,Graduate
+12290,Agronomy,daytime,22,male,0,0,1,1,140.0,6,12,5,12.6,Graduate
+12291,Nursing,daytime,19,female,1,0,1,1,123.5,7,8,7,12.29,Graduate
+12294,Basic Education,daytime,19,female,1,0,1,0,142.8,7,7,7,14.43,Graduate
+12296,Social Service,daytime,18,male,0,0,1,0,111.1,6,8,6,12.0,Graduate
+12297,Nursing,daytime,19,female,0,0,1,1,125.4,7,13,5,12.5,Graduate
+12298,Communication Design,daytime,22,male,1,0,1,0,131.3,6,6,6,12.67,Graduate
+12301,Basic Education,daytime,19,female,1,0,1,0,124.9,6,6,6,12.5,Graduate
+12302,Nursing,daytime,18,female,0,0,1,1,136.3,8,12,7,12.29,Enrolled
+12304,Equinculture,daytime,20,female,1,0,1,1,130.0,6,11,4,12.0,Enrolled
+12306,Agronomy,daytime,20,female,0,1,1,0,113.2,6,8,6,13.33,Enrolled
+12308,Social Service,daytime,20,female,0,0,1,0,111.6,6,6,6,14.5,Graduate
+12311,Management (evening attendance),evening,29,male,0,0,0,0,149.4,5,11,2,11.33,Dropout
+12313,Social Service,daytime,21,female,0,0,1,1,115.7,6,8,6,12.17,Graduate
+12314,Social Service,daytime,22,male,0,0,1,0,144.3,6,0,0,0.0,Dropout
+12315,Advertising and Marketing Management,daytime,20,male,0,0,1,0,122.8,6,6,3,12.33,Dropout
+12316,Management,daytime,47,female,0,0,1,0,110.0,5,0,0,0.0,Dropout
+12317,Animation and Multimedia Design,daytime,18,female,0,0,1,1,145.3,0,0,0,0.0,Enrolled
+12318,Advertising and Marketing Management,daytime,20,male,0,0,1,1,129.9,6,10,6,12.71,Enrolled
+12320,Management,daytime,19,female,0,0,1,0,117.4,10,15,5,11.8,Graduate
+12322,Informatics Engineering,daytime,18,male,0,0,1,1,123.6,5,6,5,12.4,Dropout
+12323,Animation and Multimedia Design,daytime,20,male,0,0,1,1,119.4,0,0,0,0.0,Dropout
+12325,Advertising and Marketing Management,daytime,25,female,0,1,0,0,100.0,5,5,5,11.2,Dropout
+12328,Animation and Multimedia Design,daytime,21,male,1,1,1,1,160.0,0,0,0,0.0,Dropout
+12329,Nursing,daytime,24,female,0,0,1,1,140.0,8,8,8,13.38,Graduate
+12331,Management,daytime,19,female,1,1,1,0,117.8,5,11,2,11.5,Dropout
+12332,Journalism and Communication,daytime,18,female,1,0,1,1,127.2,6,6,6,13.17,Dropout
+12333,Social Service,daytime,18,female,0,0,1,0,121.6,6,6,6,12.83,Graduate
+12334,Agronomy,daytime,39,male,0,0,1,1,120.0,6,8,0,0.0,Dropout
+12335,Social Service,daytime,19,female,1,0,1,1,121.0,6,7,6,11.33,Graduate
+12336,Social Service,daytime,21,female,1,0,1,0,131.9,6,7,6,12.0,Graduate
+12338,Nursing,daytime,19,female,1,0,1,1,117.8,8,8,7,12.36,Graduate
+12339,Social Service (evening attendance),evening,50,female,0,0,1,0,121.0,6,8,6,12.67,Graduate
+12345,Advertising and Marketing Management,daytime,18,female,0,1,0,1,113.9,6,7,4,11.25,Dropout
+12346,Communication Design,daytime,19,male,0,0,1,0,128.8,12,12,12,13.17,Graduate
+12347,Nursing,daytime,18,male,0,0,1,1,129.3,8,8,7,13.1,Graduate
+12349,Nursing,daytime,19,female,1,0,1,1,130.4,7,7,7,13.89,Graduate
+12351,Advertising and Marketing Management,daytime,23,male,0,1,0,1,130.6,5,5,0,0.0,Dropout
+12353,Nursing,daytime,19,female,1,0,1,0,127.8,7,8,7,14.41,Graduate
+12355,Journalism and Communication,daytime,19,female,0,0,1,1,115.0,6,6,6,12.83,Graduate
+12356,Journalism and Communication,daytime,18,female,1,0,1,0,129.8,6,6,6,12.67,Dropout
+12357,Social Service,daytime,20,female,0,0,1,1,103.5,6,13,3,11.2,Enrolled
+12359,Nursing,daytime,18,female,1,0,1,1,136.3,8,8,7,13.97,Graduate
+12362,Social Service (evening attendance),evening,22,female,0,0,1,1,121.8,6,6,6,12.5,Graduate
+12364,Nursing,daytime,18,female,0,0,1,1,134.5,7,7,7,13.46,Graduate
+12365,Nursing,daytime,19,female,0,0,1,0,141.8,8,8,8,13.35,Graduate
+12366,Informatics Engineering,daytime,18,male,0,0,1,0,135.9,5,10,2,14.0,Enrolled
+12367,Advertising and Marketing Management,daytime,18,female,0,0,1,0,121.6,6,6,6,13.67,Graduate
+12374,Animation and Multimedia Design,daytime,18,female,0,0,1,1,124.0,0,0,0,0.0,Graduate
+12376,Social Service (evening attendance),evening,55,female,0,0,1,0,126.3,6,6,6,13.83,Graduate
+12378,Tourism,daytime,18,female,1,0,1,1,121.6,6,9,1,10.0,Dropout
+12381,Oral Hygiene,daytime,47,female,0,0,1,0,120.0,7,16,6,12.51,Dropout
+12382,Management,daytime,18,female,1,0,1,1,127.0,5,10,5,12.0,Graduate
+12383,Tourism,daytime,20,male,0,0,1,1,135.0,6,8,6,11.83,Enrolled
+12384,Nursing,daytime,18,female,0,0,1,1,126.4,7,7,7,13.88,Dropout
+12385,Communication Design,daytime,29,female,0,0,1,0,115.9,10,15,9,11.56,Enrolled
+12386,Journalism and Communication,daytime,18,female,0,0,1,1,110.1,6,6,6,13.33,Graduate
+12387,Veterinary Nursing,daytime,18,female,1,0,1,1,119.5,6,14,6,14.33,Graduate
+12388,Journalism and Communication,daytime,19,male,1,0,1,0,124.5,6,10,4,14.0,Graduate
+12389,Oral Hygiene,daytime,20,female,1,0,1,0,125.8,7,14,7,10.64,Graduate
+12393,Veterinary Nursing,daytime,20,female,0,0,1,1,134.2,5,13,0,0.0,Dropout
+12395,Journalism and Communication,daytime,20,male,0,0,1,1,122.8,6,7,6,12.17,Enrolled
+12397,Veterinary Nursing,daytime,18,female,1,0,1,1,165.2,5,6,4,15.75,Graduate
+12398,Journalism and Communication,daytime,51,male,0,1,0,0,160.0,4,4,0,0.0,Dropout
+12399,Management (evening attendance),evening,27,female,0,0,1,1,100.0,5,5,0,0.0,Dropout
+12406,Nursing,daytime,19,male,0,0,1,0,119.8,8,11,7,13.87,Graduate
+12407,Nursing,daytime,46,female,0,1,0,0,117.8,7,14,3,12.33,Dropout
+12408,Equinculture,daytime,18,female,1,0,1,1,121.7,5,7,4,11.5,Graduate
+12409,Tourism,daytime,18,female,1,0,1,1,140.9,6,7,6,12.86,Graduate
+12411,Nursing,daytime,26,female,1,0,1,0,140.0,7,13,5,12.74,Dropout
+12412,Veterinary Nursing,daytime,19,male,0,0,1,1,127.7,5,9,5,12.6,Graduate
+12414,Agronomy,daytime,19,male,0,0,1,1,131.6,12,17,11,12.0,Graduate
+12415,Management,daytime,20,female,0,0,1,0,106.1,5,13,2,10.0,Dropout
+12417,Advertising and Marketing Management,daytime,18,female,0,1,0,0,122.0,5,6,2,12.5,Dropout
+12418,Informatics Engineering,daytime,20,male,0,0,1,1,123.7,5,7,4,12.0,Enrolled
+12421,Management,daytime,26,male,0,0,0,0,121.5,5,5,2,10.5,Dropout
+12422,Communication Design,daytime,18,male,0,0,1,0,146.2,6,6,6,16.0,Graduate
+12424,Nursing,daytime,19,female,0,0,1,1,131.7,7,8,5,14.0,Dropout
+12426,Social Service,daytime,18,female,1,0,1,0,156.2,6,6,6,14.33,Graduate
+12427,Veterinary Nursing,daytime,21,male,0,0,1,0,120.0,5,11,0,0.0,Enrolled
+12428,Management (evening attendance),evening,25,male,0,1,1,0,132.0,5,8,4,11.0,Enrolled
+12429,Journalism and Communication,daytime,19,male,1,0,1,1,121.7,6,9,5,12.4,Graduate
+12432,Animation and Multimedia Design,daytime,20,male,0,1,1,0,140.0,0,0,0,0.0,Graduate
+12436,Social Service,daytime,21,female,1,0,1,1,133.5,6,8,3,10.2,Enrolled
+12440,Management (evening attendance),evening,29,female,0,0,1,0,124.6,5,11,5,11.4,Enrolled
+12441,Nursing,daytime,20,female,0,0,1,1,100.0,7,8,7,13.1,Graduate
+12442,Tourism,daytime,19,male,0,0,1,1,114.6,6,13,2,12.0,Dropout
+12443,Nursing,daytime,19,female,1,0,1,1,115.5,7,8,7,12.14,Graduate
+12444,Tourism,daytime,18,female,0,0,1,0,114.2,6,10,5,12.2,Enrolled
+12445,Management,daytime,54,female,0,0,1,1,100.0,15,20,13,12.46,Dropout
+12448,Management (evening attendance),evening,31,male,0,0,0,0,128.2,5,5,2,11.0,Dropout
+12449,Social Service (evening attendance),evening,45,female,0,0,1,1,114.4,12,14,12,14.0,Enrolled
+12453,Basic Education,daytime,30,female,0,0,0,0,128.2,6,0,0,0.0,Dropout
+12460,Informatics Engineering,daytime,31,male,0,1,0,0,134.4,5,9,2,13.33,Dropout
+12463,Social Service (evening attendance),evening,44,male,0,0,1,0,100.0,13,18,13,11.85,Graduate
+12464,Management,daytime,23,female,0,0,1,0,110.0,15,15,13,10.92,Graduate
+12469,Equinculture,daytime,18,female,0,0,1,1,130.7,6,8,5,14.4,Dropout
+12470,Journalism and Communication,daytime,19,female,1,0,1,1,133.4,6,7,5,11.4,Graduate
+12471,Nursing,daytime,19,female,1,0,1,1,124.5,8,11,7,12.86,Graduate
+12472,Tourism,daytime,18,male,0,0,1,1,121.5,6,12,5,11.0,Enrolled
+12476,Management,daytime,18,male,0,0,1,0,138.7,5,0,0,0.0,Dropout
+12478,Nursing,daytime,18,female,0,0,1,1,130.5,8,12,7,11.97,Graduate
+12479,Journalism and Communication,daytime,19,female,0,1,1,1,110.2,6,6,5,11.6,Graduate
+12481,Veterinary Nursing,daytime,20,female,0,0,1,1,118.3,5,11,5,12.33,Graduate
+12482,Agronomy,daytime,36,female,0,0,1,1,152.4,12,14,12,13.85,Graduate
+12485,Journalism and Communication,daytime,19,male,1,0,1,1,98.0,6,8,4,12.0,Enrolled
+12487,Management,daytime,19,female,1,0,1,1,124.6,5,12,2,10.0,Enrolled
+12489,Social Service,daytime,19,female,0,0,1,1,123.1,6,7,6,12.0,Graduate
+12491,Nursing,daytime,35,male,0,0,1,0,132.8,7,10,4,12.6,Dropout
+12492,Social Service,daytime,19,female,0,0,1,1,128.0,6,11,0,0.0,Dropout
+12493,Animation and Multimedia Design,daytime,21,female,0,0,1,1,147.7,12,12,12,15.33,Graduate
+12495,Basic Education,daytime,18,female,0,0,1,0,147.2,7,7,7,15.71,Graduate
+12496,Nursing,daytime,18,female,1,0,1,1,124.9,7,9,7,13.24,Dropout
+12497,Agronomy,daytime,30,female,1,1,1,0,130.0,6,6,0,0.0,Enrolled
+12498,Advertising and Marketing Management,daytime,19,female,1,1,0,0,109.3,6,7,5,12.0,Dropout
+12503,Social Service,daytime,21,female,1,0,1,1,118.6,6,8,5,13.2,Enrolled
+12505,Social Service,daytime,42,male,0,0,1,0,103.5,6,0,0,0.0,Dropout
+12508,Nursing,daytime,19,female,1,0,1,0,117.8,7,7,7,13.7,Graduate
+12512,Communication Design,daytime,20,male,0,0,1,0,138.3,6,8,6,13.43,Enrolled
+12514,Nursing,daytime,19,female,0,0,1,1,130.5,8,8,7,14.99,Graduate
+12516,Nursing,daytime,48,female,0,0,1,0,115.2,7,11,4,11.75,Enrolled
+12517,Social Service (evening attendance),evening,29,female,1,0,1,0,131.0,6,11,4,11.75,Graduate
+12518,Journalism and Communication,daytime,49,male,1,1,1,0,162.0,6,8,6,12.29,Graduate
+12519,Tourism,daytime,18,male,0,0,0,0,124.3,6,9,5,11.2,Dropout
+12520,Management,daytime,19,male,0,0,1,1,127.3,5,8,3,11.0,Dropout
+12521,Nursing,daytime,18,female,1,1,1,1,126.3,7,8,7,12.65,Graduate
+12522,Veterinary Nursing,daytime,23,male,0,0,1,0,127.6,5,6,4,14.25,Graduate
+12523,Social Service,daytime,42,female,1,1,1,0,107.5,6,8,6,13.33,Graduate
+12526,Social Service,daytime,20,female,0,1,1,1,127.3,6,6,6,12.17,Graduate
+12530,Social Service (evening attendance),evening,37,female,0,0,1,0,148.0,11,11,11,13.73,Graduate
+12531,Veterinary Nursing,daytime,18,female,0,0,1,0,122.3,5,6,5,14.2,Graduate
+12532,Tourism,daytime,26,male,0,0,1,0,100.0,6,7,6,12.0,Enrolled
+12533,Communication Design,daytime,24,male,0,0,1,0,120.9,6,6,0,0.0,Enrolled
+12534,Management (evening attendance),evening,40,male,0,0,1,0,160.0,5,5,5,11.0,Graduate
+12536,Communication Design,daytime,19,female,0,0,1,1,134.3,6,6,6,14.67,Graduate
+12537,Advertising and Marketing Management,daytime,20,female,0,0,1,0,148.9,5,6,5,11.6,Graduate
+12538,Animation and Multimedia Design,daytime,20,male,0,0,1,1,121.2,0,0,0,0.0,Enrolled
+12539,Nursing,daytime,19,female,0,0,1,1,121.8,7,8,6,13.73,Dropout
+12540,Management,daytime,22,male,1,1,1,0,118.8,5,8,5,10.67,Enrolled
+12545,Management,daytime,18,female,0,0,1,0,138.4,5,6,4,11.25,Enrolled
+12547,Nursing,daytime,19,female,0,0,1,1,118.7,7,0,0,0.0,Dropout
+12551,Tourism,daytime,21,female,1,1,0,0,126.2,6,7,6,13.43,Dropout
+12552,Social Service (evening attendance),evening,50,female,0,0,1,0,123.5,1,1,0,0.0,Dropout
+12553,Agronomy,daytime,20,male,0,0,1,0,140.0,6,11,6,11.29,Enrolled
+12557,Social Service,daytime,21,male,0,0,1,1,112.6,6,9,6,10.17,Graduate
+12559,Veterinary Nursing,daytime,29,female,0,1,1,1,132.1,5,11,4,12.5,Dropout
+12562,Journalism and Communication,daytime,19,female,0,0,1,1,131.6,6,10,5,11.8,Graduate
+12567,Social Service,daytime,21,female,0,0,1,1,99.3,6,8,5,12.4,Graduate
+12568,Management (evening attendance),evening,21,female,0,0,1,0,131.9,10,20,6,11.5,Dropout
+12570,Nursing,daytime,19,female,0,0,1,1,120.8,14,22,7,12.19,Graduate
+12571,Nursing,daytime,19,female,0,0,1,1,124.3,7,9,5,12.32,Enrolled
+12572,Informatics Engineering,daytime,18,male,0,0,1,1,129.8,5,5,0,0.0,Enrolled
+12573,Management,daytime,23,male,0,0,0,1,101.0,5,0,0,0.0,Dropout
+12574,Basic Education,daytime,27,female,0,0,1,0,102.5,6,9,5,13.2,Graduate
+12575,Veterinary Nursing,daytime,20,female,0,0,1,1,120.2,5,9,4,12.0,Graduate
+12577,Management (evening attendance),evening,40,female,0,0,0,0,153.0,5,10,0,0.0,Dropout
+12583,Advertising and Marketing Management,daytime,19,female,0,0,1,0,124.0,6,7,6,14.86,Graduate
+12585,Nursing,daytime,20,male,1,0,1,1,115.0,7,14,1,13.0,Dropout
+12586,Tourism,daytime,20,male,0,0,1,1,118.7,6,16,3,10.33,Dropout
+12587,Social Service,daytime,47,male,0,0,1,0,124.3,9,9,9,13.11,Graduate
+12588,Tourism,daytime,20,female,0,0,1,1,121.7,6,13,3,10.33,Enrolled
+12590,Social Service,daytime,22,female,1,1,0,1,109.1,6,0,0,0.0,Dropout
+12591,Agronomy,daytime,29,male,0,0,1,0,130.0,3,4,0,0.0,Dropout
+12592,Veterinary Nursing,daytime,18,female,0,0,0,0,115.8,6,0,0,0.0,Dropout
+12594,Basic Education,daytime,18,female,0,0,1,1,120.0,6,11,3,12.0,Dropout
+12596,Veterinary Nursing,daytime,19,female,0,0,1,0,155.3,5,5,5,15.2,Graduate
+12599,Tourism,daytime,34,male,0,1,0,0,101.5,6,6,0,0.0,Dropout
+12600,Informatics Engineering,daytime,20,male,0,0,1,1,105.6,5,7,5,12.17,Graduate
+12601,Agronomy,daytime,29,male,0,0,0,1,156.1,6,6,0,0.0,Dropout
+12604,Tourism,daytime,26,male,0,0,0,0,170.0,8,14,8,15.12,Enrolled
+12605,Management (evening attendance),evening,48,female,0,0,0,0,150.0,5,5,1,10.0,Dropout
+12606,Animation and Multimedia Design,daytime,18,male,0,0,1,0,143.1,0,0,0,0.0,Graduate
+12607,Animation and Multimedia Design,daytime,18,male,0,0,1,0,139.7,0,0,0,0.0,Dropout
+12609,Management,daytime,20,male,0,0,1,0,115.7,5,7,5,11.0,Enrolled
+12610,Journalism and Communication,daytime,19,female,0,0,1,1,140.5,6,7,6,13.0,Graduate
+12611,Veterinary Nursing,daytime,21,female,1,0,1,1,113.5,5,7,4,12.0,Graduate
+12612,Management,daytime,18,female,1,0,1,0,133.9,5,5,5,15.0,Graduate
+12614,Management,daytime,19,male,0,1,0,1,115.5,5,8,4,12.5,Enrolled
+12615,Management (evening attendance),evening,23,female,0,1,1,0,135.0,11,18,8,12.38,Enrolled
+12621,Management (evening attendance),evening,39,female,0,0,1,1,118.1,5,9,0,0.0,Dropout
+12623,Advertising and Marketing Management,daytime,22,female,0,0,1,0,111.8,5,8,3,12.0,Enrolled
+12624,Oral Hygiene,daytime,18,female,0,0,1,0,100.0,2,2,0,0.0,Enrolled
+12625,Social Service,daytime,18,female,0,0,1,0,119.8,6,0,0,0.0,Dropout
+12626,Basic Education,daytime,18,female,0,0,1,1,144.3,6,10,4,13.0,Graduate
+12627,Animation and Multimedia Design,daytime,18,female,0,0,1,1,175.6,0,0,0,0.0,Graduate
+12628,Veterinary Nursing,daytime,32,female,0,0,0,0,120.0,6,0,0,0.0,Dropout
+12629,Journalism and Communication,daytime,19,female,1,0,1,1,136.9,6,7,6,13.5,Graduate
+12631,Animation and Multimedia Design,daytime,18,female,1,0,1,1,149.7,0,0,0,0.0,Dropout
+12632,Social Service,daytime,19,female,0,0,1,0,114.7,6,9,5,12.17,Graduate
+12633,Nursing,daytime,19,female,1,0,1,1,129.5,8,8,8,13.95,Graduate
+12634,Veterinary Nursing,daytime,18,female,0,0,1,1,128.7,6,7,6,14.67,Graduate
+12639,Management,daytime,36,female,0,0,1,0,124.6,5,8,3,11.0,Enrolled
+12642,Social Service,daytime,20,female,0,0,1,1,129.9,6,7,5,13.2,Enrolled
+12643,Social Service,daytime,33,male,0,0,1,0,159.5,6,6,0,0.0,Dropout
+12644,Tourism,daytime,18,female,0,0,1,0,152.0,6,7,6,14.71,Graduate
+12646,Nursing,daytime,37,female,0,0,0,0,110.0,8,8,0,0.0,Dropout
+12647,Agronomy,daytime,20,male,0,1,0,0,130.0,6,16,4,11.8,Dropout
+12650,Nursing,daytime,19,female,0,0,1,1,127.0,8,8,7,13.44,Graduate
+12651,Nursing,daytime,19,male,1,0,1,0,127.0,8,8,7,12.51,Graduate
+12654,Nursing,daytime,19,female,1,0,1,0,138.6,7,9,6,14.25,Graduate
+12655,Advertising and Marketing Management,daytime,30,male,0,0,1,1,107.0,5,5,0,0.0,Dropout
+12656,Journalism and Communication,daytime,19,female,1,0,1,1,127.6,6,7,6,13.86,Dropout
+12657,Equinculture,daytime,27,female,0,1,0,0,130.0,5,6,2,11.5,Dropout
+12658,Nursing,daytime,19,female,1,0,1,1,126.5,7,8,7,13.88,Graduate
+12661,Management,daytime,19,female,0,0,1,1,118.9,5,8,4,12.8,Enrolled
+12663,Management (evening attendance),evening,34,female,0,0,1,0,128.4,5,12,5,10.4,Graduate
+12666,Informatics Engineering,daytime,36,male,0,0,1,0,100.0,5,0,0,0.0,Dropout
+12667,Nursing,daytime,19,female,0,0,1,1,120.3,7,11,5,11.72,Enrolled
+12668,Nursing,daytime,26,female,0,0,1,0,140.0,7,11,5,11.2,Enrolled
+12669,Tourism,daytime,45,female,0,1,1,0,112.0,10,12,5,12.17,Dropout
+12671,Veterinary Nursing,daytime,18,female,0,0,1,1,122.3,5,10,5,14.33,Graduate
+12673,Management,daytime,19,female,0,0,1,1,129.2,5,9,2,11.0,Dropout
+12674,Journalism and Communication,daytime,19,female,0,0,1,1,124.6,6,7,5,14.2,Graduate
+12676,Management,daytime,18,female,1,0,1,1,126.4,5,13,3,10.6,Graduate
+12677,Nursing,daytime,19,female,0,0,1,1,108.5,7,9,7,12.61,Graduate
+12681,Communication Design,daytime,19,female,1,0,1,0,141.6,12,12,11,13.09,Graduate
+12682,Basic Education,daytime,18,female,0,0,1,0,146.8,6,6,6,13.17,Graduate
+12683,Journalism and Communication,daytime,21,female,0,0,1,1,114.6,6,8,5,12.8,Graduate
+12684,Social Service (evening attendance),evening,37,female,0,1,1,0,100.0,8,12,7,11.38,Enrolled
+12690,Nursing,daytime,26,female,1,0,1,1,133.0,7,7,6,13.7,Graduate
+12692,Journalism and Communication,daytime,19,female,0,0,1,1,132.5,6,7,6,12.5,Graduate
+12695,Veterinary Nursing,daytime,18,female,0,0,1,0,126.8,6,13,6,12.0,Enrolled
+12696,Social Service (evening attendance),evening,58,female,0,0,1,0,135.5,6,6,0,0.0,Dropout
+12697,Nursing,daytime,26,female,0,0,1,0,105.8,7,12,3,13.77,Dropout
+12698,Informatics Engineering,daytime,18,male,1,0,1,0,117.2,5,8,4,13.5,Enrolled
+12700,Management,daytime,19,male,0,1,1,0,151.1,5,7,5,13.6,Graduate
+12701,Nursing,daytime,18,female,0,0,1,1,133.9,7,9,7,14.71,Graduate
+12702,Management,daytime,40,male,0,1,1,0,100.0,5,10,1,11.0,Enrolled
+12704,Animation and Multimedia Design,daytime,22,male,0,0,1,1,117.0,0,0,0,0.0,Enrolled
+12705,Journalism and Communication,daytime,20,male,0,0,1,1,137.0,6,6,6,16.83,Graduate
+12707,Nursing,daytime,19,female,0,0,1,1,129.3,8,12,7,12.07,Graduate
+12708,Journalism and Communication,daytime,24,female,1,1,0,0,104.0,6,6,6,13.5,Graduate
+12710,Social Service,daytime,20,female,0,0,1,0,121.0,6,13,1,10.0,Enrolled
+12711,Basic Education,daytime,20,male,1,0,1,1,111.9,6,6,6,12.0,Enrolled
+12714,Veterinary Nursing,daytime,21,male,0,0,1,1,123.9,6,0,0,0.0,Dropout
+12716,Equinculture,daytime,20,female,0,0,1,1,109.3,5,10,4,12.5,Enrolled
+12718,Communication Design,daytime,21,male,0,0,1,1,140.0,6,6,6,14.5,Graduate
+12719,Advertising and Marketing Management,daytime,19,male,0,0,1,1,122.4,5,7,3,11.67,Enrolled
+12720,Advertising and Marketing Management,daytime,19,male,0,0,1,1,110.1,6,9,5,13.33,Graduate
+12722,Veterinary Nursing,daytime,18,male,0,0,1,0,118.9,5,5,3,14.0,Enrolled
+12724,Journalism and Communication,daytime,18,female,0,0,1,0,141.7,6,6,6,13.83,Graduate
+12725,Animation and Multimedia Design,daytime,21,female,0,0,1,1,143.4,0,0,0,0.0,Dropout
+12726,Nursing,daytime,18,female,1,0,1,1,141.5,8,8,8,13.06,Graduate
+12727,Social Service,daytime,19,female,1,0,1,0,120.8,6,11,5,11.6,Graduate
+12728,Tourism,daytime,22,female,0,0,1,1,123.3,6,7,6,10.83,Graduate
+12729,Nursing,daytime,25,female,0,0,1,0,140.8,8,8,7,12.08,Graduate
+12731,Basic Education,daytime,19,female,0,0,1,1,122.3,6,9,4,13.0,Dropout
+12732,Nursing,daytime,18,male,1,0,1,1,126.4,7,7,7,13.46,Graduate
+12734,Journalism and Communication,daytime,19,female,0,1,0,1,110.4,6,7,6,12.17,Dropout
+12735,Nursing,daytime,20,female,0,0,1,1,115.2,7,7,7,12.98,Graduate
+12737,Equinculture,daytime,30,male,1,0,0,0,128.2,5,13,0,0.0,Dropout
+12738,Social Service,daytime,19,female,1,1,1,1,119.7,6,8,6,12.67,Graduate
+12739,Nursing,daytime,31,female,0,0,1,1,138.8,7,9,7,15.47,Graduate
+12740,Animation and Multimedia Design,daytime,18,male,0,0,0,0,130.0,0,0,0,0.0,Dropout
+12741,Social Service (evening attendance),evening,35,female,1,0,1,0,97.0,6,8,6,10.83,Graduate
+12742,Equinculture,daytime,24,female,0,0,1,0,120.0,6,9,6,12.57,Dropout
+12751,Social Service,daytime,20,female,0,0,1,0,129.8,6,11,5,10.6,Enrolled
+12752,Nursing,daytime,32,female,1,0,1,0,120.0,8,9,7,12.76,Graduate
+12756,Communication Design,daytime,18,female,1,0,1,1,125.2,6,6,6,14.0,Graduate
+12758,Social Service (evening attendance),evening,37,male,0,0,1,0,110.0,6,12,0,0.0,Dropout
+12761,Management (evening attendance),evening,29,female,0,0,1,0,109.7,5,0,0,0.0,Dropout
+12762,Nursing,daytime,18,female,0,0,1,0,131.5,8,8,8,12.77,Graduate
+12763,Advertising and Marketing Management,daytime,19,male,1,0,1,1,113.4,6,6,6,13.33,Graduate
+12765,Agronomy,daytime,21,male,0,0,1,0,120.0,6,9,5,13.4,Graduate
+12767,Agronomy,daytime,19,male,0,0,1,0,116.0,6,8,6,15.5,Graduate
+12771,Management,daytime,19,female,1,1,1,1,123.7,5,5,4,11.0,Dropout
+12774,Tourism,daytime,34,female,0,0,1,1,120.0,6,7,5,12.4,Graduate
+12777,Nursing,daytime,19,male,0,0,1,1,118.8,7,9,6,12.93,Enrolled
+12780,Social Service,daytime,19,female,1,0,1,1,125.6,6,8,6,11.33,Graduate
+12783,Journalism and Communication,daytime,19,male,1,0,1,1,144.1,6,7,6,13.67,Graduate
+12786,Veterinary Nursing,daytime,19,female,1,0,1,1,117.0,5,6,4,12.0,Graduate
+12792,Journalism and Communication,daytime,20,female,1,0,1,0,130.8,6,9,5,11.8,Graduate
+12795,Veterinary Nursing,daytime,21,female,0,0,1,0,100.0,6,11,4,11.75,Enrolled
+12797,Management,daytime,20,female,0,0,1,1,130.0,5,8,4,11.25,Graduate
+12798,Management (evening attendance),evening,28,female,0,0,1,0,120.7,5,9,4,11.25,Enrolled
+12799,Nursing,daytime,18,male,0,0,1,1,161.0,7,7,7,16.14,Dropout
+12802,Management (evening attendance),evening,43,male,0,0,0,0,133.2,5,13,2,11.5,Dropout
+12804,Agronomy,daytime,24,male,0,0,1,0,134.4,6,7,6,15.71,Dropout
+12805,Oral Hygiene,daytime,19,female,1,0,1,0,122.8,7,11,7,12.62,Graduate
+12808,Informatics Engineering,daytime,18,male,1,0,0,0,129.8,5,6,5,15.0,Enrolled
+12809,Tourism,daytime,19,female,1,0,1,0,123.7,6,8,5,11.67,Graduate
+12811,Tourism,daytime,18,male,0,0,1,1,125.9,6,0,0,0.0,Dropout
+12815,Nursing,daytime,19,female,0,0,1,1,120.0,8,8,7,12.45,Graduate
+12818,Veterinary Nursing,daytime,29,female,0,0,1,0,130.0,5,8,5,15.33,Dropout
+12819,Advertising and Marketing Management,daytime,21,male,0,0,0,0,95.0,6,9,4,13.25,Dropout
+12820,Nursing,daytime,18,female,0,0,1,1,131.1,7,7,7,13.97,Graduate
+12821,Social Service,daytime,19,female,0,0,1,1,118.2,6,0,0,0.0,Dropout
+12824,Advertising and Marketing Management,daytime,24,male,0,0,1,0,140.0,6,15,4,10.5,Dropout
+12827,Communication Design,daytime,18,male,0,0,1,1,165.8,6,7,6,14.5,Graduate
+12829,Social Service (evening attendance),evening,36,female,0,0,1,0,120.0,10,15,4,13.0,Dropout
+12831,Veterinary Nursing,daytime,19,female,1,0,1,1,132.6,5,5,5,13.6,Graduate
+12832,Agronomy,daytime,20,male,0,0,1,1,130.0,6,12,4,11.6,Enrolled
+12833,Management (evening attendance),evening,39,female,1,0,1,0,130.2,5,13,4,12.33,Graduate
+12835,Veterinary Nursing,daytime,20,female,0,0,1,0,150.0,5,10,2,14.5,Enrolled
+12837,Oral Hygiene,daytime,50,female,0,0,0,0,150.0,7,18,6,10.25,Dropout
+12843,Tourism,daytime,24,female,0,0,1,1,116.3,6,8,5,12.6,Graduate
+12845,Advertising and Marketing Management,daytime,19,male,0,0,1,0,130.5,6,8,6,14.25,Graduate
+12848,Agronomy,daytime,50,female,0,0,1,0,148.8,6,7,6,12.5,Graduate
+12850,Management,daytime,19,male,0,0,0,0,131.4,5,13,4,10.0,Dropout
+12852,Advertising and Marketing Management,daytime,28,female,0,0,1,0,120.0,6,8,1,10.0,Dropout
+12853,Social Service,daytime,21,female,0,1,0,0,126.6,10,18,8,11.5,Enrolled
+12854,Veterinary Nursing,daytime,27,male,0,1,1,0,140.0,13,13,8,13.5,Dropout
+12855,Social Service (evening attendance),evening,29,male,0,1,0,1,122.0,6,11,4,12.5,Dropout
+12857,Oral Hygiene,daytime,21,female,0,0,1,1,129.0,7,0,0,0.0,Dropout
+12859,Social Service (evening attendance),evening,34,female,0,0,1,0,117.5,6,6,4,13.25,Enrolled
+12860,Management,daytime,18,female,0,0,1,1,123.7,5,10,1,14.0,Enrolled
+12865,Basic Education,daytime,18,female,0,0,1,1,137.1,6,6,6,13.33,Graduate
+12873,Veterinary Nursing,daytime,19,female,0,0,1,1,124.4,6,14,6,15.67,Graduate
+12875,Tourism,daytime,19,male,0,0,1,1,107.2,6,16,2,10.5,Dropout
+12876,Veterinary Nursing,daytime,21,female,1,1,0,1,104.1,6,16,2,13.0,Dropout
+12881,Oral Hygiene,daytime,29,female,0,0,1,0,120.0,7,9,1,10.0,Dropout
+12883,Nursing,daytime,19,female,0,0,1,1,130.8,8,8,8,13.43,Graduate
+12884,Nursing,daytime,19,female,1,0,1,1,100.0,8,8,7,13.06,Graduate
+12885,Management,daytime,20,male,0,0,1,0,134.6,5,5,5,13.6,Graduate
+12886,Nursing,daytime,20,female,0,0,1,1,114.2,7,9,6,13.68,Graduate
+12888,Journalism and Communication,daytime,19,male,0,0,1,1,118.0,6,12,4,10.8,Dropout
+12889,Advertising and Marketing Management,daytime,20,female,1,0,1,1,116.3,7,10,6,12.83,Graduate
+12890,Social Service,daytime,44,female,0,0,0,0,103.5,6,0,0,0.0,Dropout
+12891,Equinculture,daytime,25,female,0,0,0,1,122.5,5,14,4,13.5,Dropout
+12892,Nursing,daytime,19,female,0,0,1,0,155.6,7,7,7,14.3,Graduate
+12894,Advertising and Marketing Management,daytime,25,female,0,1,0,1,100.0,5,5,5,11.2,Dropout
+12895,Advertising and Marketing Management,daytime,19,female,0,0,1,1,118.0,6,7,6,14.43,Graduate
+12898,Basic Education,daytime,18,female,0,0,1,1,121.6,7,12,5,12.0,Enrolled
+12899,Equinculture,daytime,21,female,0,0,1,1,123.0,5,12,1,11.0,Enrolled
+12902,Tourism,daytime,22,female,0,0,1,1,109.7,6,7,5,14.0,Graduate
+12904,Management,daytime,26,male,0,1,0,0,100.0,7,7,6,13.0,Dropout
+12912,Informatics Engineering,daytime,18,male,0,1,0,1,120.4,5,12,0,0.0,Enrolled
+12914,Informatics Engineering,daytime,30,male,1,0,1,0,101.6,5,11,0,0.0,Dropout
+12915,Informatics Engineering,daytime,30,male,0,1,1,0,137.0,5,5,0,0.0,Dropout
+12916,Animation and Multimedia Design,daytime,27,male,0,0,1,1,100.0,0,0,0,0.0,Dropout
+12917,Oral Hygiene,daytime,24,female,0,0,1,1,101.5,7,0,0,0.0,Dropout
+12918,Management,daytime,32,female,0,1,0,0,120.4,15,17,14,10.21,Graduate
+12919,Tourism,daytime,18,male,0,0,1,1,121.9,6,15,3,11.67,Dropout
+12922,Equinculture,daytime,25,female,0,0,1,0,140.0,5,9,0,0.0,Dropout
+12923,Management (evening attendance),evening,49,male,0,0,0,1,134.1,5,5,0,0.0,Dropout
+12925,Informatics Engineering,daytime,19,male,0,0,1,1,121.6,5,10,0,0.0,Enrolled
+12926,Nursing,daytime,19,female,1,0,1,1,112.0,8,15,7,11.57,Graduate
+12932,Journalism and Communication,daytime,19,female,0,0,1,0,144.8,6,6,6,12.17,Enrolled
+12937,Management (evening attendance),evening,33,female,0,0,1,0,107.8,10,15,8,10.38,Enrolled
+12938,Nursing,daytime,18,female,0,0,1,1,133.8,8,8,8,14.27,Enrolled
+12939,Nursing,daytime,19,female,1,0,1,0,120.7,7,9,6,13.0,Graduate
+12941,Nursing,daytime,18,female,1,0,1,1,128.0,8,11,7,12.91,Graduate
+12942,Management,daytime,18,female,1,0,1,0,126.5,5,5,5,10.6,Graduate
+12944,Veterinary Nursing,daytime,20,female,0,0,1,1,147.6,6,14,6,13.92,Graduate
+12945,Animation and Multimedia Design,daytime,20,female,0,1,1,1,117.3,0,0,0,0.0,Dropout
+12946,Veterinary Nursing,daytime,18,female,0,0,1,0,137.0,5,12,5,13.14,Graduate
+12948,Informatics Engineering,daytime,31,male,0,0,1,0,147.6,5,0,0,0.0,Dropout
+12949,Management (evening attendance),evening,46,male,0,0,1,0,128.2,10,13,9,12.2,Graduate
+12951,Social Service,daytime,19,female,0,1,1,1,117.0,6,0,0,0.0,Dropout
+12952,Agronomy,daytime,20,male,0,0,1,0,140.0,6,7,6,13.57,Graduate
+12955,Animation and Multimedia Design,daytime,18,female,0,0,1,1,155.3,0,0,0,0.0,Graduate
+12956,Advertising and Marketing Management,daytime,19,male,0,0,1,0,118.2,5,5,5,10.8,Graduate
+12960,Management (evening attendance),evening,51,male,0,0,1,1,100.0,4,4,0,0.0,Dropout
+12964,Social Service,daytime,18,female,0,0,1,1,126.6,6,6,6,16.5,Dropout
+12968,Management (evening attendance),evening,35,male,0,0,1,1,155.7,1,1,0,0.0,Dropout
+12971,Social Service (evening attendance),evening,24,female,0,0,0,0,115.0,5,5,0,0.0,Dropout
+12972,Agronomy,daytime,28,female,0,1,0,0,138.1,6,6,0,0.0,Dropout
+12975,Nursing,daytime,18,female,0,0,1,1,129.8,8,8,7,12.24,Graduate
+12976,Management (evening attendance),evening,34,female,0,0,1,0,100.0,5,9,0,0.0,Dropout
+12977,Communication Design,daytime,19,male,1,0,1,1,141.0,6,6,6,15.17,Graduate
+12978,Nursing,daytime,27,female,1,0,1,0,121.7,7,8,6,12.6,Enrolled
+12979,Social Service (evening attendance),evening,33,female,1,0,1,0,103.5,6,6,6,14.17,Graduate
+12980,Management (evening attendance),evening,26,female,0,0,1,0,160.0,5,5,5,12.0,Graduate
+12981,Social Service,daytime,19,female,1,0,1,1,121.5,6,9,6,10.86,Graduate
+12982,Basic Education,daytime,18,female,0,0,1,0,131.8,7,9,7,12.57,Graduate
+12985,Communication Design,daytime,18,female,1,0,1,1,146.9,6,6,6,13.0,Graduate
+12986,Management,daytime,24,female,0,0,1,0,131.8,15,17,14,11.36,Dropout
+12988,Social Service,daytime,21,female,1,0,1,0,121.0,6,6,6,12.33,Graduate
+12989,Advertising and Marketing Management,daytime,19,female,0,1,1,1,128.6,5,8,4,12.25,Graduate
+12990,Management,daytime,19,female,0,0,1,0,124.4,5,6,4,11.25,Enrolled
+12992,Nursing,daytime,18,female,0,0,1,1,127.5,8,8,8,13.11,Graduate
+12994,Journalism and Communication,daytime,20,female,0,0,1,1,120.7,6,6,5,13.2,Dropout
+12995,Management (evening attendance),evening,25,female,0,0,1,0,127.7,5,12,4,12.5,Enrolled
+12998,Veterinary Nursing,daytime,19,female,0,0,1,1,129.3,5,10,4,11.25,Graduate
+13000,Social Service (evening attendance),evening,39,female,0,1,0,0,120.4,5,5,0,0.0,Dropout
+13004,Agronomy,daytime,19,female,1,0,1,0,160.0,6,7,6,15.33,Graduate
+13009,Social Service,daytime,32,male,0,0,0,0,120.5,6,10,2,11.0,Dropout
+13012,Nursing,daytime,18,female,0,0,1,1,132.5,7,7,6,14.32,Graduate
+13016,Tourism,daytime,36,male,0,1,0,0,97.0,5,10,0,0.0,Dropout
+13017,Management,daytime,18,male,0,0,1,1,122.7,5,6,5,12.0,Enrolled
+13018,Nursing,daytime,21,male,0,1,0,0,127.0,7,12,4,12.94,Dropout
+13020,Management,daytime,18,female,0,0,1,0,159.3,5,5,5,14.4,Graduate
+13023,Management,daytime,22,female,1,0,1,1,123.7,5,8,4,12.0,Graduate
+13024,Animation and Multimedia Design,daytime,18,female,0,0,1,1,134.8,0,0,0,0.0,Enrolled
+13027,Social Service,daytime,21,female,0,0,1,0,134.0,13,21,11,13.27,Graduate
+13028,Tourism,daytime,24,female,0,0,1,1,116.3,6,9,4,12.6,Dropout
+13033,Communication Design,daytime,53,female,0,0,1,0,130.0,18,18,17,13.18,Dropout
+13034,Informatics Engineering,daytime,23,male,0,0,1,1,113.3,5,7,0,0.0,Dropout
+13035,Advertising and Marketing Management,daytime,22,male,0,1,1,0,138.0,6,8,6,12.62,Enrolled
+13036,Social Service (evening attendance),evening,41,female,0,0,0,0,128.2,6,6,0,0.0,Dropout
+13037,Management (evening attendance),evening,28,male,0,0,1,0,144.8,5,7,4,12.75,Enrolled
+13041,Nursing,daytime,18,male,1,0,1,0,156.3,8,8,8,15.63,Graduate
+13042,Nursing,daytime,23,female,0,0,1,1,133.4,26,27,26,15.08,Graduate
+13046,Social Service,daytime,21,female,1,0,1,0,143.4,6,6,6,14.83,Graduate
+13048,Journalism and Communication,daytime,19,male,0,1,0,0,111.7,6,6,6,12.5,Dropout
+13049,Animation and Multimedia Design,daytime,19,male,0,0,1,1,167.3,0,0,0,0.0,Graduate
+13053,Social Service,daytime,19,female,1,0,1,0,107.3,6,12,4,10.4,Enrolled
+13055,Nursing,daytime,18,female,0,0,1,1,129.9,7,8,7,12.93,Dropout
+13057,Communication Design,daytime,19,male,0,1,1,1,141.2,6,11,5,11.2,Graduate
+13058,Animation and Multimedia Design,daytime,18,female,0,0,1,1,138.3,0,0,0,0.0,Enrolled
+13063,Social Service (evening attendance),evening,38,male,0,0,1,0,130.0,6,0,0,0.0,Dropout
+13064,Agronomy,daytime,50,male,0,0,1,0,140.0,6,8,2,13.5,Dropout
+13066,Veterinary Nursing,daytime,20,female,0,0,1,1,130.0,6,13,5,11.8,Enrolled
+13069,Journalism and Communication,daytime,39,female,0,0,1,0,117.5,6,10,4,11.25,Graduate
+13070,Social Service,daytime,23,female,1,0,1,1,149.0,6,7,6,13.86,Graduate
+13071,Nursing,daytime,24,female,0,0,1,0,122.0,8,8,7,12.41,Graduate
+13075,Nursing,daytime,19,male,0,0,1,0,131.1,7,8,7,12.12,Graduate
+13076,Communication Design,daytime,19,female,1,0,1,1,125.1,6,6,6,12.67,Graduate
+13077,Social Service (evening attendance),evening,26,female,0,0,1,0,148.0,6,10,3,11.67,Graduate
+13079,Nursing,daytime,18,female,0,0,1,0,130.8,7,7,7,14.06,Graduate
+13080,Tourism,daytime,19,female,1,0,1,1,116.5,6,9,5,13.2,Graduate
+13081,Informatics Engineering,daytime,24,male,0,1,1,0,100.0,8,8,7,13.14,Enrolled
+13082,Nursing,daytime,28,female,0,1,1,0,121.4,7,12,4,13.38,Enrolled
+13084,Advertising and Marketing Management,daytime,20,female,1,0,1,1,108.0,6,9,5,13.0,Graduate
+13086,Informatics Engineering,daytime,18,male,0,0,1,0,100.0,5,9,4,12.25,Enrolled
+13087,Animation and Multimedia Design,daytime,19,female,0,0,1,1,127.3,0,0,0,0.0,Dropout
+13088,Nursing,daytime,19,female,0,0,1,0,124.3,8,8,7,14.51,Enrolled
+13091,Management,daytime,18,male,1,0,1,0,111.3,5,10,4,10.8,Enrolled
+13093,Management (evening attendance),evening,28,female,0,0,1,0,151.4,5,5,5,12.0,Graduate
+13094,Social Service,daytime,18,female,0,0,1,0,126.0,6,10,4,11.0,Graduate
+13105,Nursing,daytime,18,female,0,0,1,1,132.0,7,7,6,13.45,Graduate
+13109,Social Service,daytime,20,female,0,0,1,1,103.5,6,7,6,12.0,Graduate
+13110,Nursing,daytime,18,female,1,0,1,1,132.8,8,8,8,13.01,Graduate
+13111,Animation and Multimedia Design,daytime,20,female,0,0,1,1,126.9,0,0,0,0.0,Dropout
+13112,Tourism,daytime,19,female,0,0,1,1,122.3,6,7,6,11.67,Dropout
+13113,Management,daytime,19,female,1,0,1,1,137.6,5,6,5,12.6,Graduate
+13114,Management,daytime,23,male,0,0,1,1,128.7,5,6,4,14.0,Enrolled
+13116,Management,daytime,19,male,0,0,1,1,130.0,5,5,5,12.8,Graduate
+13117,Biofuel Production Technologies,daytime,25,male,0,0,1,0,96.1,7,13,2,15.0,Dropout
+13120,Basic Education,daytime,18,female,0,0,1,1,128.5,6,7,6,11.67,Graduate
+13121,Animation and Multimedia Design,daytime,18,male,0,0,0,0,111.9,0,0,0,0.0,Dropout
+13122,Nursing,daytime,19,female,1,0,1,0,130.3,8,8,7,15.11,Graduate
+13126,Basic Education,daytime,22,female,0,0,1,1,122.5,6,10,5,13.17,Enrolled
+13127,Veterinary Nursing,daytime,28,female,0,0,1,0,110.0,6,15,4,12.0,Dropout
+13129,Veterinary Nursing,daytime,18,female,1,0,1,1,132.0,5,8,3,15.0,Dropout
+13131,Basic Education,daytime,18,female,1,0,1,1,124.6,6,8,5,13.0,Graduate
+13133,Management (evening attendance),evening,30,female,0,0,1,0,130.4,5,10,3,10.67,Enrolled
+13138,Management (evening attendance),evening,43,male,0,0,1,0,138.7,5,5,5,13.8,Graduate
+13139,Management,daytime,26,male,0,0,0,0,104.0,5,8,1,10.0,Dropout
+13141,Social Service,daytime,18,female,0,0,1,1,110.0,6,6,6,12.0,Graduate
+13142,Agronomy,daytime,28,female,0,1,0,0,110.0,6,17,5,13.0,Dropout
+13144,Nursing,daytime,19,male,0,0,1,1,117.8,8,8,7,15.89,Graduate
+13146,Social Service (evening attendance),evening,29,male,0,1,0,0,107.5,6,6,0,0.0,Dropout
+13149,Communication Design,daytime,18,female,1,0,1,0,145.9,6,6,6,12.67,Graduate
+13151,Animation and Multimedia Design,daytime,19,female,0,0,0,1,163.1,12,12,12,15.25,Graduate
+13156,Communication Design,daytime,20,male,1,0,1,0,121.2,6,7,6,13.5,Graduate
+13159,Management (evening attendance),evening,39,male,0,0,1,0,140.0,5,7,4,12.25,Enrolled
+13161,Advertising and Marketing Management,daytime,27,male,0,0,1,0,118.0,6,7,6,14.0,Graduate
+13163,Animation and Multimedia Design,daytime,21,female,1,0,1,0,120.3,0,0,0,0.0,Graduate
+13164,Nursing,daytime,18,female,0,0,1,1,127.5,8,8,8,13.04,Graduate
+13166,Social Service,daytime,18,female,1,0,1,0,110.0,6,7,6,12.29,Graduate
+13168,Agronomy,daytime,60,male,0,0,1,0,140.0,18,18,18,14.11,Graduate
+13169,Nursing,daytime,19,female,0,0,1,1,133.5,8,8,8,13.34,Graduate
+13171,Communication Design,daytime,19,female,0,0,1,1,123.7,6,6,6,12.67,Graduate
+13172,Communication Design,daytime,18,female,0,0,1,1,155.5,6,6,6,14.0,Graduate
+13173,Nursing,daytime,33,female,0,0,1,0,140.0,7,8,6,14.35,Dropout
+13174,Nursing,daytime,18,female,1,0,1,1,119.3,8,8,7,13.21,Graduate
+13176,Nursing,daytime,19,male,0,0,1,0,126.8,8,8,7,14.54,Graduate
+13182,Informatics Engineering,daytime,18,male,0,1,0,1,116.9,5,10,3,12.0,Enrolled
+13184,Management (evening attendance),evening,25,female,0,0,1,0,134.0,5,14,1,11.0,Dropout
+13185,Veterinary Nursing,daytime,20,female,0,0,1,1,145.2,11,13,11,14.62,Graduate
+13187,Veterinary Nursing,daytime,20,female,0,0,1,1,131.6,7,9,6,14.71,Enrolled
+13191,Tourism,daytime,19,male,0,0,1,1,120.5,6,12,4,12.5,Dropout
+13192,Advertising and Marketing Management,daytime,26,female,0,0,0,1,100.2,6,9,3,11.75,Dropout
+13193,Social Service (evening attendance),evening,30,female,1,0,1,0,112.5,7,7,6,14.67,Graduate
+13194,Advertising and Marketing Management,daytime,21,male,0,0,1,0,121.4,5,7,4,11.5,Graduate
+13195,Management,daytime,23,male,0,0,1,1,127.8,5,7,3,10.67,Dropout
+13196,Oral Hygiene,daytime,18,female,0,0,1,1,129.5,7,9,7,15.16,Graduate
+13197,Nursing,daytime,19,female,0,0,1,1,132.5,8,9,7,12.3,Graduate
+13199,Animation and Multimedia Design,daytime,23,female,1,1,0,1,129.0,0,0,0,0.0,Dropout
+13200,Veterinary Nursing,daytime,20,female,0,0,1,0,150.0,6,8,6,13.0,Enrolled
+13204,Management,daytime,18,female,0,0,1,0,128.8,5,10,5,13.38,Graduate
+13205,Journalism and Communication,daytime,18,female,1,0,1,1,145.0,6,6,6,13.33,Graduate
+13206,Tourism,daytime,21,female,0,0,1,1,131.0,6,12,3,11.0,Dropout
+13209,Nursing,daytime,20,male,0,0,1,0,119.7,7,8,0,0.0,Dropout
+13210,Veterinary Nursing,daytime,18,female,0,0,1,0,113.4,6,14,4,11.5,Enrolled
+13211,Social Service (evening attendance),evening,42,male,0,0,1,0,110.0,12,12,11,14.45,Graduate
+13212,Nursing,daytime,20,female,1,0,1,0,131.5,7,8,6,13.86,Graduate
+13213,Nursing,daytime,21,female,0,0,1,1,119.6,7,8,6,13.25,Enrolled
+13215,Journalism and Communication,daytime,18,female,0,0,1,1,142.5,6,6,6,13.33,Graduate
+13216,Management (evening attendance),evening,28,male,0,0,1,0,120.5,5,5,0,0.0,Dropout
+13217,Management (evening attendance),evening,24,female,1,0,1,0,130.2,5,7,5,12.29,Graduate
+13218,Management (evening attendance),evening,31,male,0,0,1,0,124.0,5,6,5,13.83,Graduate
+13219,Nursing,daytime,30,female,0,1,0,0,140.0,7,11,3,12.33,Dropout
+13223,Tourism,daytime,27,male,0,0,1,0,100.0,6,11,3,11.33,Dropout
+13224,Informatics Engineering,daytime,18,male,0,1,1,1,124.9,5,11,3,10.67,Enrolled
+13228,Animation and Multimedia Design,daytime,25,male,0,0,1,1,134.3,17,19,17,11.61,Graduate
+13230,Management,daytime,18,female,1,0,1,1,113.0,5,12,4,10.71,Graduate
+13237,Agronomy,daytime,24,male,1,0,1,0,150.0,6,9,6,13.56,Graduate
+13238,Basic Education,daytime,19,female,0,0,1,1,130.2,6,8,5,11.4,Enrolled
+13242,Animation and Multimedia Design,daytime,18,male,0,0,1,1,119.1,0,0,0,0.0,Dropout
+13244,Management,daytime,21,female,0,0,1,1,135.0,5,8,4,11.0,Enrolled
+13245,Communication Design,daytime,20,male,0,0,1,1,134.2,6,7,5,11.8,Enrolled
+13249,Nursing,daytime,21,female,0,0,1,1,118.9,7,7,7,14.43,Graduate
+13251,Nursing,daytime,18,female,0,0,1,0,118.8,7,7,7,13.68,Graduate
+13253,Tourism,daytime,20,female,0,0,1,1,102.8,6,16,1,10.0,Dropout
+13254,Management,daytime,26,male,0,0,1,0,125.3,15,15,11,10.82,Dropout
+13257,Management,daytime,18,female,0,0,1,0,124.1,5,8,5,12.4,Graduate
+13261,Journalism and Communication,daytime,18,female,1,0,1,1,140.0,6,6,6,13.67,Graduate
+13262,Social Service,daytime,20,female,1,0,1,1,129.1,11,11,11,12.82,Graduate
+13263,Communication Design,daytime,28,male,0,0,1,0,120.0,6,9,2,12.0,Dropout
+13264,Basic Education,daytime,19,female,1,0,1,1,112.9,7,8,7,13.86,Graduate
+13267,Management (evening attendance),evening,24,female,0,0,1,0,134.1,5,9,2,11.5,Enrolled
+13268,Equinculture,daytime,19,male,0,0,1,1,131.0,6,8,4,11.6,Dropout
+13269,Equinculture,daytime,22,male,0,0,1,1,116.1,5,9,2,10.5,Dropout
+13270,Communication Design,daytime,20,male,1,0,1,1,130.3,6,6,6,12.83,Graduate
+13275,Communication Design,daytime,19,female,1,0,1,1,125.5,6,6,6,14.17,Graduate
+13277,Equinculture,daytime,20,male,0,1,1,1,130.0,6,9,4,11.0,Dropout
+13279,Advertising and Marketing Management,daytime,21,male,0,0,1,1,134.1,6,6,6,15.17,Graduate
+13281,Journalism and Communication,daytime,20,male,0,0,1,1,129.8,6,6,5,12.8,Graduate
+13288,Animation and Multimedia Design,daytime,18,male,0,0,1,1,144.2,0,0,0,0.0,Graduate
+13293,Veterinary Nursing,daytime,19,female,1,0,1,1,123.3,6,7,6,14.86,Graduate
+13294,Tourism,daytime,20,male,0,0,1,1,98.9,6,10,4,13.0,Graduate
+13295,Journalism and Communication,daytime,18,female,1,0,1,1,120.4,6,6,6,12.33,Graduate
+13296,Agronomy,daytime,35,male,0,0,1,0,100.0,18,20,18,11.56,Graduate
+13298,Social Service,daytime,19,female,0,0,1,0,112.6,6,0,0,0.0,Dropout
+13299,Veterinary Nursing,daytime,19,female,0,0,1,1,112.4,12,22,6,15.31,Graduate
+13302,Nursing,daytime,18,female,1,0,1,1,126.8,8,8,7,12.61,Graduate
+13303,Management,daytime,20,female,0,0,1,0,140.2,11,19,9,12.56,Graduate
+13304,Tourism,daytime,20,female,0,0,1,1,128.7,6,8,6,11.67,Dropout
+13307,Advertising and Marketing Management,daytime,18,male,1,0,1,1,116.1,5,6,4,12.25,Dropout
+13308,Management (evening attendance),evening,31,female,0,0,1,0,100.1,5,5,5,14.0,Graduate
+13309,Advertising and Marketing Management,daytime,23,male,1,0,1,0,114.2,6,7,5,13.0,Graduate
+13311,Advertising and Marketing Management,daytime,19,female,1,0,1,0,124.4,6,6,6,13.0,Graduate
+13312,Management,daytime,21,female,0,0,1,1,118.8,5,9,3,10.67,Enrolled
+13314,Advertising and Marketing Management,daytime,20,male,1,0,1,1,111.9,6,7,6,11.33,Enrolled
+13317,Veterinary Nursing,daytime,20,female,1,0,1,1,123.0,6,7,6,15.86,Graduate
+13321,Management (evening attendance),evening,26,female,1,0,1,0,140.0,6,7,6,12.67,Enrolled
+13324,Nursing,daytime,18,female,0,0,1,1,140.5,7,7,6,15.25,Graduate
+13328,Social Service,daytime,18,female,1,0,1,1,159.7,6,7,6,15.14,Graduate
+13329,Informatics Engineering,daytime,34,male,0,0,0,0,140.0,5,5,0,0.0,Dropout
+13332,Basic Education,daytime,21,female,0,0,1,1,132.0,6,8,5,12.0,Dropout
+13335,Nursing,daytime,18,male,0,0,1,1,113.5,7,7,7,13.18,Graduate
+13337,Management (evening attendance),evening,26,male,0,0,1,0,113.6,5,11,2,11.5,Enrolled
+13338,Social Service,daytime,20,female,1,0,1,1,138.4,6,8,6,14.25,Graduate
+13339,Basic Education,daytime,20,female,1,0,1,0,112.3,7,7,7,12.14,Graduate
+13341,Communication Design,daytime,18,female,0,0,1,1,165.8,6,7,6,14.17,Graduate
+13343,Tourism,daytime,23,male,0,1,1,1,130.0,6,12,3,11.5,Enrolled
+13344,Informatics Engineering,daytime,19,male,0,0,1,0,112.2,5,0,0,0.0,Dropout
+13346,Basic Education,daytime,19,female,0,0,1,1,117.4,6,0,0,0.0,Dropout
+13347,Animation and Multimedia Design,daytime,18,female,1,0,1,1,126.0,0,0,0,0.0,Graduate
+13348,Management,daytime,21,female,1,0,1,0,119.9,5,6,5,11.4,Graduate
+13349,Management,daytime,19,female,0,0,1,1,120.1,5,7,5,12.4,Graduate
+13351,Agronomy,daytime,21,male,0,0,1,0,140.0,6,13,4,11.75,Enrolled
+13353,Social Service,daytime,34,male,0,0,1,0,146.0,6,8,5,12.6,Graduate
+13354,Management (evening attendance),evening,26,male,0,0,0,0,133.9,12,12,8,11.25,Dropout
+13357,Nursing,daytime,19,female,0,0,1,1,123.0,8,8,7,14.33,Graduate
+13358,Equinculture,daytime,19,female,0,0,1,1,141.8,6,8,6,13.0,Graduate
+13359,Social Service (evening attendance),evening,46,female,0,0,1,0,100.0,6,9,6,13.33,Graduate
+13361,Communication Design,daytime,38,male,0,0,1,1,140.0,18,18,18,14.5,Graduate
+13362,Communication Design,daytime,26,male,0,0,1,0,126.4,7,8,7,13.29,Enrolled
+13371,Management,daytime,38,male,0,1,0,0,112.1,5,5,0,0.0,Dropout
+13374,Social Service,daytime,22,female,1,0,1,0,140.4,6,6,5,12.6,Graduate
+13375,Agronomy,daytime,25,male,0,0,1,1,140.0,6,14,5,11.67,Enrolled
+13379,Journalism and Communication,daytime,22,female,0,0,1,1,119.1,6,13,2,12.0,Dropout
+13385,Management (evening attendance),evening,31,male,0,0,1,0,130.0,9,9,9,14.22,Dropout
+13386,Advertising and Marketing Management,daytime,18,male,1,0,1,0,126.3,6,8,6,12.17,Graduate
+13387,Tourism,daytime,19,female,0,0,1,1,116.6,6,9,5,11.6,Graduate
+13389,Journalism and Communication,daytime,18,female,0,0,1,1,137.6,6,6,6,16.0,Graduate
+13391,Nursing,daytime,21,female,1,0,1,1,125.5,7,9,7,13.2,Graduate
+13394,Animation and Multimedia Design,daytime,19,female,1,0,1,1,134.6,0,0,0,0.0,Graduate
+13398,Veterinary Nursing,daytime,18,female,1,0,1,1,153.6,6,7,6,15.67,Graduate
+13401,Nursing,daytime,24,female,0,0,1,0,100.0,8,11,7,12.61,Graduate
+13402,Animation and Multimedia Design,daytime,18,female,0,0,1,1,121.7,0,0,0,0.0,Enrolled
+13404,Oral Hygiene,daytime,36,female,1,0,1,1,105.0,7,11,6,12.35,Graduate
+13406,Nursing,daytime,18,male,0,0,1,1,131.0,7,9,7,14.59,Graduate
+13407,Journalism and Communication,daytime,22,female,1,0,1,1,119.1,6,8,5,11.6,Graduate
+13412,Journalism and Communication,daytime,19,male,1,0,1,0,133.9,6,8,5,14.0,Graduate
+13413,Journalism and Communication,daytime,18,male,1,0,1,1,131.0,6,7,6,12.71,Graduate
+13414,Management,daytime,18,female,0,0,1,0,129.4,5,5,5,13.2,Graduate
+13419,Animation and Multimedia Design,daytime,19,male,0,0,1,1,162.5,0,0,0,0.0,Dropout
+13421,Advertising and Marketing Management,daytime,24,female,0,0,1,0,112.9,6,12,2,11.67,Dropout
+13423,Equinculture,daytime,31,male,0,0,1,0,96.0,5,5,0,0.0,Dropout
+13424,Basic Education,daytime,21,female,0,0,1,1,131.3,6,8,5,11.8,Dropout
+13431,Nursing,daytime,18,male,0,0,1,1,137.8,8,8,7,13.0,Graduate
+13435,Oral Hygiene,daytime,28,female,0,0,1,1,152.8,7,9,7,12.43,Enrolled
+13436,Veterinary Nursing,daytime,21,male,1,0,1,1,150.3,11,15,9,14.22,Graduate
+13437,Social Service (evening attendance),evening,24,male,0,0,1,0,130.0,6,14,1,10.0,Dropout
+13439,Informatics Engineering,daytime,24,male,0,1,1,0,110.3,5,12,1,10.0,Enrolled
+13441,Equinculture,daytime,20,female,0,0,1,1,120.4,5,9,4,12.0,Graduate
+13443,Social Service (evening attendance),evening,41,male,0,0,1,0,107.0,7,7,7,12.86,Graduate
+13444,Veterinary Nursing,daytime,21,female,0,0,1,0,128.2,5,7,5,12.0,Graduate
+13451,Social Service (evening attendance),evening,26,female,0,0,1,0,105.0,6,14,3,10.67,Enrolled
+13452,Equinculture,daytime,24,male,0,0,1,0,110.0,6,11,6,11.33,Enrolled
+13453,Management (evening attendance),evening,52,male,0,0,1,1,133.8,5,5,5,13.6,Graduate
+13454,Nursing,daytime,18,female,1,0,1,0,143.3,7,7,7,13.44,Graduate
+13459,Equinculture,daytime,27,female,0,0,0,0,160.0,5,8,3,14.67,Dropout
+13460,Animation and Multimedia Design,daytime,20,male,0,0,1,1,122.0,0,0,0,0.0,Graduate
+13462,Social Service,daytime,21,female,0,0,1,1,116.4,6,9,6,11.38,Graduate
+13463,Nursing,daytime,19,female,1,0,1,1,131.7,7,10,7,13.6,Graduate
+13464,Veterinary Nursing,daytime,21,male,0,0,1,0,141.6,5,7,4,12.25,Graduate
+13467,Nursing,daytime,18,female,0,0,1,0,133.9,7,7,7,15.01,Graduate
+13468,Veterinary Nursing,daytime,24,female,0,1,0,0,140.0,6,11,3,11.75,Dropout
+13469,Informatics Engineering,daytime,34,male,0,0,0,0,108.6,7,13,5,12.0,Dropout
+13471,Tourism,daytime,18,female,0,0,0,1,110.3,6,7,5,12.6,Enrolled
+13473,Nursing,daytime,19,female,0,0,1,0,135.0,7,7,6,14.27,Graduate
+13475,Management,daytime,19,female,0,0,1,1,117.3,5,9,4,12.25,Enrolled
+13476,Oral Hygiene,daytime,20,female,0,0,1,0,114.0,7,14,0,0.0,Enrolled
+13477,Social Service (evening attendance),evening,50,male,0,1,0,0,96.0,6,6,0,0.0,Dropout
+13481,Communication Design,daytime,18,female,0,0,1,1,121.7,6,6,2,13.0,Dropout
+13484,Management,daytime,19,female,1,1,1,1,131.1,5,7,5,13.6,Graduate
+13485,Nursing,daytime,20,female,0,0,1,1,122.0,8,8,7,14.01,Enrolled
+13486,Communication Design,daytime,18,female,0,0,0,1,126.1,6,9,4,11.5,Graduate
+13493,Informatics Engineering,daytime,24,male,0,1,0,0,160.0,6,6,2,16.0,Dropout
+13494,Oral Hygiene,daytime,19,female,1,0,1,1,118.3,7,7,7,11.97,Graduate
+13495,Social Service,daytime,19,female,0,0,1,1,115.1,6,10,6,10.83,Graduate
+13497,Nursing,daytime,19,female,0,0,1,1,125.0,7,7,6,14.62,Graduate
+13498,Informatics Engineering,daytime,18,male,0,0,1,1,133.0,5,10,4,13.0,Enrolled
+13499,Management (evening attendance),evening,44,male,0,0,1,1,150.0,7,9,7,13.5,Dropout
+13500,Nursing,daytime,23,female,0,0,1,1,127.6,7,7,6,13.8,Graduate
+13502,Agronomy,daytime,21,male,0,0,1,0,101.0,11,16,9,11.9,Graduate
+13504,Basic Education,daytime,19,female,0,0,1,1,109.7,6,9,5,12.2,Enrolled
+13505,Management,daytime,22,female,0,1,0,1,99.7,5,8,0,0.0,Enrolled
+13507,Social Service,daytime,18,female,0,0,1,1,144.4,6,8,6,15.38,Graduate
+13508,Management,daytime,39,female,0,0,1,0,142.5,5,8,4,11.25,Enrolled
+13512,Social Service,daytime,19,female,1,0,1,0,145.0,6,7,6,12.83,Graduate
+13518,Equinculture,daytime,24,male,0,0,1,1,160.0,5,13,4,13.75,Enrolled
+13519,Management (evening attendance),evening,39,female,0,0,1,1,113.9,5,8,5,11.0,Graduate
+13522,Social Service,daytime,19,female,1,0,1,1,135.8,6,8,6,12.71,Dropout
+13527,Advertising and Marketing Management,daytime,18,female,0,0,1,1,113.7,5,7,4,11.4,Graduate
+13528,Veterinary Nursing,daytime,22,male,1,0,1,1,150.0,6,9,6,13.43,Graduate
+13529,Social Service,daytime,18,female,1,0,1,1,156.5,6,8,6,11.71,Graduate
+13531,Veterinary Nursing,daytime,21,female,0,0,1,1,150.0,6,0,0,0.0,Dropout
+13533,Social Service,daytime,36,female,0,0,1,0,110.0,16,24,13,10.69,Enrolled
+13534,Oral Hygiene,daytime,32,female,0,0,0,1,128.0,7,7,0,0.0,Dropout
+13535,Social Service (evening attendance),evening,31,female,0,0,0,0,110.0,6,8,5,11.4,Dropout
+13536,Nursing,daytime,18,female,0,0,1,0,134.9,7,7,7,13.64,Graduate
+13538,Management,daytime,21,male,0,0,1,0,118.5,5,9,1,10.0,Dropout
+13544,Nursing,daytime,19,female,1,0,1,1,127.5,8,8,7,13.54,Graduate
+13550,Advertising and Marketing Management,daytime,20,male,0,0,1,1,117.7,6,9,6,14.67,Graduate
+13553,Management,daytime,19,female,0,0,1,1,132.4,5,5,5,11.8,Enrolled
+13555,Agronomy,daytime,23,male,0,0,1,1,140.0,6,14,5,12.0,Enrolled
+13556,Nursing,daytime,19,female,1,0,1,1,128.4,7,7,7,13.39,Graduate
+13557,Nursing,daytime,25,male,0,0,1,0,130.0,8,11,6,12.68,Graduate
+13558,Nursing,daytime,18,female,0,0,1,1,131.0,8,8,7,14.7,Graduate
+13559,Veterinary Nursing,daytime,18,female,0,0,1,1,162.1,5,8,5,16.17,Graduate
+13560,Social Service,daytime,18,female,0,1,1,1,131.3,6,7,5,13.6,Dropout
+13563,Management,daytime,49,male,0,0,1,0,128.0,5,9,3,14.0,Dropout
+13565,Veterinary Nursing,daytime,19,female,0,0,1,1,123.0,6,14,6,15.54,Graduate
+13567,Management (evening attendance),evening,43,male,0,0,1,0,170.0,5,5,5,11.8,Graduate
+13569,Animation and Multimedia Design,daytime,20,male,0,1,0,1,129.2,0,0,0,0.0,Dropout
+13571,Communication Design,daytime,18,female,0,0,1,1,122.5,6,11,1,11.0,Enrolled
+13572,Journalism and Communication,daytime,19,male,1,0,1,0,118.4,6,8,6,11.83,Graduate
+13574,Nursing,daytime,19,female,1,0,1,1,128.9,7,8,6,12.65,Graduate
+13576,Nursing,daytime,18,female,0,0,1,1,128.5,7,7,6,12.77,Graduate
+13582,Advertising and Marketing Management,daytime,20,female,0,0,1,0,125.7,6,9,6,13.57,Enrolled
+13583,Informatics Engineering,daytime,18,male,0,0,1,1,150.8,5,9,4,10.5,Enrolled
+13591,Social Service (evening attendance),evening,18,female,0,0,1,0,121.2,6,8,5,12.2,Graduate
+13592,Basic Education,daytime,45,female,0,0,1,0,100.0,6,11,3,12.33,Dropout
+13593,Management (evening attendance),evening,39,male,0,0,1,0,120.0,5,9,0,0.0,Dropout
+13596,Tourism,daytime,38,female,0,0,1,0,130.5,6,0,0,0.0,Dropout
+13597,Animation and Multimedia Design,daytime,18,female,1,0,1,1,136.8,0,0,0,0.0,Graduate
+13598,Management,daytime,34,female,0,0,1,1,132.1,5,7,2,10.0,Dropout
+13601,Veterinary Nursing,daytime,29,female,0,0,1,1,140.0,6,0,0,0.0,Dropout
+13603,Journalism and Communication,daytime,18,male,0,0,1,1,129.3,6,6,6,13.67,Graduate
+13608,Veterinary Nursing,daytime,20,female,0,0,1,0,122.0,5,6,5,12.6,Graduate
+13609,Tourism,daytime,20,male,0,0,1,0,145.2,6,7,6,13.71,Graduate
+13610,Veterinary Nursing,daytime,20,female,0,0,1,0,106.0,6,9,6,13.17,Enrolled
+13612,Nursing,daytime,19,female,1,0,1,1,123.8,8,8,7,13.31,Graduate
+13614,Tourism,daytime,18,female,0,0,1,1,122.0,6,15,2,10.0,Dropout
+13618,Social Service (evening attendance),evening,39,male,0,0,1,0,119.0,9,10,9,13.22,Graduate
+13619,Management (evening attendance),evening,32,male,0,0,0,0,130.0,5,12,4,14.75,Dropout
+13620,Agronomy,daytime,35,male,0,0,1,1,100.0,6,13,3,11.75,Dropout
+13621,Informatics Engineering,daytime,24,male,0,1,1,0,100.0,5,11,0,0.0,Dropout
+13628,Advertising and Marketing Management,daytime,28,female,0,0,1,0,100.0,5,6,4,12.5,Graduate
+13631,Advertising and Marketing Management,daytime,19,female,0,0,1,0,124.4,5,5,5,14.2,Graduate
+13632,Advertising and Marketing Management,daytime,20,male,0,0,1,1,125.0,6,8,4,14.25,Graduate
+13633,Nursing,daytime,18,female,1,0,1,1,126.3,8,8,8,13.42,Graduate
+13635,Social Service (evening attendance),evening,45,male,0,0,1,0,111.5,8,10,4,11.5,Dropout
+13636,Social Service (evening attendance),evening,37,male,1,0,1,0,108.0,7,9,6,11.86,Graduate
+13639,Nursing,daytime,18,female,1,0,1,1,123.9,7,9,7,12.86,Graduate
+13640,Nursing,daytime,18,female,0,0,1,1,139.0,7,7,6,14.33,Graduate
+13644,Veterinary Nursing,daytime,18,female,1,0,1,1,132.2,5,9,4,12.0,Graduate
+13646,Nursing,daytime,18,female,1,0,1,1,130.8,7,7,6,12.67,Graduate
+13648,Agronomy,daytime,27,male,0,0,0,1,107.8,6,10,0,0.0,Dropout
+13650,Advertising and Marketing Management,daytime,21,male,0,0,1,0,139.0,6,6,5,12.8,Enrolled
+13651,Advertising and Marketing Management,daytime,25,female,1,0,1,1,96.0,6,8,6,11.29,Enrolled
+13653,Advertising and Marketing Management,daytime,19,male,0,0,1,0,132.9,5,5,4,12.5,Graduate
+13657,Nursing,daytime,22,female,0,1,1,0,121.5,14,14,12,12.33,Graduate
+13658,Nursing,daytime,18,female,0,0,1,0,113.2,7,10,6,11.98,Graduate
+13660,Management,daytime,29,female,0,0,1,1,122.0,15,19,13,11.77,Graduate
+13662,Agronomy,daytime,23,male,0,1,0,1,130.0,6,12,2,11.33,Dropout
+13664,Veterinary Nursing,daytime,24,female,1,0,1,1,139.9,6,7,6,12.5,Graduate
+13665,Management,daytime,18,female,1,0,1,1,126.3,5,8,5,11.8,Graduate
+13666,Informatics Engineering,daytime,25,male,0,0,0,0,112.0,5,8,0,0.0,Dropout
+13667,Oral Hygiene,daytime,31,male,0,0,1,0,100.0,7,7,0,0.0,Dropout
+13668,Management (evening attendance),evening,40,female,0,0,0,0,121.9,4,4,0,0.0,Dropout
+13670,Management (evening attendance),evening,35,female,1,0,1,0,110.0,5,9,3,11.67,Enrolled
+13672,Veterinary Nursing,daytime,25,female,0,0,1,0,128.2,5,5,0,0.0,Dropout
+13673,Social Service,daytime,19,female,0,0,1,1,135.7,6,8,6,14.38,Graduate
+13677,Advertising and Marketing Management,daytime,18,male,0,0,1,0,130.2,6,6,6,13.5,Dropout
+13680,Social Service,daytime,19,male,0,0,1,0,118.8,6,12,4,12.25,Graduate
+13681,Management,daytime,19,male,0,0,1,1,116.3,5,8,5,13.25,Graduate
+13683,Tourism,daytime,26,male,0,0,1,1,123.3,6,10,4,10.0,Enrolled
+13685,Management (evening attendance),evening,20,female,0,0,1,0,127.3,5,0,0,0.0,Dropout
+13688,Veterinary Nursing,daytime,18,female,0,0,1,0,128.5,6,11,5,12.29,Dropout
+13690,Informatics Engineering,daytime,35,female,0,0,1,0,150.0,5,0,0,0.0,Dropout
+13692,Nursing,daytime,18,female,0,0,1,1,130.8,8,8,7,13.61,Graduate
+13693,Basic Education,daytime,20,female,0,0,1,1,107.0,7,12,6,11.67,Enrolled
+13694,Social Service,daytime,18,female,0,0,1,1,125.7,6,10,6,11.57,Graduate
+13699,Management,daytime,31,female,0,0,1,1,127.7,5,8,3,11.0,Dropout
+13700,Management,daytime,20,female,0,0,1,1,126.3,5,12,1,10.0,Dropout
+13701,Nursing,daytime,20,female,0,0,1,0,115.0,7,13,6,11.77,Graduate
+13704,Nursing,daytime,18,female,0,0,1,1,128.8,7,7,6,14.23,Graduate
+13705,Social Service,daytime,18,female,0,0,1,0,149.5,6,10,6,17.0,Graduate
+13709,Nursing,daytime,30,female,0,0,1,0,118.9,7,0,0,0.0,Dropout
+13713,Management (evening attendance),evening,25,male,0,0,1,0,115.0,5,7,0,0.0,Dropout
+13714,Social Service,daytime,22,female,1,0,1,0,112.3,6,10,5,10.71,Graduate
+13715,Journalism and Communication,daytime,20,female,0,0,1,1,119.6,6,8,6,13.43,Graduate
+13717,Oral Hygiene,daytime,21,male,0,0,1,1,106.0,7,8,7,12.38,Graduate
+13718,Management (evening attendance),evening,34,female,0,0,1,0,114.7,2,2,2,10.5,Dropout
+13719,Social Service,daytime,21,female,1,0,1,0,124.2,6,11,4,11.25,Graduate
+13722,Communication Design,daytime,21,female,0,1,1,1,143.0,6,9,5,11.4,Dropout
+13726,Advertising and Marketing Management,daytime,18,male,0,0,1,1,133.3,6,13,4,13.75,Enrolled
+13728,Nursing,daytime,24,female,1,0,1,1,160.0,8,15,6,12.42,Graduate
+13729,Management,daytime,19,female,0,0,1,1,124.0,5,5,5,11.2,Enrolled
+13730,Animation and Multimedia Design,daytime,19,female,1,0,1,1,176.7,0,0,0,0.0,Dropout
+13732,Oral Hygiene,daytime,37,female,1,0,1,0,123.0,7,10,7,10.99,Graduate
+13733,Veterinary Nursing,daytime,19,female,0,0,1,1,132.1,5,9,4,13.75,Graduate
+13735,Animation and Multimedia Design,daytime,18,female,1,0,1,1,141.4,0,0,0,0.0,Graduate
+13736,Veterinary Nursing,daytime,21,female,0,0,1,1,153.8,11,15,10,14.5,Graduate
+13737,Veterinary Nursing,daytime,21,male,0,0,1,1,112.4,5,7,4,11.5,Enrolled
+13741,Social Service,daytime,19,female,0,0,1,0,121.5,6,10,5,11.67,Graduate
+13743,Agronomy,daytime,25,male,0,0,1,0,134.3,6,15,1,11.0,Dropout
+13745,Journalism and Communication,daytime,20,female,1,0,1,1,124.0,6,6,6,14.0,Dropout
+13748,Nursing,daytime,18,female,1,0,1,1,126.3,7,7,6,11.6,Graduate
+13750,Management (evening attendance),evening,35,male,1,0,1,0,119.0,5,10,4,10.5,Graduate
+13751,Informatics Engineering,daytime,20,male,0,0,1,0,150.0,5,16,0,0.0,Enrolled
+13754,Tourism,daytime,19,female,0,0,1,1,138.1,6,8,4,12.5,Dropout
+13755,Animation and Multimedia Design,daytime,21,male,1,0,1,1,150.4,0,0,0,0.0,Graduate
+13759,Informatics Engineering,daytime,19,male,0,0,1,1,137.0,5,9,5,14.0,Enrolled
+13760,Animation and Multimedia Design,daytime,19,male,1,0,1,1,156.3,0,0,0,0.0,Graduate
+13761,Nursing,daytime,18,female,0,0,1,1,126.5,8,8,8,13.76,Graduate
+13765,Communication Design,daytime,22,female,0,0,1,1,116.1,6,7,6,11.67,Graduate
+13768,Advertising and Marketing Management,daytime,26,male,0,1,1,0,110.0,5,5,0,0.0,Dropout
+13769,Advertising and Marketing Management,daytime,34,male,0,0,0,0,103.0,6,6,0,0.0,Dropout
+13772,Social Service,daytime,18,female,0,1,0,1,110.0,6,0,0,0.0,Dropout
+13775,Veterinary Nursing,daytime,18,female,0,0,1,0,130.6,5,12,5,12.8,Graduate
+13777,Tourism,daytime,19,female,0,1,0,1,137.7,6,14,1,10.0,Dropout
+13778,Nursing,daytime,19,female,1,0,1,0,120.2,7,9,5,14.06,Enrolled
+13779,Equinculture,daytime,37,female,0,0,1,0,100.0,6,0,0,0.0,Dropout
+13781,Communication Design,daytime,20,male,1,0,1,1,125.9,6,6,6,15.5,Graduate
+13782,Advertising and Marketing Management,daytime,18,female,0,0,1,1,118.3,6,7,6,12.33,Enrolled
+13784,Journalism and Communication,daytime,55,male,0,0,0,0,130.0,6,8,5,11.4,Dropout
+13786,Nursing,daytime,23,female,0,1,0,1,140.0,8,11,7,11.33,Dropout
+13789,Nursing,daytime,18,male,0,0,1,1,120.0,7,8,6,11.83,Enrolled
+13790,Communication Design,daytime,20,male,0,0,1,0,116.9,7,13,7,12.38,Dropout
+13791,Management (evening attendance),evening,32,female,0,0,1,0,113.7,5,5,5,10.2,Enrolled
+13792,Agronomy,daytime,19,female,0,0,1,0,140.0,6,18,3,11.67,Enrolled
+13796,Nursing,daytime,18,female,1,0,1,1,127.5,8,8,7,13.86,Graduate
+13797,Advertising and Marketing Management,daytime,26,male,0,0,1,1,107.0,5,5,0,0.0,Dropout
+13798,Social Service,daytime,40,female,0,1,1,0,120.0,6,13,2,10.0,Dropout
+13800,Nursing,daytime,20,female,1,0,1,1,131.5,8,8,8,13.38,Graduate
+13803,Agronomy,daytime,41,female,0,0,1,0,110.0,12,17,12,11.83,Graduate
+13804,Management,daytime,25,male,0,1,0,0,130.0,5,6,0,0.0,Dropout
+13805,Nursing,daytime,20,female,0,0,1,0,100.0,7,8,6,13.25,Enrolled
+13806,Veterinary Nursing,daytime,28,female,0,1,1,1,129.3,6,17,0,0.0,Enrolled
+13807,Journalism and Communication,daytime,20,female,0,0,0,1,141.0,6,10,4,12.0,Dropout
+13811,Social Service,daytime,18,male,0,0,1,1,128.8,6,10,5,11.6,Graduate
+13813,Tourism,daytime,26,male,0,0,1,0,98.0,6,6,0,0.0,Dropout
+13815,Veterinary Nursing,daytime,18,male,0,0,1,1,126.8,5,6,4,11.75,Graduate
+13818,Basic Education,daytime,19,female,1,0,1,1,126.9,7,7,7,13.29,Graduate
+13821,Journalism and Communication,daytime,18,female,1,0,1,0,146.5,6,7,6,13.43,Graduate
+13826,Management,daytime,70,male,0,1,0,0,116.4,5,5,0,0.0,Dropout
+13827,Journalism and Communication,daytime,18,female,0,0,0,1,157.0,6,0,0,0.0,Dropout
+13828,Nursing,daytime,32,female,0,0,1,1,130.0,7,16,4,13.62,Enrolled
+13829,Advertising and Marketing Management,daytime,18,male,1,0,1,0,126.4,6,7,6,12.29,Graduate
+13831,Animation and Multimedia Design,daytime,22,male,0,0,1,1,149.0,17,21,17,12.58,Graduate
+13832,Nursing,daytime,31,female,0,0,1,0,110.5,7,0,0,0.0,Dropout
+13833,Management,daytime,31,female,0,0,1,0,118.2,5,8,1,13.0,Dropout
+13834,Communication Design,daytime,21,female,1,0,1,0,135.9,6,8,6,12.57,Graduate
+13837,Veterinary Nursing,daytime,21,female,0,0,1,0,111.1,6,0,0,0.0,Dropout
+13839,Veterinary Nursing,daytime,19,female,0,0,1,1,123.9,6,13,4,11.8,Enrolled
+13848,Nursing,daytime,18,female,1,0,1,1,109.3,7,7,7,13.12,Graduate
+13849,Nursing,daytime,18,female,0,0,1,1,122.9,7,10,7,13.13,Graduate
+13850,Management (evening attendance),evening,20,female,0,0,1,1,118.4,5,10,0,0.0,Enrolled
+13851,Animation and Multimedia Design,daytime,22,female,0,0,1,1,121.6,12,12,12,12.92,Graduate
+13852,Social Service (evening attendance),evening,43,female,1,0,1,0,128.0,6,7,6,12.33,Graduate
+13857,Basic Education,daytime,28,female,0,1,0,0,107.7,6,0,0,0.0,Dropout
+13859,Social Service,daytime,19,female,1,0,1,1,127.3,6,8,6,14.0,Graduate
+13860,Oral Hygiene,daytime,27,female,0,0,1,0,110.2,7,9,7,12.23,Graduate
+13861,Animation and Multimedia Design,daytime,36,male,0,0,1,0,139.0,0,0,0,0.0,Dropout
+13863,Journalism and Communication,daytime,20,female,0,0,0,0,121.4,6,7,4,13.0,Dropout
+13864,Tourism,daytime,19,male,0,0,1,1,116.1,6,8,5,11.2,Graduate
+13866,Nursing,daytime,18,female,0,0,1,1,133.8,7,7,6,13.03,Graduate
+13868,Basic Education,daytime,19,female,0,0,1,1,146.0,6,11,3,10.33,Enrolled
+13870,Social Service,daytime,19,female,0,0,1,1,118.1,6,6,6,14.0,Graduate
+13872,Advertising and Marketing Management,daytime,18,female,0,0,1,1,127.0,6,10,6,12.25,Graduate
+13873,Animation and Multimedia Design,daytime,18,male,1,0,1,1,134.4,0,0,0,0.0,Graduate
+13875,Basic Education,daytime,20,female,0,0,1,1,115.3,7,8,6,13.5,Enrolled
+13877,Tourism,daytime,18,female,1,0,1,1,122.0,6,9,6,10.83,Enrolled
+13878,Management (evening attendance),evening,38,female,0,0,0,0,120.0,12,12,9,12.22,Dropout
+13879,Nursing,daytime,21,female,1,0,1,1,116.0,8,8,7,13.96,Graduate
+13881,Tourism,daytime,20,female,1,0,1,1,121.5,6,12,0,0.0,Dropout
+13883,Journalism and Communication,daytime,18,male,0,0,1,1,135.2,6,7,6,14.17,Graduate
+13886,Social Service,daytime,39,female,0,1,0,0,120.4,6,0,0,0.0,Dropout
+13887,Management (evening attendance),evening,40,male,0,0,0,1,120.0,5,10,2,10.5,Dropout
+13888,Agronomy,daytime,21,male,0,1,1,0,130.0,12,20,10,11.8,Enrolled
+13890,Nursing,daytime,19,female,1,0,1,1,126.3,7,7,6,15.43,Graduate
+13893,Management (evening attendance),evening,28,female,0,0,1,0,133.9,5,7,5,13.71,Graduate
+13894,Nursing,daytime,19,female,0,0,1,1,136.4,7,9,7,13.42,Graduate
+13896,Informatics Engineering,daytime,23,male,0,1,0,0,130.0,5,5,0,0.0,Dropout
+13897,Veterinary Nursing,daytime,22,female,0,0,1,1,126.2,5,14,4,14.25,Dropout
+13900,Social Service,daytime,19,female,1,0,1,0,133.5,6,6,6,15.0,Graduate
+13903,Basic Education,daytime,18,male,0,0,1,1,126.8,6,7,5,12.6,Enrolled
+13905,Tourism,daytime,18,female,0,0,1,1,110.8,6,8,6,12.17,Graduate
+13906,Tourism,daytime,28,male,0,0,1,0,122.3,6,10,6,13.0,Graduate
+13907,Informatics Engineering,daytime,24,male,1,0,1,0,134.0,5,8,5,11.83,Enrolled
+13909,Tourism,daytime,36,female,1,0,1,0,95.0,6,10,6,11.0,Graduate
+13911,Social Service,daytime,20,female,1,0,1,0,121.7,6,9,6,11.88,Graduate
+13913,Social Service (evening attendance),evening,35,female,1,0,1,0,134.0,8,8,8,13.62,Graduate
+13914,Management,daytime,20,female,0,0,1,0,113.4,5,11,3,10.33,Enrolled
+13920,Social Service (evening attendance),evening,48,female,1,0,1,0,119.0,6,7,6,10.67,Enrolled
+13921,Journalism and Communication,daytime,18,female,0,0,1,1,130.1,6,6,6,13.67,Graduate
+13923,Equinculture,daytime,20,male,0,0,1,1,110.0,6,15,4,10.75,Dropout
+13926,Agronomy,daytime,29,male,0,0,0,0,100.0,6,9,0,0.0,Dropout
+13927,Management (evening attendance),evening,55,male,0,0,0,1,119.0,5,5,0,0.0,Dropout
+13931,Management (evening attendance),evening,31,female,1,0,1,0,160.0,5,13,4,10.5,Enrolled
+13935,Nursing,daytime,19,female,1,0,1,0,125.8,8,12,7,12.47,Graduate
+13940,Journalism and Communication,daytime,18,female,1,0,1,1,130.6,6,6,6,13.5,Graduate
+13942,Journalism and Communication,daytime,20,female,1,0,1,1,121.8,6,11,4,14.0,Enrolled
+13945,Management,daytime,19,female,0,0,1,1,112.3,5,8,2,11.5,Enrolled
+13946,Journalism and Communication,daytime,18,female,0,1,0,1,129.5,6,9,5,12.2,Dropout
+13949,Social Service,daytime,18,female,0,0,1,1,122.6,6,9,5,11.83,Enrolled
+13952,Nursing,daytime,19,female,0,0,1,0,123.8,7,10,6,11.61,Graduate
+13953,Management,daytime,29,female,0,1,0,0,101.0,5,8,3,10.67,Dropout
+13954,Basic Education,daytime,19,female,1,0,1,1,122.5,6,7,6,14.0,Graduate
+13956,Management,daytime,19,female,0,0,1,1,121.7,5,8,5,11.0,Graduate
+13957,Agronomy,daytime,19,male,0,0,1,0,130.0,6,8,5,11.5,Enrolled
+13958,Animation and Multimedia Design,daytime,18,female,0,0,1,1,178.3,0,0,0,0.0,Dropout
+13960,Tourism,daytime,20,female,0,0,1,1,106.1,6,8,5,11.0,Graduate
+13961,Journalism and Communication,daytime,22,female,0,0,1,0,129.6,6,0,0,0.0,Dropout
+13963,Nursing,daytime,18,male,1,0,1,1,120.5,7,12,7,11.72,Graduate
+13964,Communication Design,daytime,19,female,1,0,1,1,128.0,6,6,6,14.0,Graduate
+13965,Nursing,daytime,18,female,1,0,1,1,124.0,8,8,7,14.31,Graduate
+13971,Animation and Multimedia Design,daytime,18,female,0,0,1,1,155.1,0,0,0,0.0,Graduate
+13978,Veterinary Nursing,daytime,22,male,0,0,1,0,130.0,5,8,3,13.0,Graduate
+13979,Veterinary Nursing,daytime,21,female,0,0,1,0,125.2,6,0,0,0.0,Dropout
+13984,Veterinary Nursing,daytime,20,female,0,0,1,0,140.0,6,7,6,14.29,Enrolled
+13986,Social Service,daytime,21,female,1,0,1,0,108.3,6,15,2,10.5,Enrolled
+13992,Animation and Multimedia Design,daytime,19,male,0,0,1,1,123.8,0,0,0,0.0,Dropout
+13996,Management,daytime,19,female,1,0,1,1,123.5,5,5,5,11.6,Enrolled
+13998,Nursing,daytime,19,female,0,0,1,1,127.8,8,10,6,13.78,Dropout
+13999,Advertising and Marketing Management,daytime,18,female,0,0,1,1,114.2,6,9,4,13.2,Graduate
+14000,Social Service,daytime,18,female,1,0,1,1,130.2,6,8,6,12.75,Graduate
+14001,Advertising and Marketing Management,daytime,19,male,0,0,1,0,108.0,5,10,0,0.0,Enrolled
+14006,Management,daytime,61,male,0,0,1,0,135.1,5,0,0,0.0,Dropout
+14009,Animation and Multimedia Design,daytime,19,male,0,0,1,1,144.2,0,0,0,0.0,Graduate
+14010,Agronomy,daytime,43,female,0,0,1,0,160.0,6,8,6,14.17,Graduate
+14011,Management,daytime,25,female,0,0,0,0,122.7,5,5,0,0.0,Dropout
+14012,Advertising and Marketing Management,daytime,20,female,0,1,1,0,100.0,6,12,5,12.2,Enrolled
+14013,Management,daytime,19,female,1,0,1,0,117.8,5,6,4,11.0,Enrolled
+14014,Social Service,daytime,19,female,0,0,1,1,132.7,6,7,6,11.17,Graduate
+14016,Social Service (evening attendance),evening,32,female,0,0,1,0,142.4,6,0,0,0.0,Dropout
+14017,Nursing,daytime,19,female,0,0,1,1,127.8,7,7,6,14.98,Graduate
+14018,Management,daytime,28,male,0,0,1,0,111.0,5,9,2,10.0,Dropout
+14023,Tourism,daytime,18,female,0,0,1,1,117.5,6,7,6,10.57,Graduate
+14027,Equinculture,daytime,19,female,0,0,1,1,129.3,5,5,5,11.8,Graduate
+14033,Veterinary Nursing,daytime,18,female,0,0,1,1,144.5,6,7,6,15.67,Graduate
+14034,Social Service (evening attendance),evening,47,male,0,0,1,0,161.1,6,9,6,12.14,Dropout
+14035,Journalism and Communication,daytime,19,female,1,0,1,0,126.0,6,6,6,12.5,Graduate
+14037,Oral Hygiene,daytime,19,female,0,0,1,0,123.9,7,9,7,12.16,Graduate
+14040,Oral Hygiene,daytime,20,female,1,0,1,1,116.3,7,10,7,11.89,Graduate
+14043,Management,daytime,23,female,0,0,1,0,151.3,5,8,3,10.67,Graduate
+14044,Management (evening attendance),evening,50,male,0,1,1,0,114.8,5,10,5,11.86,Graduate
+14046,Journalism and Communication,daytime,18,female,0,0,1,1,139.8,6,10,6,12.57,Enrolled
+14047,Veterinary Nursing,daytime,20,female,0,0,1,1,125.4,6,13,6,15.69,Graduate
+14048,Equinculture,daytime,18,female,0,0,1,0,163.0,6,0,0,0.0,Dropout
+14050,Communication Design,daytime,23,female,1,0,1,0,120.0,6,6,6,15.33,Graduate
+14052,Social Service,daytime,20,female,1,0,1,1,113.0,6,7,6,11.71,Graduate
+14053,Social Service (evening attendance),evening,20,female,0,0,1,0,100.0,6,10,5,12.0,Enrolled
+14056,Journalism and Communication,daytime,18,female,0,0,1,1,123.2,6,12,1,11.0,Enrolled
+14058,Management,daytime,18,female,1,0,1,0,152.0,5,5,5,14.6,Graduate
+14060,Journalism and Communication,daytime,19,female,0,0,1,0,118.2,6,6,6,11.67,Graduate
+14061,Communication Design,daytime,19,male,1,0,1,1,133.4,6,6,4,13.0,Enrolled
+14062,Journalism and Communication,daytime,21,female,0,0,1,0,117.0,6,8,5,11.8,Enrolled
+14064,Agronomy,daytime,20,male,0,0,1,0,150.0,6,6,0,0.0,Dropout
+14066,Veterinary Nursing,daytime,21,female,0,1,0,0,138.2,10,15,8,13.75,Dropout
+14068,Veterinary Nursing,daytime,18,female,0,0,1,0,124.1,5,12,5,14.5,Graduate
+14069,Agronomy,daytime,21,male,0,1,1,1,170.0,6,7,6,15.29,Graduate
+14070,Advertising and Marketing Management,daytime,18,female,1,0,1,0,132.6,6,8,6,14.0,Graduate
+14071,Nursing,daytime,28,male,0,0,1,0,100.0,7,11,3,11.92,Dropout
+14072,Veterinary Nursing,daytime,19,female,0,0,1,1,133.4,6,7,6,16.0,Graduate
+14076,Advertising and Marketing Management,daytime,19,female,1,0,1,1,115.2,6,10,0,0.0,Dropout
+14077,Management (evening attendance),evening,47,male,0,0,0,0,107.0,5,5,0,0.0,Dropout
+14078,Veterinary Nursing,daytime,21,female,0,0,0,0,124.2,5,8,2,11.5,Dropout
+14081,Management,daytime,43,male,0,0,1,0,110.0,5,14,0,0.0,Dropout
+14088,Informatics Engineering,daytime,27,male,0,0,1,0,130.0,6,6,6,13.17,Dropout
+14092,Advertising and Marketing Management,daytime,25,male,1,0,1,0,140.0,6,8,6,12.29,Graduate
+14094,Animation and Multimedia Design,daytime,22,female,0,0,1,0,128.2,17,22,17,10.37,Graduate
+14096,Nursing,daytime,18,female,0,0,1,1,134.8,7,7,6,14.02,Graduate
+14098,Nursing,daytime,18,male,0,0,1,0,143.0,8,8,7,13.4,Graduate
+14099,Nursing,daytime,19,male,0,1,1,1,119.7,7,8,7,13.08,Graduate
+14100,Nursing,daytime,20,female,1,0,1,1,120.8,8,8,7,12.74,Graduate
+14101,Social Service,daytime,19,female,1,0,1,0,110.0,6,8,6,11.43,Graduate
+14102,Informatics Engineering,daytime,19,male,0,0,1,1,106.5,5,10,3,10.5,Dropout
+14104,Basic Education,daytime,22,female,0,0,1,1,132.5,6,9,4,12.25,Enrolled
+14106,Animation and Multimedia Design,daytime,18,female,0,1,0,1,137.9,0,0,0,0.0,Dropout
+14107,Veterinary Nursing,daytime,19,female,0,0,1,0,129.9,5,11,4,13.6,Graduate
+14108,Social Service (evening attendance),evening,24,female,0,0,1,0,136.1,6,7,6,12.83,Graduate
+14109,Animation and Multimedia Design,daytime,22,male,0,0,1,1,120.5,0,0,0,0.0,Graduate
+14110,Agronomy,daytime,24,male,0,0,0,0,120.0,6,0,0,0.0,Dropout
+14111,Animation and Multimedia Design,daytime,19,female,0,0,1,1,113.9,0,0,0,0.0,Dropout
+14112,Nursing,daytime,20,female,1,0,1,1,107.8,7,10,5,14.46,Enrolled
+14115,Veterinary Nursing,daytime,19,female,0,0,1,1,123.3,5,15,3,14.0,Enrolled
+14122,Equinculture,daytime,26,female,0,0,1,0,100.0,6,7,2,12.0,Dropout
+14123,Journalism and Communication,daytime,22,female,0,0,1,1,152.0,6,8,6,11.67,Graduate
+14124,Agronomy,daytime,39,female,0,0,1,0,100.7,6,15,2,13.0,Enrolled
+14126,Social Service,daytime,18,female,0,0,1,1,137.4,6,10,1,12.0,Enrolled
+14129,Nursing,daytime,28,female,0,0,1,0,115.0,7,8,7,14.95,Graduate
+14131,Basic Education,daytime,19,female,0,0,1,1,120.3,6,0,0,0.0,Dropout
+14134,Informatics Engineering,daytime,18,male,0,0,1,1,121.8,5,9,4,12.0,Enrolled
+14135,Tourism,daytime,20,female,0,0,0,1,106.1,6,0,0,0.0,Dropout
+14136,Nursing,daytime,32,female,0,0,1,0,130.0,7,9,7,13.76,Enrolled
+14138,Communication Design,daytime,18,female,1,1,0,1,123.8,6,6,6,11.83,Dropout
+14139,Management,daytime,19,female,0,1,1,0,122.4,5,10,5,10.88,Graduate
+14142,Nursing,daytime,32,male,0,0,1,0,126.0,7,7,7,13.63,Graduate
+14143,Social Service (evening attendance),evening,24,female,0,0,1,1,110.0,6,10,1,10.0,Dropout
+14144,Nursing,daytime,18,female,0,0,1,1,124.8,8,8,7,13.41,Dropout
+14146,Informatics Engineering,daytime,18,male,0,1,1,1,130.4,5,10,1,12.0,Dropout
+14147,Journalism and Communication,daytime,21,female,1,0,1,1,111.6,6,6,6,12.5,Graduate
+14151,Nursing,daytime,20,male,0,0,1,0,115.7,7,9,5,12.7,Enrolled
+14155,Nursing,daytime,19,female,0,0,1,1,131.5,8,8,7,13.93,Graduate
+14157,Tourism,daytime,18,female,1,0,1,1,128.5,6,14,2,11.0,Dropout
+14159,Nursing,daytime,27,female,0,0,1,1,190.0,7,7,7,14.76,Graduate
+14160,Management,daytime,55,female,0,0,1,0,122.9,5,10,1,10.0,Dropout
+14162,Management (evening attendance),evening,44,female,0,0,1,0,160.0,5,5,5,11.8,Graduate
+14163,Nursing,daytime,18,female,0,0,1,0,134.8,8,8,8,14.44,Graduate
+14166,Journalism and Communication,daytime,19,female,0,1,0,1,118.1,6,8,5,12.2,Dropout
+14169,Management,daytime,22,female,0,0,1,1,117.9,5,8,1,10.0,Dropout
+14170,Agronomy,daytime,35,male,0,0,0,0,140.0,6,10,5,15.2,Dropout
+14172,Social Service,daytime,18,female,0,0,1,0,114.2,6,13,4,11.0,Graduate
+14173,Animation and Multimedia Design,daytime,23,male,0,1,1,1,127.2,17,19,13,12.15,Enrolled
+14175,Management,daytime,19,male,0,1,1,0,140.0,5,12,3,10.5,Graduate
+14177,Management,daytime,19,female,1,1,0,1,142.8,5,5,5,12.8,Enrolled
+14179,Management (evening attendance),evening,22,male,0,0,1,0,106.4,5,0,0,0.0,Dropout
+14182,Social Service (evening attendance),evening,49,female,0,0,1,0,106.8,6,9,5,12.33,Enrolled
+14183,Informatics Engineering,daytime,40,male,0,0,0,0,120.0,5,7,1,13.0,Dropout
+14190,Advertising and Marketing Management,daytime,19,male,0,0,0,1,128.4,5,5,0,0.0,Dropout
+14191,Social Service,daytime,23,female,0,1,0,0,128.3,9,12,7,13.57,Dropout
+14195,Communication Design,daytime,21,male,0,0,1,0,119.8,7,7,2,12.0,Dropout
+14197,Nursing,daytime,18,female,0,0,1,0,131.6,7,8,6,13.96,Graduate
+14198,Basic Education,daytime,18,female,0,0,1,1,124.6,7,7,6,11.67,Enrolled
+14203,Animation and Multimedia Design,daytime,18,female,1,0,1,1,152.9,0,0,0,0.0,Graduate
+14204,Nursing,daytime,18,female,0,0,1,0,125.5,8,10,8,12.86,Graduate
+14205,Nursing,daytime,19,female,0,0,1,1,123.0,7,10,5,13.44,Enrolled
+14210,Agronomy,daytime,21,male,0,0,1,1,150.0,6,12,5,13.62,Graduate
+14211,Management,daytime,29,female,0,0,0,0,96.0,5,7,3,12.33,Dropout
+14215,Management,daytime,18,female,0,0,1,0,146.7,5,5,5,16.2,Graduate
+14218,Basic Education,daytime,18,female,0,0,1,1,121.4,7,8,7,11.57,Dropout
+14220,Tourism,daytime,19,female,0,0,1,1,116.1,6,6,6,13.5,Graduate
+14221,Informatics Engineering,daytime,35,male,0,0,1,1,128.2,10,12,7,11.29,Dropout
+14223,Nursing,daytime,18,female,0,0,1,1,131.8,8,8,7,14.65,Graduate
+14226,Nursing,daytime,20,female,1,0,1,1,116.5,7,10,7,12.62,Graduate
+14228,Veterinary Nursing,daytime,19,female,0,0,1,0,126.0,5,7,3,12.33,Enrolled
+14230,Social Service,daytime,19,female,1,0,1,0,123.3,6,8,6,11.5,Graduate
+14234,Communication Design,daytime,18,female,0,0,1,1,138.1,6,6,6,12.67,Graduate
+14236,Nursing,daytime,18,female,1,0,1,1,117.1,7,7,7,14.57,Graduate
+14240,Agronomy,daytime,44,male,0,0,0,0,100.0,10,10,4,11.5,Dropout
+14242,Journalism and Communication,daytime,19,female,1,0,1,1,129.0,6,7,6,14.0,Dropout
+14245,Veterinary Nursing,daytime,20,female,1,0,1,1,133.0,6,8,6,15.14,Graduate
+14249,Management,daytime,26,female,0,0,1,1,129.2,5,6,0,0.0,Dropout
+14250,Social Service (evening attendance),evening,38,female,1,0,1,0,126.0,9,13,8,12.89,Graduate
+14251,Social Service,daytime,20,female,1,0,1,1,129.7,6,6,6,12.33,Graduate
+14252,Nursing,daytime,19,female,1,0,1,1,132.8,8,8,7,13.51,Graduate
+14254,Social Service,daytime,19,female,1,0,1,1,127.3,6,8,4,11.25,Graduate
+14255,Agronomy,daytime,21,female,0,0,1,1,125.3,18,22,18,11.89,Graduate
+14256,Agronomy,daytime,23,male,0,0,1,0,120.0,6,6,1,11.0,Dropout
+14260,Communication Design,daytime,23,male,0,0,1,1,120.0,7,8,5,12.2,Dropout
+14261,Nursing,daytime,28,female,0,0,1,0,140.0,7,0,0,0.0,Dropout
+14263,Agronomy,daytime,60,female,0,0,1,0,100.0,6,10,6,12.75,Graduate
+14264,Equinculture,daytime,18,male,0,0,1,0,149.2,5,7,4,14.0,Graduate
+14267,Journalism and Communication,daytime,18,female,0,0,1,1,134.2,6,6,6,13.17,Dropout
+14271,Agronomy,daytime,20,male,0,0,1,1,160.0,6,7,6,14.0,Graduate
+14274,Agronomy,daytime,21,male,0,1,1,0,115.0,12,13,12,14.54,Graduate
+14276,Journalism and Communication,daytime,18,female,0,0,1,1,115.9,6,6,6,13.0,Graduate
+14277,Management (evening attendance),evening,26,female,0,0,1,0,140.0,5,5,5,14.0,Graduate
+14278,Agronomy,daytime,30,male,0,0,1,0,120.0,6,10,6,11.38,Graduate
+14279,Communication Design,daytime,20,female,1,0,1,1,153.1,6,6,6,12.5,Enrolled
+14280,Agronomy,daytime,22,male,1,0,1,0,160.0,6,8,6,13.12,Graduate
+14287,Management,daytime,18,female,0,0,1,1,124.4,5,5,5,12.6,Enrolled
+14290,Nursing,daytime,19,female,0,0,1,1,113.1,7,7,7,13.8,Graduate
+14292,Informatics Engineering,daytime,20,male,0,0,1,0,130.0,5,12,1,13.0,Enrolled
+14294,Management (evening attendance),evening,24,male,0,1,1,0,128.2,10,15,7,10.71,Enrolled
+14296,Management,daytime,23,female,0,0,1,0,128.2,11,18,11,15.09,Dropout
+14299,Management (evening attendance),evening,30,male,0,0,1,0,138.4,5,7,3,11.67,Dropout
+14300,Social Service,daytime,18,female,1,0,1,1,121.8,6,7,5,10.2,Graduate
+14301,Management,daytime,20,male,1,0,1,1,109.5,5,6,5,11.8,Graduate
+14308,Basic Education,daytime,39,female,0,0,1,0,115.5,6,12,3,12.67,Dropout
+14309,Informatics Engineering,daytime,18,male,0,0,1,0,119.5,5,6,1,10.0,Dropout
+14311,Agronomy,daytime,25,female,0,0,1,0,120.0,6,6,0,0.0,Dropout
+14313,Veterinary Nursing,daytime,19,female,1,0,1,1,123.4,5,8,5,13.17,Graduate
+14316,Journalism and Communication,daytime,18,female,0,0,1,0,125.3,6,9,6,12.5,Graduate
+14318,Equinculture,daytime,19,female,0,1,0,1,105.5,6,0,0,0.0,Dropout
+14320,Social Service (evening attendance),evening,23,female,0,0,1,0,134.7,13,15,9,11.0,Enrolled
+14321,Management,daytime,22,male,0,0,1,1,131.4,5,8,2,10.0,Dropout
+14323,Informatics Engineering,daytime,31,male,0,1,0,0,120.0,4,4,0,0.0,Dropout
+14326,Informatics Engineering,daytime,23,male,0,0,1,0,140.0,7,12,3,14.0,Enrolled
+14327,Nursing,daytime,19,female,1,0,1,1,121.3,8,10,6,11.83,Enrolled
+14329,Advertising and Marketing Management,daytime,21,male,0,1,1,0,111.0,11,12,10,12.1,Graduate
+14330,Nursing,daytime,18,female,0,0,1,0,140.8,8,8,7,15.7,Graduate
+14331,Veterinary Nursing,daytime,20,female,0,0,1,1,140.0,6,11,5,14.2,Enrolled
+14333,Equinculture,daytime,18,male,0,0,1,0,126.0,5,7,3,13.67,Graduate
+14336,Nursing,daytime,18,female,0,0,1,1,126.3,8,8,7,13.33,Graduate
+14338,Veterinary Nursing,daytime,20,female,1,1,0,0,166.6,5,8,5,14.4,Dropout
+14339,Informatics Engineering,daytime,18,male,0,0,1,1,123.2,5,5,5,13.6,Graduate
+14342,Informatics Engineering,daytime,18,male,0,0,1,1,133.1,5,8,4,12.5,Enrolled
+14343,Basic Education,daytime,18,female,0,0,1,1,108.8,7,11,5,11.4,Enrolled
+14344,Management (evening attendance),evening,32,male,1,0,1,0,141.0,10,12,10,13.8,Graduate
+14345,Agronomy,daytime,35,male,0,0,0,1,113.0,6,17,1,13.0,Dropout
+14347,Nursing,daytime,19,female,1,0,1,1,141.0,8,8,7,12.49,Graduate
+14349,Advertising and Marketing Management,daytime,18,female,0,0,0,1,111.1,6,6,6,12.33,Graduate
+14350,Nursing,daytime,18,female,0,0,1,1,125.1,7,11,7,13.37,Graduate
+14351,Nursing,daytime,19,female,0,1,0,1,111.5,7,10,4,11.96,Dropout
+14362,Nursing,daytime,38,female,0,0,1,0,103.7,8,12,5,13.13,Enrolled
+14365,Nursing,daytime,20,male,1,0,1,1,115.5,8,8,7,13.02,Graduate
+14366,Journalism and Communication,daytime,19,male,0,0,1,1,136.1,6,9,5,11.4,Enrolled
+14367,Social Service,daytime,19,female,1,1,1,1,124.2,6,6,6,12.83,Graduate
+14370,Veterinary Nursing,daytime,21,female,0,0,1,1,118.4,5,13,3,11.33,Enrolled
+14375,Veterinary Nursing,daytime,27,male,0,1,0,0,128.2,5,5,0,0.0,Dropout
+14376,Oral Hygiene,daytime,36,female,0,0,1,0,115.5,7,13,5,12.2,Dropout
+14378,Basic Education,daytime,19,female,1,0,1,1,113.9,6,8,6,12.67,Graduate
+14380,Agronomy,daytime,21,male,0,0,0,1,140.0,6,17,2,12.5,Dropout
+14381,Informatics Engineering,daytime,18,male,0,0,1,0,116.9,5,9,1,13.0,Dropout
+14382,Management,daytime,34,female,0,0,0,1,119.9,5,5,0,0.0,Dropout
+14384,Nursing,daytime,18,female,0,0,1,1,127.0,7,7,7,14.42,Graduate
+14386,Journalism and Communication,daytime,18,female,0,0,0,1,154.4,6,8,5,12.0,Dropout
+14387,Animation and Multimedia Design,daytime,19,male,0,1,1,0,143.6,12,12,10,12.7,Enrolled
+14389,Animation and Multimedia Design,daytime,19,male,0,0,1,1,151.1,0,0,0,0.0,Graduate
+14392,Social Service,daytime,18,male,0,0,1,1,136.3,6,8,6,12.5,Graduate
+14394,Nursing,daytime,19,male,1,0,1,1,124.8,7,11,6,12.41,Graduate
+14397,Social Service,daytime,19,female,1,0,1,1,95.0,6,12,6,11.67,Dropout
+14398,Equinculture,daytime,19,female,1,1,1,1,121.6,5,7,0,0.0,Dropout
+14399,Social Service (evening attendance),evening,19,female,1,0,1,1,111.8,6,8,6,10.83,Graduate
+14400,Nursing,daytime,20,male,0,0,1,0,118.3,8,12,5,12.0,Dropout
+14402,Journalism and Communication,daytime,19,female,0,0,1,1,142.0,6,8,6,12.67,Graduate
+14403,Journalism and Communication,daytime,19,female,0,0,1,1,135.8,6,6,6,15.0,Graduate
+14404,Journalism and Communication,daytime,20,female,0,1,0,1,115.0,6,0,0,0.0,Dropout
+14405,Animation and Multimedia Design,daytime,26,female,0,0,0,0,108.3,9,9,4,11.25,Dropout
+14406,Nursing,daytime,18,female,0,0,1,1,125.5,8,12,7,12.86,Graduate
+14407,Journalism and Communication,daytime,26,male,0,0,0,1,107.4,6,12,3,12.0,Dropout
+14408,Management,daytime,18,male,0,1,1,1,115.5,5,8,3,10.33,Dropout
+14409,Communication Design,daytime,24,female,0,0,1,1,110.0,6,6,6,15.17,Graduate
+14410,Management,daytime,52,female,0,0,1,0,110.0,15,26,14,10.47,Graduate
+14411,Equinculture,daytime,24,male,0,1,1,0,110.0,5,13,2,12.5,Dropout
+14412,Communication Design,daytime,22,female,1,0,1,0,131.8,6,7,6,12.17,Graduate
+14414,Management (evening attendance),evening,28,female,1,0,1,1,150.0,5,7,5,10.6,Enrolled
+14417,Journalism and Communication,daytime,20,male,0,0,1,0,130.8,6,15,2,12.0,Dropout
+14422,Agronomy,daytime,19,male,0,0,1,1,140.0,6,8,6,12.71,Graduate
